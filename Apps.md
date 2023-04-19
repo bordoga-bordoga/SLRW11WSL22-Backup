@@ -1,6 +1,6 @@
 # Applications
 
-### [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) <sub><sup>by [Adobe Inc.](https://www.adobe.com) – (2021-09, 22.5.1)</sup></sub>
+### [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> <sub><sub><sup>by [Adobe Inc.](https://www.adobe.com) – (2021-09, 22.5.1)</sup></sub></sub>
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) 
 
