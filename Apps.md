@@ -4,17 +4,15 @@
 <div><h6 style="margin-top: 0;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> <i>by <a href="https://www.adobe.com">Adobe Inc.</a></i> – (2021-09, 22.5.1)</h6></div>
 Adobe Photoshop is a raster graphics editor used for image editing, graphic design, and digital art.
 
-#### Features:
-• Layer-based editing
-
-⬩ Advanced photo manipulation tools
-
-⬦ Extensive plugin support
-
-##### Some Extensions:
-- Camera Raw
-- Nik Collection
-- Portraiture
+> #### Features:
+> ⬩ Layer-based editing
+> ⬩ Advanced photo manipulation tools
+> ⬩ Extensive plugin support
+> 
+> ##### Some Extensions:
+> - Camera Raw
+> - Nik Collection
+> - Portraiture
 
 [Full plugins/extensions/themes list](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity)
 
