@@ -1,7 +1,7 @@
 ## Applications
 
-##### [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) (2021-09, 22.5.1)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop Logo" width="20"> *by [Adobe Inc.](https://www.adobe.com)*
+##### [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop Logo" width="25"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, 22.5.1)
 
 > Adobe Photoshop is a raster graphics editor used for image editing, graphic design, and digital art.
 > 
@@ -9,8 +9,8 @@
 > - Layer-based editing
 > - Advanced photo manipulation tools
 > - Extensive plugin support
-
-##### App-specific plugins/extensions/themes (sneak peek):
+> 
+> ##### App-specific plugins/extensions/themes (sneak peek):
 > > - Camera Raw
 > > - Nik Collection
 > > - Portraiture
