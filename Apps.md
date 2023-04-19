@@ -1,5 +1,7 @@
 # Applications
 
+### [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) <sub><sup>by [Adobe Inc.](https://www.adobe.com) – (2021-09, 22.5.1)</sup></sub>
+
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) 
 
 ###### by [Adobe Inc.](https://www.adobe.com) – (2021-09, 22.5.1)
