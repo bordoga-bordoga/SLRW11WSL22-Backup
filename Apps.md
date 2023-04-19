@@ -10,12 +10,12 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 - Advanced photo manipulation tools
 - Extensive plugin support
 
-> #### App-specific plugins/extensions/themes (sneak peek):
-> - Camera Raw
-> - Nik Collection
-> - Portraiture
-> 
-> [Full plugins/extensions/themes list](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity)
+#### Some Extensions:
+- Camera Raw
+- Nik Collection
+- Portraiture
+
+[Full plugins/extensions/themes list](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity)
 
 ---
 
