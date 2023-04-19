@@ -5,7 +5,7 @@
 Adobe Photoshop is a raster graphics editor used for image editing, graphic design, and digital art.
 
 #### Features:
-- Layer-based editing
+• Layer-based editing
 - Advanced photo manipulation tools
 - Extensive plugin support
 
