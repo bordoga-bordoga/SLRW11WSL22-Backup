@@ -15,13 +15,7 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 - Portraiture
 
 [Full plugins/extensions/themes list](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity)
-___
 
-or
-
----
-
-<hr>
 
 ##### [Blender](https://www.blender.org/) (2021-09, 2.93.5)
 ![Blender Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1024px-Blender_logo_no_text.svg.png) *by [Blender Foundation](https://www.blender.org/foundation/)*
