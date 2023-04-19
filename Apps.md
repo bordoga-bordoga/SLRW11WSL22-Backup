@@ -12,7 +12,7 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 > 
 > ⬩ Extensive plugin support
 > 
-> > ##### Some Extensions:
+> #### Some Extensions:
 > > • Camera Raw
 > > • Nik Collection
 > > • Portraiture
