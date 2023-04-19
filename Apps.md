@@ -1,9 +1,10 @@
 # Applications
 
-### [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) 
-###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, 22.5.1)
+<div><h3 style="margin-bottom: -10px;"><a href="https://www.adobe.com/products/photoshop.html">Adobe Photoshop</a></h3></div>
+<p style="margin-top: 0;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> <i>by <a href="https://www.adobe.com">Adobe Inc.</a></i> – (2021-09, 22.5.1)</p>
+Adobe Photoshop is a raster graphics editor used for image editing, graphic design, and digital art.
 
-> Adobe Photoshop is a raster graphics editor used for image editing, graphic design, and digital art.
+
 
 #### Features:
 - Layer-based editing
