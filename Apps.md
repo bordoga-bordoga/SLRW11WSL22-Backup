@@ -17,7 +17,7 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 > - Nik Collection
 > - Portraiture
 > 
-> [Full plugins/extensions/themes list](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity)
+> > [Full plugins/extensions/themes list](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity)
 
 ———
 
