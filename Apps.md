@@ -17,10 +17,10 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 > - Extensive plugin support
 > 
 > #### App-specific plugins/extensions/themes:
-> > - Camera Raw
-> > - Nik Collection
-> > - Portraiture
-> > - ···
+> > - [Camera Raw](https://example.com/)
+> > - [Nik Collectio](https://example.com/)n
+> > - [Portraiture](https://example.com/)
+> > - [`···`](https://example.com/)
 > > 
 > > [Full plugins/extensions/themes list](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity)
 
@@ -37,12 +37,10 @@ Blender is a free and open-source 3D computer graphics software used for creatin
 - Rendering
 
 > #### ⠀⠀App-specific plugins/extensions/themes:
-> - `Animation Nodes`
-> - `RetopoFlow`
-> - [`MantaFlow`](https://www.adobe.com/products/photoshop.html)
-> - `···`
-> 
-> [Full plugins/extensions/themes list](https://blendermarket.com/categories/blender?sortBy=popular)
+> - [`Animation Nodes`](https://example.com/)
+> - [`RetopoFlow`](https://example.com/)
+> - [`MantaFlow`](https://example.com/)
+> - [`···`](https://example.com/)
 
 ## [Spotify](https://www.spotify.com/)
 
@@ -57,9 +55,9 @@ Spotify is a digital music, podcast, and video streaming service that provides a
 > - Social listening and sharing
 > 
 > #### App-specific plugins/extensions/themes:
-> > - Equalify Pro
-> > - Musixmatch Lyrics
-> > - Web Scrobbler
-> > - ···
+> > - [Equalify Pro](https://example.com/)
+> > - [Musixmatch Lyrics](https://example.com/)
+> > - [Web Scrobbler](https://example.com/)
+> > - [`···`](https://example.com/)
 > > 
 > > [Full plugins/extensions/themes list](https://community.spotify.com/t5/Spotify-Ideas/ct-p/newideas)
