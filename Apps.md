@@ -1,4 +1,9 @@
-# Applications
+# APPLICATIONS
+
+# Table of Contents
+1. [Adobe Photoshop](#adobe-photoshop)
+2. [Blender](#blender)
+3. [Spotify](#spotify)
 
 ## [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 
