@@ -1,6 +1,6 @@
 # Applications
 
-### [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+## [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v22.5.1)
 
@@ -24,7 +24,7 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 
 ———
 
-### [Blender](https://www.blender.org/) 
+## [Blender](https://www.blender.org/) 
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1024px-Blender_logo_no_text.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> *by [Blender Foundation](https://www.blender.org/foundation/)* – (2021-09, 2.93.5)
 
@@ -45,7 +45,7 @@ Blender is a free and open-source 3D computer graphics software used for creatin
 
 ———
 
-### [Spotify](https://www.spotify.com/)
+## [Spotify](https://www.spotify.com/)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> *by [Spotify Ltd.](https://www.spotify.com)* – (2021-09, 1.1.68)
 
