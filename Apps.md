@@ -43,6 +43,8 @@ Blender is a free and open-source 3D computer graphics software used for creatin
 
 ———
 
+### [Spotify](https://www.spotify.com/)
+
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> *by [Spotify Ltd.](https://www.spotify.com)* – (2021-09, 1.1.68)
 
 Spotify is a digital music, podcast, and video streaming service that provides access to millions of songs and other content from artists all over the world.
