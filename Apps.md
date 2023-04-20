@@ -20,7 +20,7 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 > > - [`Camera Raw`](https://example.com/)
 > > - [`Nik Collection`](https://example.com/)
 > > - [`Portraiture`](https://example.com/)
-> > - [`···`]([https://example.com/](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity))
+> > - [`···`](https://example.com/)
 
 ## [Blender](https://www.blender.org/) 
 
@@ -56,4 +56,4 @@ Spotify is a digital music, podcast, and video streaming service that provides a
 > > - [`Equalify Pro`](https://example.com/)
 > > - [`Musixmatch Lyrics`](https://example.com/)
 > > - [`Web Scrobbler`](https://example.com/)
-> > - [`···`]([https://example.com/](https://community.spotify.com/t5/Spotify-Ideas/ct-p/newideas))
+> > - [`···`](https://example.com/)
