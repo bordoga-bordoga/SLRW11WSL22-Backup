@@ -17,9 +17,9 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 > - Extensive plugin support
 > 
 > #### App-specific plugins/extensions/themes:
-> > - [Camera Raw](https://example.com/)
-> > - [Nik Collectio](https://example.com/)n
-> > - [Portraiture](https://example.com/)
+> > - [`Camera Raw`](https://example.com/)
+> > - [`Nik Collection`](https://example.com/)
+> > - [`Portraiture`](https://example.com/)
 > > - [`···`](https://example.com/)
 > > 
 > > [Full plugins/extensions/themes list](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity)
@@ -55,9 +55,9 @@ Spotify is a digital music, podcast, and video streaming service that provides a
 > - Social listening and sharing
 > 
 > #### App-specific plugins/extensions/themes:
-> > - [Equalify Pro](https://example.com/)
-> > - [Musixmatch Lyrics](https://example.com/)
-> > - [Web Scrobbler](https://example.com/)
+> > - [`Equalify Pro`](https://example.com/)
+> > - [`Musixmatch Lyrics`](https://example.com/)
+> > - [`Web Scrobbler`](https://example.com/)
 > > - [`···`](https://example.com/)
 > > 
 > > [Full plugins/extensions/themes list](https://community.spotify.com/t5/Spotify-Ideas/ct-p/newideas)
