@@ -48,16 +48,16 @@ Blender is a free and open-source 3D computer graphics software used for creatin
 
 Spotify is a digital music, podcast, and video streaming service that provides access to millions of songs and other content from artists all over the world.
 
-> #### Features:
-> - Personalized playlists
-> - Cross-platform listening
-> - Podcasts and audiobooks
-> - Social listening and sharing
-> 
-> #### App-specific plugins/extensions/themes:
-> > - [`Equalify Pro`](https://example.com/)
-> > - [`Musixmatch Lyrics`](https://example.com/)
-> > - [`Web Scrobbler`](https://example.com/)
-> > - [`···`](https://example.com/)
-> > 
-> > [Full plugins/extensions/themes list](https://community.spotify.com/t5/Spotify-Ideas/ct-p/newideas)
+#### Features:
+- Personalized playlists
+- Cross-platform listening
+- Podcasts and audiobooks
+- Social listening and sharing
+
+#### App-specific plugins/extensions/themes:
+- [`Equalify Pro`](https://example.com/)
+- [`Musixmatch Lyrics`](https://example.com/)
+- [`Web Scrobbler`](https://example.com/)
+- [`···`](https://example.com/)
+
+[Full plugins/extensions/themes list](https://community.spotify.com/t5/Spotify-Ideas/ct-p/newideas)
