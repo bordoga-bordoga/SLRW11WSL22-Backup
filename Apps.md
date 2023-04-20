@@ -20,9 +20,7 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 > > - [`Camera Raw`](https://example.com/)
 > > - [`Nik Collection`](https://example.com/)
 > > - [`Portraiture`](https://example.com/)
-> > - [`···`](https://example.com/)
-> > 
-> > [Full plugins/extensions/themes list](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity)
+> > - [`···`]([https://example.com/](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity))
 
 ## [Blender](https://www.blender.org/) 
 
@@ -30,17 +28,17 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 
 Blender is a free and open-source 3D computer graphics software used for creating animated films, visual effects, art, 3D printed models, and video games.
 
-#### ⠀⠀Features:
-- 3D modeling
-- Sculpting
-- Animation and rigging
-- Rendering
-
-#### ⠀⠀App-specific plugins/extensions/themes:
-> - [`Animation Nodes`](https://example.com/)
-> - [`RetopoFlow`](https://example.com/)
-> - [`MantaFlow`](https://example.com/)
-> - [`···`](https://example.com/)
+> #### Features:
+> - 3D modeling
+> - Sculpting
+> - Animation and rigging
+> - Rendering
+> 
+> > #### App-specific plugins/extensions/themes:
+> > - [`Animation Nodes`](https://example.com/)
+> > - [`RetopoFlow`](https://example.com/)
+> > - [`MantaFlow`](https://example.com/)
+> > - [`···`](https://example.com/)
 
 ## [Spotify](https://www.spotify.com/)
 
@@ -48,16 +46,14 @@ Blender is a free and open-source 3D computer graphics software used for creatin
 
 Spotify is a digital music, podcast, and video streaming service that provides access to millions of songs and other content from artists all over the world.
 
-#### ⠀⠀Features:
-- Personalized playlists
-- Cross-platform listening
-- Podcasts and audiobooks
-- Social listening and sharing
-
-#### ⠀⠀App-specific plugins/extensions/themes:
-- [`Equalify Pro`](https://example.com/)
-- [`Musixmatch Lyrics`](https://example.com/)
-- [`Web Scrobbler`](https://example.com/)
-- [`···`](https://example.com/)
-
-[Full plugins/extensions/themes list](https://community.spotify.com/t5/Spotify-Ideas/ct-p/newideas)
+> #### Features:
+> - Personalized playlists
+> - Cross-platform listening
+> - Podcasts and audiobooks
+> - Social listening and sharing
+> 
+> > #### App-specific plugins/extensions/themes:
+> > - [`Equalify Pro`](https://example.com/)
+> > - [`Musixmatch Lyrics`](https://example.com/)
+> > - [`Web Scrobbler`](https://example.com/)
+> > - [`···`]([https://example.com/](https://community.spotify.com/t5/Spotify-Ideas/ct-p/newideas))
