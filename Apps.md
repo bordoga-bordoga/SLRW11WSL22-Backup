@@ -24,7 +24,7 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 
 ### [Blender](https://www.blender.org/) 
 
-###### <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1024px-Blender_logo_no_text.svg.png)" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> *by [Blender Foundation](https://www.blender.org/foundation/)* – (2021-09, 2.93.5)
+###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1024px-Blender_logo_no_text.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> *by [Blender Foundation](https://www.blender.org/foundation/)* – (2021-09, 2.93.5)
 
 Blender is a free and open-source 3D computer graphics software used for creating animated films, visual effects, art, 3D printed models, and video games.
 
