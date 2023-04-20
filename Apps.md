@@ -1,59 +1,24 @@
 # APPLICATIONS
 
 # Table of Contents
-1. [Adobe Photoshop](#adobe-photoshop)
-2. [Blender](#blender)
-3. [Spotify](#spotify)
+1. [7-Zip](#7-zip)
+2. [Adobe After Effects](#adobe-after-effects)
+3. [Adobe Audition](#adobe-audition)
+...
+61. [Zotero](#zotero)
 
-## [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+## [7-Zip](https://www.7-zip.org/)
 
-###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v22.5.1)</span></small>
+###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/7ziplogo.svg/1920px-7ziplogo.svg.png" alt="7-Zip Logo" width="25" style="vertical-align: middle;"> *by [Igor Pavlov](https://www.7-zip.org/)* – (Version, Date)
 
-Adobe Photoshop is a raster graphics editor used for image editing, graphic design, and digital art.
-ㅤㅤ 
-> #### Features:
-> - Layer-based editing
-> - Advanced photo manipulation tools
-> - Extensive plugin support
-> 
-> #### App-specific plugins/extensions/themes:
-> > - [`Camera Raw`](https://example.com/)
-> > - [`Nik Collection`](https://example.com/)
-> > - [`Portraiture`](https://example.com/)
-> > - [`···`](https://example.com/)
+<!-- Add description, features, and plugins/extensions/themes for 7-Zip -->
 
-## [Blender](https://www.blender.org/) 
+## [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
 
-###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1024px-Blender_logo_no_text.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> *by [Blender Foundation](https://www.blender.org/foundation/)* – (2021-09, 2.93.5)
+###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" alt="Adobe After Effects Logo" width="25" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (Version, Date)
 
-Blender is a free and open-source 3D computer graphics software used for creating animated films, visual effects, art, 3D printed models, and video games.
+<!-- Add description, features, and plugins/extensions/themes for Adobe After Effects -->
 
-> #### Features:
-> - 3D modeling
-> - Sculpting
-> - Animation and rigging
-> - Rendering
-> 
-> > #### App-specific plugins/extensions/themes:
-> > - [`Animation Nodes`](https://example.com/)
-> > - [`RetopoFlow`](https://example.com/)
-> > - [`MantaFlow`](https://example.com/)
-> > - [`···`](https://example.com/)
+## [Adobe Audition](https://www.adobe.com/products/audition.html)
 
-## [Spotify](https://www.spotify.com/)
-
-###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> *by [Spotify Ltd.](https://www.spotify.com)* – (2021-09, 1.1.68)
-
-Spotify is a digital music, podcast, and video streaming service that provides access to millions of songs and other content from artists all over the world.
-
-> #### Features:
-> - Personalized playlists
-> - Cross-platform listening
-> - Podcasts and audiobooks
-> - Social listening and sharing
-> 
-> > #### App-specific plugins/extensions/themes:
-> > - [`Equalify Pro`](https://example.com/)
-> > - [`Musixmatch Lyrics`](https://example.com/)
-> > - [`Web Scrobbler`](https://example.com/)
-> > - [`···`](https://example.com/)
+###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adobe_Audition_CC_icon.svg/1200px-Adobe_Audition_CC_icon.svg.png" alt="Adobe Audition Logo" width="25" style="vertical-align: middle;"> *by [Adobe Inc
