@@ -30,13 +30,13 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 
 Blender is a free and open-source 3D computer graphics software used for creating animated films, visual effects, art, 3D printed models, and video games.
 
-####   Features:
+#### ⠀⠀Features:
 - 3D modeling
 - Sculpting
 - Animation and rigging
 - Rendering
 
->   #### App-specific plugins/extensions/themes:
+> #### ⠀⠀App-specific plugins/extensions/themes:
 > - Animation Nodes
 > - RetopoFlow
 > - MantaFlow
