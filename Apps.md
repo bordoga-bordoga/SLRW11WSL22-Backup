@@ -7,18 +7,15 @@
 Adobe Photoshop is a raster graphics editor used for image editing, graphic design, and digital art.
 ㅤㅤ 
 > #### Features:
-> ⬩ Layer-based editing
+> - Layer-based editing
+> - Advanced photo manipulation tools
+> - Extensive plugin support
 > 
-> ⬩ Advanced photo manipulation tools
-> 
-> ⬩ Extensive plugin support
-> 
-> #### Some Extensions:
-> > • Camera Raw
-> > 
-> > • Nik Collection
-> > 
-> > • Portraiture
+> #### App-specific plugins/extensions/themes:
+> > - Camera Raw
+> > - Nik Collection
+> > - Portraiture
+> > - . . .
 > > 
 > > [Full plugins/extensions/themes list](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity)
 
@@ -34,7 +31,7 @@ Blender is a free and open-source 3D computer graphics software used for creatin
 > - Animation and rigging
 > - Rendering
 > 
-> #### App-specific plugins/extensions/themes...
+> #### App-specific plugins/extensions/themes:
 > > - Animation Nodes
 > > - RetopoFlow
 > > - MantaFlow
@@ -54,9 +51,10 @@ Spotify is a digital music, podcast, and video streaming service that provides a
 > - Podcasts and audiobooks
 > - Social listening and sharing
 > 
-> #### App-specific plugins/extensions/themes (sneak peek):
+> #### App-specific plugins/extensions/themes:
 > > - Equalify Pro
 > > - Musixmatch Lyrics
 > > - Web Scrobbler
+> > - ...
 > > 
 > > [Full plugins/extensions/themes list](https://community.spotify.com/t5/Spotify-Ideas/ct-p/newideas)
