@@ -2,7 +2,7 @@
 
 ## [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 
-**<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)** – (2021-09, v22.5.1)
+**<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> by [Adobe Inc.](https://www.adobe.com)** – (2021-09, v22.5.1)
 
 Adobe Photoshop is a raster graphics editor used for image editing, graphic design, and digital art.
 ㅤㅤ 
