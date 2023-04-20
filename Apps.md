@@ -22,8 +22,6 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 > > 
 > > [Full plugins/extensions/themes list](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity)
 
-———
-
 ## [Blender](https://www.blender.org/) 
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1024px-Blender_logo_no_text.svg.png" alt="Adobe Photoshop Logo" width="25" style="vertical-align: middle;"> *by [Blender Foundation](https://www.blender.org/foundation/)* – (2021-09, 2.93.5)
@@ -42,8 +40,6 @@ Blender is a free and open-source 3D computer graphics software used for creatin
 > > - MantaFlow
 > > 
 > > [Full plugins/extensions/themes list](https://blendermarket.com/categories/blender?sortBy=popular)
-
-———
 
 ## [Spotify](https://www.spotify.com/)
 
