@@ -39,7 +39,7 @@ Blender is a free and open-source 3D computer graphics software used for creatin
 > #### ⠀⠀App-specific plugins/extensions/themes:
 > - `Animation Nodes`
 > - `RetopoFlow`
-> - `MantaFlow`
+> - `[MantaFlow](https://www.adobe.com/products/photoshop.html)`
 > - `···`
 > 
 > [Full plugins/extensions/themes list](https://blendermarket.com/categories/blender?sortBy=popular)
