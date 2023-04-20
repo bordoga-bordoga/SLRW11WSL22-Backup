@@ -15,7 +15,7 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 > > - Camera Raw
 > > - Nik Collection
 > > - Portraiture
-> > - . . .
+> > - ···
 > > 
 > > [Full plugins/extensions/themes list](https://exchange.adobe.com/creativecloud/photography?filters=adobe-photoshop-cc&order=popularity)
 
@@ -55,6 +55,6 @@ Spotify is a digital music, podcast, and video streaming service that provides a
 > > - Equalify Pro
 > > - Musixmatch Lyrics
 > > - Web Scrobbler
-> > - ...
+> > - ···
 > > 
 > > [Full plugins/extensions/themes list](https://community.spotify.com/t5/Spotify-Ideas/ct-p/newideas)
