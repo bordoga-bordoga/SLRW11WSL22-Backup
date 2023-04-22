@@ -2,6 +2,8 @@
 
 # Table of Contents
 
+---
+
 1. [🌐 BROWSERS](#browsers)
    - [Brave](#brave)
    - [Brave](#brave)
@@ -111,7 +113,7 @@
      - [netcut](#netcut)
      - [qBittorrent](#qbittorrent)
 
-
+---
 
 # Browsers
 
