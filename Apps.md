@@ -13,14 +13,20 @@
 
 2. [COMMUNICATION](#communication)
   - [Email Clients](#email-clients)
-    - [Mailspring](#mailspring)
+
+    ⋅ [Mailspring](#mailspring)
+
   - [Messaging & Chat](#messaging--chat)
-    - [Discord](#discord)
-    - [Guilded](#guilded)
-    - [Signal](#signal)
-    - [Skype](#skype)
+
+    ⋅ [Discord](#discord)
+    ⋅ [Guilded](#guilded)
+    ⋅ [Signal](#signal)
+    ⋅ [Skype](#skype)
+
   - [Social Media](#social-media)
-    - [Twitter](#twitter)
+
+    ⋅ [Twitter](#twitter)
+
   - [Video Conferencing](#video-conferencing)
 3. [DEVELOPMENT TOOLS](#development-tools)
   - [Code Editors](#code-editors)
