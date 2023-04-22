@@ -56,7 +56,8 @@
 
 Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.
 
-> #### Features:
+<details>
+<summary>#### Features:</summary>
 > - Built-in ad blocker
 > - Privacy protection
 > - Speed optimization
@@ -67,6 +68,7 @@ Brave is a free and open-source web browser that emphasizes privacy, security, a
 > > - [`Brave Rewards`](https://brave.com/brave-rewards/)
 > > - [`Brave Wallet`](https://brave.com/brave-wallet/)
 > > - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
+</details>
 
 ### [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
