@@ -58,7 +58,7 @@ Brave is a free and open-source web browser that emphasizes privacy, security, a
 
 <details>
    
-#### <summary>Features:</summary>
+<summary>Features:</summary>
    
 > - Built-in ad blocker
 > - Privacy protection
