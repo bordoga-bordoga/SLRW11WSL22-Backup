@@ -2,8 +2,6 @@
 
 # Table of Contents
 
----
-
 1. [🌐 BROWSERS](#browsers)
    - [Brave](#brave)
    - [Brave](#brave)
@@ -12,17 +10,17 @@
    - [Google Chrome](#google-chrome)
    - [Opera Browser](#opera-browser)
    - [Vivaldi](#vivaldi)
-2. 💬 [COMMUNICATION](#communication)
-   * [<span style="color:grey">Email Clients</span>](#email-clients)
-     + [Mailspring](#mailspring)
-   * [<span style="color:grey">Messaging & Chat</span>](#messaging--chat)
-     + [Discord](#discord)
-     + [Guilded](#guilded)
-     + [Signal](#signal)
-     + [Skype](#skype)
-   * [<span style="color:grey">Social Media</span>](#social-media)
-     + [Twitter](#twitter)
-   * [<span style="color:grey">Video Conferencing</span>](#video-conferencing)
+2. [💬 COMMUNICATION](#communication)
+   - [Email Clients](#email-clients)
+     - [Mailspring](#mailspring)
+   - [Messaging & Chat](#messaging--chat)
+     - [Discord](#discord)
+     - [Guilded](#guilded)
+     - [Signal](#signal)
+     - [Skype](#skype)
+   - [Social Media](#social-media)
+     - [Twitter](#twitter)
+   - [Video Conferencing](#video-conferencing)
 3. [🛠️ DEVELOPMENT TOOLS](#development-tools)
    - [Code Editors](#code-editors)
      - [Visual Studio Code](visual-studio-code)
@@ -113,7 +111,7 @@
      - [netcut](#netcut)
      - [qBittorrent](#qbittorrent)
 
----
+
 
 # Browsers
 
