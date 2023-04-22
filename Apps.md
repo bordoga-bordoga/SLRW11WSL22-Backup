@@ -10,6 +10,7 @@
 ⋅ [Google Chrome](#google-chrome)
 ⋅ [Opera Browser](#opera-browser)
 ⋅ [Vivaldi](#vivaldi)
+
 2. [COMMUNICATION](#communication)
   - [Email Clients](#email-clients)
     - [Mailspring](#mailspring)
