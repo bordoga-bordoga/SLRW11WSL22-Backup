@@ -275,6 +275,8 @@ Guilded is a chat and collaboration platform designed for gaming communities, of
 > #### App-specific plugins/extensions/themes:
 > - N/A
 
+## [Signal](https://signal.org/)
+
 Signal is a privacy-focused messaging app that offers end-to-end encryption, ensuring that your messages, calls, and media stay secure and private.
 
 > #### Features:
