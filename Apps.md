@@ -799,10 +799,12 @@ Plex Media Server is the software component that powers the Plex ecosystem, allo
 
 <details>
 
+<summary>More Info...</summary>
+
 Spotify is a digital music, podcast, and video streaming service that provides access to millions of songs and other content from artists all over the world.
 
 
-<summary>More Info...</summary>
+
 
 #### Features
 > - Personalized playlists
