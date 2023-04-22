@@ -76,7 +76,7 @@ Brave is a free and open-source web browser that emphasizes privacy, security, a
 
 </details>
 
-### [Firefox](https://www.mozilla.org/en-US/firefox/new/)<details><summary>More Info...</summary>
+### <span style="display: inline-flex; align-items: center;"><a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a> <details style="font-size: small; margin-bottom: -1rem;"><summary>More Info...</summary>
 
 ###### <img src="https://www.mozilla.org/media/img/favicons/firefox/browser/favicon.e6e1e7a96ea4.ico" alt="Firefox Logo" width="15" style="vertical-align: middle;"> *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
 
@@ -94,7 +94,8 @@ Firefox is a free and open-source web browser that prioritizes user privacy, sec
 > > - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
 > > - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
 
-</details>
+</details></span>
+
 
 ### [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)
 
