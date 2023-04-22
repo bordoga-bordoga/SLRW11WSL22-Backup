@@ -2,39 +2,50 @@
 
 # Table of Contents
 
----
+1. [🌐 BROWSERS](#browsers)
 
-| 🌐 **[BROWSERS](#browsers)**               | 💬 **[COMMUNICATION](#communication)**      | 🛠️ **[DEVELOPMENT TOOLS](#development-tools)** |
-| ------------------------------------------ | ------------------------------------------- | ---------------------------------------------- |
-| 🟢 [Brave](#brave)                         | 📧 [Email Clients](#email-clients)         | 🟣 [Code Editors](#code-editors)              |
-| 🟠 [Firefox](#firefox)                     | 💬 [Messaging & Chat](#messaging--chat)    | 🔵 [IDEs](#ides)                              |
-| 🔵 [Firefox Nightly](#firefox-nightly)     | 🐦 [Social Media](#social-media)           | ⚫️ [Version Control](#version-control)        |
-| 🟣 [Google Chrome](#google-chrome)         | 📹 [Video Conferencing](#video-conferencing) |                                            |
-| ⚫️ [Opera Browser](#opera-browser)          |                                           |                                            |
-| 🟡 [Vivaldi](#vivaldi)                     |                                           |                                            |
-
-| 🎨 **[DIGITAL CREATION](#digital-creation)** | 🎮 **[GAMING](#gaming)**                  | 🎥 **[MEDIA](#media)**                     |
-| -------------------------------------------- | ------------------------------------------ | ------------------------------------------ |
-| 🟡 [3D Modeling](#3d-modeling)               | 🎮 [Game Distribution Platforms](#game-distribution-platforms) | 🎞️ [Media Players](#media-players)       |
-| 🟠 [Animation](#animation)                   | 🛠️ [Game Utilities & Add-ons](#game-utilities--add-ons) | 🎧 [Podcasts & Audiobooks](#podcasts--audiobooks) |
-| 🔵 [Audio Editing](#audio-editing)           |                                          | 📺 [Streaming Services](#streaming-services) |
-| 🟣 [Graphic Design](#graphic-design)         |                                          |                                            |
-| ⚫️ [Photography & Image Editing](#photography--image-editing) |                        |                                            |
-| 🟢 [User Interface & UX Design](#user-interface--ux-design) |                          |                                            |
-| 🟠 [Video Editing](#video-editing)           |                                          |                                            |
-| 🔵 [Other Digital Creation Tools](#other-digital-creation-tools) |                      |                                            |
-
-| 📚 **[OFFICE & PRODUCTIVITY](#office--productivity)** | 🔒 **[SECURITY](#security)**            | 🔧 **[UTILITIES](#utilities)**           |
-| ------------------------------------------------------ | --------------------------------------- | ---------------------------------------- |
-| 📝 [Exam & Test Taking](#exam--test-taking)          | 🛡️ [Antivirus & Malware Protection](#antivirus--malware-protection) | 🔄 [Backup & Sync](#backup--sync)       |
-| 📓 [Note-taking & Task Management](#note-taking--task-management) | 🔑 [Password Managers](#password-managers) | 📦 [File Compression & Extraction](#file-compression--extraction) |
-| 📚 [Office Suites](#office-suites)                   | 🛠️ [Other Security Tools](#other-security-tools) | 🗂️ [File Management & Search](#file-management--search) |
-| 📚 [Reference Management](#reference-management)     |                                         | ⌨️ [Keyboard & Input Utilities](#keyboard--input-utilities) |
-| ✍️ [Writing & Grammar Tools](#writing--grammar-tools) |                                       | 🛠 [System Utilities](#system-utilities)       |
-
----
-
-
+2. [💬 COMMUNICATION](#communication)
+   - [Email Clients](#email-clients)
+   - [Messaging & Chat](#messaging--chat)
+   - [Social Media](#social-media)
+   - [Video Conferencing](#video-conferencing)
+3. [🛠️ DEVELOPMENT TOOLS](#development-tools)
+   - [Code Editors](#code-editors)
+   - [IDEs](#ides)
+   - [Version Control](#version-control)
+4. [🎨 DIGITAL CREATION](#digital-creation)
+   - [3D Modeling](#3d-modeling)
+   - [Animation](#animation)
+   - [Audio Editing](#audio-editing)
+   - [Graphic Design](#graphic-design)
+   - [Photography & Image Editing](#photography--image-editing)
+   - [User Interface & UX Design](#user-interface--ux-design)
+   - [Video Editing](#video-editing)
+   - [Other Digital Creation Tools](#other-digital-creation-tools)
+5. [🎮 GAMING](#gaming)
+   - [Game Distribution Platforms](#game-distribution-platforms)
+   - [Game Utilities & Add-ons](#game-utilities--add-ons)
+6. [🎥 MEDIA](#media)
+   - [Media Players](#media-players)
+   - [Podcasts & Audiobooks](#podcasts--audiobooks)
+   - [Streaming Services](#streaming-services)
+7. [📚 OFFICE & PRODUCTIVITY](#office--productivity)
+   - [Exam & Test Taking](#exam--test-taking)
+   - [Note-taking & Task Management](#note-taking--task-management)
+   - [Office Suites](#office-suites)
+   - [Reference Management](#reference-management)
+   - [Writing & Grammar Tools](#writing--grammar-tools)
+8. [🔒 SECURITY](#security)
+   - [Antivirus & Malware Protection](#antivirus--malware-protection)
+   - [Password Managers](#password-managers)
+   - [Other Security Tools](#other-security-tools)
+9. [🔧 UTILITIES](#utilities)
+   - [Backup & Sync](#backup--sync)
+   - [File Compression & Extraction](#file-compression--extraction)
+   - [File Management & Search](#file-management--search)
+   - [Keyboard & Input Utilities](#keyboard--input-utilities)
+   - [System Utilities](#system-utilities)
+   - [Other Utilities](#other-utilities)
 
 
 # Browsers
