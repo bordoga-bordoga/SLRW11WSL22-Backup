@@ -3,9 +3,9 @@
 # Table of Contents
 
 1. [BROWSERS](#browsers)
-  - [Brave](#brave)
-  - [Firefox](#firefox)
-  - [Firefox Nightly](#firefox-nightly)
+⠀- [Brave](#brave)
+⠀- [Firefox](#firefox)
+⠀- [Firefox Nightly](#firefox-nightly)
   - [Google Chrome](#google-chrome)
   - [Opera Browser](#opera-browser)
   - [Vivaldi](#vivaldi)
