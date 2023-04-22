@@ -77,7 +77,6 @@ Brave is a free and open-source web browser that emphasizes privacy, security, a
 </details>
 
 ### [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-
 <details>
 
 <summary>More Info...</summary>
