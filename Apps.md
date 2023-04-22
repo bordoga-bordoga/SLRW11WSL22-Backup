@@ -30,7 +30,30 @@
 | •    [IDEs](#ides)                             | •    [Note-taking & Task Management](#note-taking--task-management) |      •    [Ditto](#ditto)                         |
 | •    [Version Control](#version-control)       |      •    [Notion](#notion)                        |      •    [Driver Booster 7](#driver-booster-7)   |
 |                                                |      •    [Obsidian](#obsidian)                    |      •    [f.lux](#flux)                          |
-| 4.
+| 4. 🎨 [DIGITAL CREATION](#digital-creation) | 7. 📚 [OFFICE & PRODUCTIVITY](cont.)          | •    [IObit Uninstaller](#iobit-uninstaller) |
+| ------------------------------------------- | --------------------------------------------- | •    [Lively Wallpaper](#lively-wallpaper)   |
+| •    [3D Modeling](#3d-modeling)           | •    [Office Suites](#office-suites)          | •    [ModernFlyouts (Preview)](#modernflyouts-preview) |
+| •    [Animation](#animation)               |      •    [LibreOffice](#libreoffice)        | •    [PowerToys](#powertoys)                 |
+| •    [Audio Editing](#audio-editing)       | •    [Reference Management](#reference-management) | •    [Translucent TB](#translucent-tb)       |
+|      •    [Adobe Audition](#adobe-audition) |      •    [Zotero](#zotero)                  | •    [Other Utilities](#other-utilities)     |
+|      •    [OBS Studio](#obs-studio)         | •    [Writing & Grammar Tools](#writing--grammar-tools) |      •    [Camo Studio](#camo-studio)       |
+|      •    [Voicemeeter](#voicemeeter)       |      •    [Grammarly](#grammarly)            |      •    [DroidCam Client](#droidcam-client) |
+| •    [Graphic Design](#graphic-design)     |      •    [Mark Text](#mark-text)            |      •    [EpocCam](#epoccam)               |
+|      •    [Adobe Illustrator](#adobe-illustrator) |                                         |      •    [netcut](#netcut)                 |
+| •    [Photography & Image Editing](#photography--image-editing) | 8. 🔒 [SECURITY](#security)             |      •    [qBittorrent](#qbittorrent)       |
+|      •    [Adobe Lightroom](#adobe-lightroom) | •    [Antivirus & Malware Protection](#antivirus--malware-protection) |                                         |
+|      •    [Adobe Photoshop](#adobe-photoshop) | •    [Password Managers](#password-managers) |                                         |
+| •    [User Interface & UX Design](#user-interface--ux-design) |      •    [Bitwarden](#bitwarden)      |                                         |
+|      •    [Adobe XD](#adobe-xd)             | •    [Other Security Tools](#other-security-tools) |                                         |
+| •    [Video Editing](#video-editing)       |                                               |                                         |
+|      •    [Adobe After Effects](#adobe-after-effects) |                                     |                                         |
+|      •    [Adobe Premiere Pro](#adobe-premiere-pro) |                                     |                                         |
+|      •    [HandBrake](#handbrake)           |                                               |                                         |
+| •    [Other Digital Creation Tools](#other-digital-creation-tools) |                       |                                         |
+|      •    [Adobe Creative Cloud](#adobe-creative-cloud) |                                 |                                         |
+
+---
+
 
 
 
