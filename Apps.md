@@ -3,7 +3,7 @@
 # Table of Contents
 
 1. [Browsers](#browsers)
-   - [Brave](#brave)
+  - [Brave](#brave)
    - [Firefox](#firefox)
    - [Firefox Nightly](#firefox-nightly)
    - [Google Chrome](#google-chrome)
