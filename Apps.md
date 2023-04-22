@@ -184,13 +184,14 @@ Vivaldi is a fast, customizable web browser designed for power users, built usin
 > - Tab stacking and tiling
 > - Built-in note-taking tool
 > - Mouse gestures and keyboard shortcuts
-> 
+>
 > > #### App-specific plugins/extensions/themes:
 > > - [`Vivaldi Themes`](https://vivaldi.com/themes/)
 > > - [`Vivaldi Forum Modding`](https://forum.vivaldi.net/category/52/modifications)
 > > - [`Web Panels`](https://help.vivaldi.com/article/web-panels/)
 > > - [`···`](https://example.com/)
 
+</details>
 
 # Communication
 
@@ -275,9 +276,6 @@ Signal is a privacy-focused messaging app that offers end-to-end encryption, ens
 > - Voice and video calls
 > - Group chats and calls
 > - Disappearing messages
->
-> #### Stickers:
-> - N/A
 
 </details>
 
@@ -297,6 +295,8 @@ Skype is a communication platform that offers instant messaging, voice calls, vi
 > - File sharing
 > - Group chats and calls
 
+</details>
+
 ## Social Media
 
 ### [Twitter](https://www.twitter.com/)
@@ -314,12 +314,14 @@ Twitter is a social media platform that allows users to send and receive short m
 > - Hashtags and trending topics
 > - Media sharing and polls
 > - Lists and bookmarks
-> 
+>
 > > #### App-specific plugins/extensions/themes:
 > > - [`TweetDeck`](https://tweetdeck.twitter.com/)
 > > - [`Twitter Advanced Search`](https://twitter.com/search-advanced)
 > > - [`Twitter Lite`](https://mobile.twitter.com/)
 > > - [`···`](https://example.com/)
+
+</details>
 
 ## Video Conferencing
 
@@ -343,12 +345,14 @@ Visual Studio Code is a lightweight, open-source code editor that supports synta
 > - Debugging and testing tools
 > - Integrated terminal
 > - Extensible with plugins
-> 
+>
 > > #### App-specific plugins/extensions/themes:
 > > - [`Live Share`](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 > > - [`GitLens`](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 > > - [`Prettier`](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 > > - [`···`](https://marketplace.visualstudio.com/VSCode)
+
+</details>
 
 ## IDEs
 
@@ -425,13 +429,15 @@ Voicemeeter is an audio virtual mixer that allows you to mix and manage any audi
 > - Support for various audio devices and applications
 > - Built-in audio effects
 > - Audio routing and management
-> 
+>
 > > #### App-specific plugins/extensions/themes:
 > > - [`Voicemeeter Banana`](https://www.vb-audio.com/Voicemeeter/banana.htm)
 > > - [`Voicemeeter Potato`](https://www.vb-audio.com/Voicemeeter/potato.htm)
 > > - [`MacroButtons`](https://www.vb-audio.com/Voicemeeter/MacroButtonVB.htm)
 > > - [`Virtual Audio Cable`](https://www.vb-audio.com/Cable/index.htm)
 > > - [`···`](https://www.vb-audio.com/Voicemeeter/index.htm#Documentation)
+
+</details>
 
 ## Graphic Design
 
@@ -456,6 +462,8 @@ Adobe Illustrator is a vector graphics editor used by designers to create and ed
 > > - [`Cineware for Illustrator`](https://www.maxon.net/en/products/cineware-for-illustrator/)
 > > - [`Fontself Maker`](https://www.fontself.com/)
 > > - [`···`](https://www.adobeexchange.com/creativecloud/illustrator.html)
+
+</details>
 
 ## Photography & Image Editing
 
@@ -504,6 +512,8 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 > > - [`Portraiture`](https://www.imagenomic.com/Products/Portraiture)
 > > - [`···`](https://www.adobeexchange.com/creativecloud/photoshop.html)
 
+</details>
+
 ## User Interface & UX Design
 
 ### [Adobe XD](https://www.adobe.com/products/xd.html)
@@ -527,6 +537,8 @@ Adobe XD is a vector-based user experience design tool for web apps and mobile a
 > > - [`Icons 4 Design`](https://www.icons4design.com/)
 > > - [`Overflow`](https://overflow.io/)
 > > - [`···`](https://www.adobe.com/products/xd/learn/develop/plugins.html)
+
+</details>
 
 ## Video Editing
 
@@ -594,6 +606,8 @@ HandBrake is a free and open-source video transcoder that converts video from ne
 > - Video filtering
 > - Batch processing
 
+</details>
+
 ## Other Digital Creation Tools
 
 ### [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
@@ -612,12 +626,11 @@ Adobe Creative Cloud is a suite of over 20 creative desktop and mobile apps and 
 > - Collaboration tools
 > - Regular updates and new features
 
+</details>
 
 # Gaming
 
 ## Game Distribution Platforms
-
-</details>
 
 ### [Steam](https://store.steampowered.com/)
 
@@ -634,12 +647,14 @@ Steam is a digital distribution platform developed by Valve Corporation that off
 > - Social features and community hubs
 > - Cloud saves and automatic updates
 > - In-game overlay and screenshot tools
-> 
+>
 > > #### App-specific plugins/extensions/themes:
 > > - [`Steam Achievement Manager`](https://github.com/gibbed/SteamAchievementManager)
 > > - [`Depressurizer`](https://github.com/Depressurizer/Depressurizer)
 > > - [`Augmented Steam`](https://augmentedsteam.com/)
 > > - [`···`](https://example.com/)
+
+</details>
 
 ## Game Utilities & Add-ons
 
@@ -663,12 +678,14 @@ VLC media player is a free, open-source multimedia player that supports a wide r
 > - Network streaming support
 > - Subtitle synchronization
 > - Customizable interface
-> 
+>
 > > #### App-specific plugins/extensions/themes:
 > > - [`VLSub`](https://addons.videolan.org/p/1154049/)
 > > - [`VLC Extensions`](https://addons.videolan.org/browse/cat/322/)
 > > - [`VLC Skins`](https://addons.videolan.org/browse/cat/152/)
 > > - [`···`](https://addons.videolan.org/index.php?xcontentmode=322)
+
+</details>
 
 ## Podcasts & Audiobooks
 
@@ -687,6 +704,8 @@ Audible is an online platform that provides spoken audio entertainment, informat
 > - Podcasts and original content
 > - Bookmarking and note-taking
 > - Sleep timer
+
+</details>
 
 ## Streaming Services
 
@@ -759,7 +778,7 @@ Spotify is a digital music, podcast, and video streaming service that provides a
 > - Cross-platform listening
 > - Podcasts and audiobooks
 > - Social listening and sharing
-> 
+>
 > #### App-specific plugins/extensions/themes:
 > - [`Equalify Pro`](https://www.equalify.me/)
 > - [`Musixmatch Lyrics`](https://about.musixmatch.com/)
@@ -783,13 +802,14 @@ Twitch is a popular live streaming platform that focuses primarily on video game
 > - Video-on-demand and highlights
 > - Gaming, creative, and music categories
 > - Extensions and interactive experiences
-> 
+>
 > > #### App-specific plugins/extensions/themes:
 > > - [`FrankerFaceZ`](https://www.frankerfacez.com/)
 > > - [`BetterTTV`](https://betterttv.com/)
 > > - [`Twitch Now`](https://chrome.google.com/webstore/detail/twitch-now/nlmbdmpjmlijibeockamioakdpmhjnpk)
 > > - [`···`](https://example.com/)
 
+</details>
 
 # Office & Productivity
 
@@ -810,6 +830,8 @@ DigiExam is a digital examination platform that allows educators to create, deli
 > - Grading and feedback tools
 > - Question bank
 > - Collaborative exam creation
+
+</details>
 
 ## Note-taking & Task Management
 
@@ -894,6 +916,8 @@ TickTick is a cross-platform to-do list app and task manager that helps you capt
 > - Calendar view and timeline
 > - Collaboration and sharing
 
+</details>
+
 ## Office Suites
 
 ### [LibreOffice](https://www.libreoffice.org/)
@@ -917,6 +941,8 @@ LibreOffice is a free and open-source office suite that offers a comprehensive s
 > > - [`Language Packs`](https://www.libreoffice.org/download/download/)
 > > - [`···`](https://www.libreoffice.org/download/download/)
 
+</details>
+
 ## Reference Management
 
 ### [Zotero](https://www.zotero.org/)
@@ -934,12 +960,14 @@ Zotero is a free, open-source reference management software designed to help use
 > - Automatic citation and bibliography generation
 > - Collaborative research tools
 > - Integration with word processors
-> 
+>
 > > #### App-specific plugins/extensions/themes:
 > > - [`ZotFile`](http://zotfile.com/)
 > > - [`Better BibTeX for Zotero`](https://retorque.re/zotero-better-bibtex/)
 > > - [`Zotero Word for Windows Integration`](https://www.zotero.org/support/word_processor_integration)
 > > - [`···`](https://www.zotero.org/support/plugins)
+
+</details>
 
 ## Writing & Grammar Tools
 
@@ -983,6 +1011,7 @@ Mark Text is a simple yet powerful Markdown editor that focuses on speed and usa
 > - Syntax highlighting
 > - Export to various formats
 
+</details>
 
 # Security
 
@@ -1006,6 +1035,8 @@ Bitwarden is a free and open-source password manager that helps individuals and 
 > - Browser extensions
 > - Two-factor authentication
 
+</details>
+
 ## Other Security Tools
 
 
@@ -1028,6 +1059,8 @@ Google Drive is a cloud storage service that allows you to store, share, and col
 > - File sharing and collaboration
 > - Integration with Google Workspace
 > - Mobile and desktop applications
+
+</details>
 
 ## File Compression & Extraction
 
@@ -1064,12 +1097,14 @@ WinRAR is a powerful archive manager for Windows, macOS, and Linux. It allows us
 > - Support for multiple archive formats
 > - Compression and encryption options
 > - File repair and recovery tools
-> 
+>
 > > #### App-specific plugins/extensions/themes:
 > > - [`WinRAR Themes`](https://www.win-rar.com/themes.html)
 > > - [`WinRAR Language files`](https://www.win-rar.com/addons.html)
 > > - [`RAR for Android`](https://play.google.com/store/apps/details?id=com.rarlab.rar)
 > > - [`···`](https://www.win-rar.com/addons.html)
+
+</details>
 
 ## File Management & Search
 
@@ -1106,6 +1141,8 @@ Search Everything is a fast and lightweight file search tool for Windows that in
 > - Minimal resource usage
 > - Advanced search filters
 > - Supports NTFS drives
+
+</details>
 
 ## Keyboard & Input Utilities
 
@@ -1160,6 +1197,8 @@ Macro Buttons is a customizable macro key creator that allows you to create cust
 > - Hotkey creation
 > - Automation scripts
 > - Streamlined productivity
+
+</details>
 
 ## System Utilities
 
@@ -1323,6 +1362,8 @@ Translucent TB is an open-source Windows utility that allows you to customize th
 > - Easy-to-use tray icon
 > - Customization of accent colors
 
+</details>
+
 ## Other Utilities
 
 ### [Camo Studio](https://reincubate.com/camo/)
@@ -1412,6 +1453,8 @@ qBittorrent is a free and open-source torrent client featuring a clean user inte
 > - Advanced torrent control
 > - Sequential downloading
 > - Torrent creation
+
+</details>
 
 ---
 
