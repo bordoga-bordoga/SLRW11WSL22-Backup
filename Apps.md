@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-1. [Browsers](#browsers)
+1. [🌐 Browsers](#browsers)
    - [Brave](#brave)
    - [Brave](#brave)
    - [Firefox](#firefox)
@@ -10,7 +10,7 @@
    - [Google Chrome](#google-chrome)
    - [Opera Browser](#opera-browser)
    - [Vivaldi](#vivaldi)
-2. [Communication](#communication)
+2. [💬 Communication](#communication)
    - [Email Clients](#email-clients)
      - [Mailspring](#mailspring)
    - [Messaging & Chat](#messaging--chat)
@@ -61,7 +61,7 @@
      - [Plex Media Server](#plex-media-server)
      - [Spotify](#spotify)
      - [Twitch](#twitch)
-7. [📚 Office & Productivity](#office--productivity)
+7. [📝 Office & Productivity](#office--productivity)
    - [Exam & Test Taking](#exam--test-taking)
      - [DigiExam](#digiexam)
    - [Note-taking & Task Management](#note-taking--task-management)
