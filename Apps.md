@@ -335,7 +335,7 @@ Twitter is a social media platform that allows users to send and receive short m
 
 </details>
 
-## Video Conferencing
+<!-- ## Video Conferencing -->
 
 
 # Development Tools
@@ -367,16 +367,16 @@ Visual Studio Code is a lightweight, open-source code editor that supports synta
 
 </details>
 
-## IDEs
+<!-- ## IDEs -->
 
-## Version Control
+<!-- ## Version Control -->
 
 
 # Digital Creation
 
-## 3D Modeling
+<!-- ## 3D Modeling -->
 
-## Animation
+<!-- ## Animation -->
 
 ## Audio Editing
 
@@ -681,7 +681,7 @@ Steam is a digital distribution platform developed by Valve Corporation that off
 
 </details>
 
-## Game Utilities & Add-ons
+<!-- ## Game Utilities & Add-ons -->
 
 
 # Media
@@ -1056,7 +1056,7 @@ Mark Text is a simple yet powerful Markdown editor that focuses on speed and usa
 
 # Security
 
-## Antivirus & Malware Protection
+<!-- ## Antivirus & Malware Protection -->
 
 ## Password Managers
 
@@ -1079,7 +1079,7 @@ Bitwarden is a free and open-source password manager that helps individuals and 
 
 </details>
 
-## Other Security Tools
+<!-- ## Other Security Tools -->
 
 
 # Utilities
