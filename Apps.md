@@ -2,108 +2,36 @@
 
 # Table of Contents
 
+# APPLICATIONS
+
+# Table of Contents
+
+---
+
 | 1. 🌐 [BROWSERS](#browsers)               | 5. 🎮 [GAMING](#gaming)                        | 9. 🔧 [UTILITIES](#utilities)               |
 | ----------------------------------------- | ---------------------------------------------- | ------------------------------------------ |
-| - [Brave](#brave)                         | - [Game Distribution Platforms](#game-distribution-platforms) | - [Backup & Sync](#backup--sync)           |
-| - [Firefox](#firefox)                     |   + [Steam](#steam)                            |   + [Google Drive](#google-drive)          |
-| - [Firefox Nightly](#firefox-nightly)     | - [Game Utilities & Add-ons](#game-utilities--add-ons) | - [File Compression & Extraction](#file-compression--extraction) |
-| - [Google Chrome](#google-chrome)         |                                                |   + [7-Zip](#7-zip)                         |
-| - [Opera Browser](#opera-browser)         |                                                |   + [WinRAR](#winrar)                       |
-| - [Vivaldi](#vivaldi)                     |                                                | - [File Management & Search](#file-management--search) |
-|                                           |                                                |   + [Everything](#everything)               |
-| 2. 💬 [COMMUNICATION](#communication)     | 6. 🎥 [MEDIA](#media)                          |   + [Search Everything](#search-everything) |
-| - [Email Clients](#email-clients)         | - [Media Players](#media-players)             | - [Keyboard & Input Utilities](#keyboard--input-utilities) |
-|   + [Mailspring](#mailspring)             |   + [VLC media player](#vlc-media-player)     |   + [AutoHotkey](#autohotkey)               |
+| •    [Brave](#brave)                      | •    [Game Distribution Platforms](#game-distribution-platforms) | •    [Backup & Sync](#backup--sync)           |
+| •    [Firefox](#firefox)                  |      •    [Steam](#steam)                     |      •    [Google Drive](#google-drive)          |
+| •    [Firefox Nightly](#firefox-nightly)  | •    [Game Utilities & Add-ons](#game-utilities--add-ons) | •    [File Compression & Extraction](#file-compression--extraction) |
+| •    [Google Chrome](#google-chrome)      |                                                |      •    [7-Zip](#7-zip)                         |
+| •    [Opera Browser](#opera-browser)      |                                                |      •    [WinRAR](#winrar)                       |
+| •    [Vivaldi](#vivaldi)                  |                                                | •    [File Management & Search](#file-management--search) |
+|                                           |                                                |      •    [Everything](#everything)               |
+| 2. 💬 [COMMUNICATION](#communication)     | 6. 🎥 [MEDIA](#media)                          |      •    [Search Everything](#search-everything) |
+| •    [Email Clients](#email-clients)      | •    [Media Players](#media-players)          | •    [Keyboard & Input Utilities](#keyboard--input-utilities) |
+|      •    [Mailspring](#mailspring)       |      •    [VLC media player](#vlc-media-player) |      •    [AutoHotkey](#autohotkey)               |
 
-3. [🛠️ DEVELOPMENT TOOLS](#development-tools)
-   - [Code Editors](#code-editors)
-     - [Visual Studio Code](visual-studio-code)
-   - [IDEs](#ides)
-   - [Version Control](#version-control)
-4. [🎨 DIGITAL CREATION](#digital-creation)
-   - [3D Modeling](#3d-modeling)
-   - [Animation](#animation)
-   - [Audio Editing](#audio-editing)
-     - [Adobe Audition](#adobe-audition)
-     - [OBS Studio](#obs-studio)
-     - [Voicemeeter](#voicemeeter)
-   - [Graphic Design](#graphic-design)
-     - [Adobe Illustrator](#adobe-illustrator)
-   - [Photography & Image Editing](#photography--image-editing)
-     - [Adobe Lightroom](#adobe-lightroom)
-     - [Adobe Photoshop](#adobe-photoshop)
-   - [User Interface & UX Design](#user-interface--ux-design)
-     - [Adobe XD](#adobe-xd)
-   - [Video Editing](#video-editing)
-     - [Adobe After Effects](#adobe-after-effects)
-     - [Adobe Premiere Pro](#adobe-premiere-pro)
-     - [HandBrake](#handbrake)
-   - [Other Digital Creation Tools](#other-digital-creation-tools)
-     - [Adobe Creative Cloud](#adobe-creative-cloud)
-5. [🎮 GAMING](#gaming)
-   - [Game Distribution Platforms](#game-distribution-platforms)
-     - [Steam](#steam)
-   - [Game Utilities & Add-ons](#game-utilities--add-ons)
-6. [🎥 MEDIA](#media)
-   - [Media Players](#media-players)
-     - [VLC media player](#vlc-media-player)
-   - [Podcasts & Audiobooks](#podcasts--audiobooks)
-     - [Audible](#audible)
-   - [Streaming Services](#streaming-services)
-     - [Netflix](#netflix)
-     - [Plex](#plex)
-     - [Plex Media Server](#plex-media-server)
-     - [Spotify](#spotify)
-     - [Twitch](#twitch)
-7. [📚 OFFICE & PRODUCTIVITY](#office--productivity)
-   - [Exam & Test Taking](#exam--test-taking)
-     - [DigiExam](#digiexam)
-   - [Note-taking & Task Management](#note-taking--task-management)
-     - [Notion](#notion)
-     - [Obsidian](#obsidian)
-     - [Standard Notes](#standard-notes)
-     - [TickTick](#ticktick)
-   - [Office Suites](#office-suites)
-     - [LibreOffice](#libreoffice)
-   - [Reference Management](#reference-management)
-     - [Zotero](#zotero)
-   - [Writing & Grammar Tools](#writing--grammar-tools)
-     - [Grammarly](#grammarly)
-     - [Mark Text](#mark-text)
-8. [🔒 SECURITY](#security)
-   - [Antivirus & Malware Protection](#antivirus--malware-protection)
-   - [Password Managers](#password-managers)
-     - [Bitwarden](#bitwarden)
-   - [Other Security Tools](#other-security-tools)
-9. [🔧 UTILITIES](#utilities)
-   - [Backup & Sync](#backup--sync)
-     - [Google Drive](#google-drive)
-   - [File Compression & Extraction](#file-compression--extraction)
-     - [7-Zip](#7-zip)
-     - [WinRAR](#winrar)
-   - [File Management & Search](#file-management--search)
-     - [Everything](#everything)
-     - [Search Everything](#search-everything)
-   - [Keyboard & Input Utilities](#keyboard--input-utilities)
-     - [AutoHotkey](#autohotkey)
-     - [Hot Virtual Keyboard](#hot-virtual-keyboard)
-     - [Macro Buttons](#macro-buttons)
-   - [System Utilities](#system-utilities)
-     - [Core Temp](#core-temp)
-     - [Ditto](#ditto)
-     - [Driver Booster 7](#driver-booster-7)
-     - [f.lux](#flux)
-     - [IObit Uninstaller](#iobit-uninstaller)
-     - [Lively Wallpaper](#lively-wallpaper)
-     - [ModernFlyouts (Preview)](#modernflyouts-preview)
-     - [PowerToys](#powertoys)
-     - [Translucent TB](#translucent-tb)
-   - [Other Utilities](#other-utilities)
-     - [Camo Studio](#camo-studio)
-     - [DroidCam Client](#droidcam-client)
-     - [EpocCam](#epoccam)
-     - [netcut](#netcut)
-     - [qBittorrent](#qbittorrent)
+<!-- rest of the table of contents -->
+
+| 3. 🛠️ [DEVELOPMENT TOOLS](#development-tools) | 7. 📚 [OFFICE & PRODUCTIVITY](#office--productivity) | •    [Hot Virtual Keyboard](#hot-virtual-keyboard) |
+| ---------------------------------------------- | --------------------------------------------------- | •    [Macro Buttons](#macro-buttons)             |
+| •    [Code Editors](#code-editors)             | •    [Exam & Test Taking](#exam--test-taking)      | •    [System Utilities](#system-utilities)        |
+|      •    [Visual Studio Code](visual-studio-code) |      •    [DigiExam](#digiexam)                   |      •    [Core Temp](#core-temp)                 |
+| •    [IDEs](#ides)                             | •    [Note-taking & Task Management](#note-taking--task-management) |      •    [Ditto](#ditto)                         |
+| •    [Version Control](#version-control)       |      •    [Notion](#notion)                        |      •    [Driver Booster 7](#driver-booster-7)   |
+|                                                |      •    [Obsidian](#obsidian)                    |      •    [f.lux](#flux)                          |
+| 4.
+
 
 
 
