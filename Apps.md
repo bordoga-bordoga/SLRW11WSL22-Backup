@@ -12,22 +12,22 @@
 ⋅ [Vivaldi](#vivaldi)
 
 2. [COMMUNICATION](#communication)
-  - [Email Clients](#email-clients)
+   - [Email Clients](#email-clients)
 
     ⋅ [Mailspring](#mailspring)
 
-  - [Messaging & Chat](#messaging--chat)
+   - [Messaging & Chat](#messaging--chat)
 
     ⋅ [Discord](#discord)
     ⋅ [Guilded](#guilded)
     ⋅ [Signal](#signal)
     ⋅ [Skype](#skype)
 
-  - [Social Media](#social-media)
+   - [Social Media](#social-media)
 
     ⋅ [Twitter](#twitter)
 
-  - [Video Conferencing](#video-conferencing)
+   - [Video Conferencing](#video-conferencing)
 3. [DEVELOPMENT TOOLS](#development-tools)
   - [Code Editors](#code-editors)
     - [Visual Studio Code](visual-studio-code)
