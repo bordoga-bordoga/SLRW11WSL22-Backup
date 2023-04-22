@@ -3,6 +3,7 @@
 # Table of Contents
 
 1. [BROWSERS](#browsers)
+
 ⋅ [Brave](#brave)
 ⋅ [Firefox](#firefox)
 ⋅ [Firefox Nightly](#firefox-nightly)
