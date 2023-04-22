@@ -2,31 +2,25 @@
 
 # Table of Contents
 
-1. [🌐 Browsers](#browsers)
-
-   ⚬ [Brave](#brave)
-   
-   ⚬ [Firefox](#firefox)
-   
-   ⚬ [Firefox Nightly](#firefox-nightly)
-   
-   ⚬ [Google Chrome](#google-chrome)
-   
-   ⚬ [Opera Browser](#opera-browser)
-   
-   ⚬ [Vivaldi](#vivaldi)
-
-2. [💬 Communication](#communication)
-   * [Email Clients](#email-clients)
-     + [Mailspring](#mailspring)
-   * [Messaging & Chat](#messaging--chat)
-     + [Discord](#discord)
-     + [Guilded](#guilded)
-     + [Signal](#signal)
-     + [Skype](#skype)
-   * [Social Media](#social-media)
-     + [Twitter](#twitter)
-   * [Video Conferencing](#video-conferencing)
+1. [Browsers](#browsers)
+   - [Brave](#brave)
+   - [Brave](#brave)
+   - [Firefox](#firefox)
+   - [Firefox Nightly](#firefox-nightly)
+   - [Google Chrome](#google-chrome)
+   - [Opera Browser](#opera-browser)
+   - [Vivaldi](#vivaldi)
+2. [Communication](#communication)
+   - [Email Clients](#email-clients)
+     - [Mailspring](#mailspring)
+   - [Messaging & Chat](#messaging--chat)
+     - [Discord](#discord)
+     - [Guilded](#guilded)
+     - [Signal](#signal)
+     - [Skype](#skype)
+   - [Social Media](#social-media)
+     - [Twitter](#twitter)
+   - [Video Conferencing](#video-conferencing)
 3. [🛠️ Development Tools](#development-tools)
    - [Code Editors](#code-editors)
      - [Visual Studio Code](visual-studio-code)
