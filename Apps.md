@@ -5,10 +5,15 @@
 1. [🌐 Browsers](#browsers)
 
    ⚬ [Brave](#brave)
+   
    ⚬ [Firefox](#firefox)
+   
    ⚬ [Firefox Nightly](#firefox-nightly)
+   
    ⚬ [Google Chrome](#google-chrome)
+   
    ⚬ [Opera Browser](#opera-browser)
+   
    ⚬ [Vivaldi](#vivaldi)
 
 2. [💬 Communication](#communication)
