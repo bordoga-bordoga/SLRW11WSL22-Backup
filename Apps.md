@@ -50,8 +50,6 @@
 
 # Browsers
 
-</details>
-
 ### [Brave](https://brave.com/)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Brave_browser_logo.svg/1200px-Brave_browser_logo.svg.png" alt="Brave Logo" width="25" style="vertical-align: middle;"> *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
@@ -198,8 +196,6 @@ Vivaldi is a fast, customizable web browser designed for power users, built usin
 
 ## Email Clients
 
-</details>
-
 ### [Mailspring](https://getmailspring.com/)
 
 ###### <img src="https://getmailspring.com/favicon.ico" alt="Mailspring Logo" width="25" style="vertical-align: middle;"> *by [Foundry 376, LLC.](https://foundry376.com/)* – (2021-09, v1.9.2)
@@ -303,8 +299,6 @@ Skype is a communication platform that offers instant messaging, voice calls, vi
 
 ## Social Media
 
-</details>
-
 ### [Twitter](https://www.twitter.com/)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Twitter_logo_white.svg/1280px-Twitter_logo_white.svg.png" alt="Twitter Logo" width="25" style="vertical-align: middle;"> *by [Twitter Inc.](https://www.twitter.com)* – (2021-09, 8.68.0)
@@ -333,8 +327,6 @@ Twitter is a social media platform that allows users to send and receive short m
 # Development Tools
 
 ## Code Editors
-
-</details>
 
 ### [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -370,8 +362,6 @@ Visual Studio Code is a lightweight, open-source code editor that supports synta
 ## Animation
 
 ## Audio Editing
-
-</details>
 
 ### [Adobe Audition](https://www.adobe.com/products/audition.html)
 
@@ -445,8 +435,6 @@ Voicemeeter is an audio virtual mixer that allows you to mix and manage any audi
 
 ## Graphic Design
 
-</details>
-
 ### [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator Logo" width="25" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v25.4.1)
@@ -470,8 +458,6 @@ Adobe Illustrator is a vector graphics editor used by designers to create and ed
 > > - [`···`](https://www.adobeexchange.com/creativecloud/illustrator.html)
 
 ## Photography & Image Editing
-
-</details>
 
 ### [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
 
@@ -520,8 +506,6 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 
 ## User Interface & UX Design
 
-</details>
-
 ### [Adobe XD](https://www.adobe.com/products/xd.html)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD Logo" width="25" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v45.0)
@@ -545,8 +529,6 @@ Adobe XD is a vector-based user experience design tool for web apps and mobile a
 > > - [`···`](https://www.adobe.com/products/xd/learn/develop/plugins.html)
 
 ## Video Editing
-
-</details>
 
 ### [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
 
@@ -614,8 +596,6 @@ HandBrake is a free and open-source video transcoder that converts video from ne
 
 ## Other Digital Creation Tools
 
-</details>
-
 ### [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Adobe_Creative_Cloud_logo.svg/1200px-Adobe_Creative_Cloud_logo.svg.png" alt="Adobe Creative Cloud Logo" width="25" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, N/A)
@@ -668,8 +648,6 @@ Steam is a digital distribution platform developed by Valve Corporation that off
 
 ## Media Players
 
-</details>
-
 ### [VLC media player](https://www.videolan.org/vlc/)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/VLC_Icon.svg/1024px-VLC_Icon.svg.png" alt="VLC media player Logo" width="25" style="vertical-align: middle;"> *by [VideoLAN](https://www.videolan.org)* – (2021-09, 3.0.16)
@@ -694,8 +672,6 @@ VLC media player is a free, open-source multimedia player that supports a wide r
 
 ## Podcasts & Audiobooks
 
-</details>
-
 ### [Audible](https://www.audible.com/)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Audible_logo.svg/1024px-Audible_logo.svg.png" alt="Audible Logo" width="25" style="vertical-align: middle;"> *by [Audible, Inc.](https://www.audible.com)* – (2021-09, N/A)
@@ -713,8 +689,6 @@ Audible is an online platform that provides spoken audio entertainment, informat
 > - Sleep timer
 
 ## Streaming Services
-
-</details>
 
 ### [Netflix](https://www.netflix.com/)
 
@@ -821,8 +795,6 @@ Twitch is a popular live streaming platform that focuses primarily on video game
 
 ## Exam & Test Taking
 
-</details>
-
 ### [DigiExam](https://www.digiexam.se/en/)
 
 ###### <img src="https://www.digiexam.se/wp-content/uploads/2019/05/DigiExam-Icon.png" alt="DigiExam Logo" width="25" style="vertical-align: middle;"> *by [DigiExam Solutions AB](https://www.digiexam.se)* – (2021-09, N/A)
@@ -840,8 +812,6 @@ DigiExam is a digital examination platform that allows educators to create, deli
 > - Collaborative exam creation
 
 ## Note-taking & Task Management
-
-</details>
 
 ### [Notion](https://www.notion.so/)
 
@@ -926,8 +896,6 @@ TickTick is a cross-platform to-do list app and task manager that helps you capt
 
 ## Office Suites
 
-</details>
-
 ### [LibreOffice](https://www.libreoffice.org/)
 
 ###### <img src="https://www.libreoffice.org/favicon.ico" alt="LibreOffice Logo" width="25" style="vertical-align: middle;"> *by [The Document Foundation](https://www.documentfoundation.org)* – (2021-09, v7.2.1)
@@ -950,8 +918,6 @@ LibreOffice is a free and open-source office suite that offers a comprehensive s
 > > - [`···`](https://www.libreoffice.org/download/download/)
 
 ## Reference Management
-
-</details>
 
 ### [Zotero](https://www.zotero.org/)
 
@@ -976,8 +942,6 @@ Zotero is a free, open-source reference management software designed to help use
 > > - [`···`](https://www.zotero.org/support/plugins)
 
 ## Writing & Grammar Tools
-
-</details>
 
 ### [Grammarly](https://www.grammarly.com/)
 
@@ -1026,8 +990,6 @@ Mark Text is a simple yet powerful Markdown editor that focuses on speed and usa
 
 ## Password Managers
 
-</details>
-
 ### [Bitwarden](https://bitwarden.com/)
 
 ###### <img src="https://bitwarden.com/images/favicon.png" alt="Bitwarden Logo" width="25" style="vertical-align: middle;"> *by [Bitwarden Inc.](https://bitwarden.com)* – (2021-09, v1.28.2)
@@ -1051,8 +1013,6 @@ Bitwarden is a free and open-source password manager that helps individuals and 
 
 ## Backup & Sync
 
-</details>
-
 ### [Google Drive](https://www.google.com/drive/)
 
 ###### <img src="https://www.google.com/drive/static/images/drive/favicon.ico" alt="Google Drive Logo" width="25" style="vertical-align: middle;"> *by [Google LLC](https://www.google.com)* – (2021-09)
@@ -1070,8 +1030,6 @@ Google Drive is a cloud storage service that allows you to store, share, and col
 > - Mobile and desktop applications
 
 ## File Compression & Extraction
-
-#</details>
 
 ### [7-Zip](https://www.7-zip.org/)
 
@@ -1115,8 +1073,6 @@ WinRAR is a powerful archive manager for Windows, macOS, and Linux. It allows us
 
 ## File Management & Search
 
-</details>
-
 ### [Everything](https://www.voidtools.com/)
 
 ###### <img src="https://www.voidtools.com/favicon.ico" alt="Everything Logo" width="25" style="vertical-align: middle;"> *by [David Carpenter](https://www.voidtools.com)* – (2021-09, v1.4.1.1009)
@@ -1152,8 +1108,6 @@ Search Everything is a fast and lightweight file search tool for Windows that in
 > - Supports NTFS drives
 
 ## Keyboard & Input Utilities
-
-</details>
 
 ### [AutoHotkey](https://www.autohotkey.com/)
 
@@ -1208,8 +1162,6 @@ Macro Buttons is a customizable macro key creator that allows you to create cust
 > - Streamlined productivity
 
 ## System Utilities
-
-</details>
 
 ### [Core Temp](https://www.alcpu.com/CoreTemp/)
 
@@ -1372,8 +1324,6 @@ Translucent TB is an open-source Windows utility that allows you to customize th
 > - Customization of accent colors
 
 ## Other Utilities
-
-</details>
 
 ### [Camo Studio](https://reincubate.com/camo/)
 
