@@ -2,25 +2,19 @@
 
 # Table of Contents
 
-1. [🌐 BROWSERS](#browsers)
-   - [Brave](#brave)
-   - [Brave](#brave)
-   - [Firefox](#firefox)
-   - [Firefox Nightly](#firefox-nightly)
-   - [Google Chrome](#google-chrome)
-   - [Opera Browser](#opera-browser)
-   - [Vivaldi](#vivaldi)
-2. [💬 COMMUNICATION](#communication)
-   - [Email Clients](#email-clients)
-     - [Mailspring](#mailspring)
-   - [Messaging & Chat](#messaging--chat)
-     - [Discord](#discord)
-     - [Guilded](#guilded)
-     - [Signal](#signal)
-     - [Skype](#skype)
-   - [Social Media](#social-media)
-     - [Twitter](#twitter)
-   - [Video Conferencing](#video-conferencing)
+| 1. 🌐 [BROWSERS](#browsers)               | 5. 🎮 [GAMING](#gaming)                        | 9. 🔧 [UTILITIES](#utilities)               |
+| ----------------------------------------- | ---------------------------------------------- | ------------------------------------------ |
+| - [Brave](#brave)                         | - [Game Distribution Platforms](#game-distribution-platforms) | - [Backup & Sync](#backup--sync)           |
+| - [Firefox](#firefox)                     |   + [Steam](#steam)                            |   + [Google Drive](#google-drive)          |
+| - [Firefox Nightly](#firefox-nightly)     | - [Game Utilities & Add-ons](#game-utilities--add-ons) | - [File Compression & Extraction](#file-compression--extraction) |
+| - [Google Chrome](#google-chrome)         |                                                |   + [7-Zip](#7-zip)                         |
+| - [Opera Browser](#opera-browser)         |                                                |   + [WinRAR](#winrar)                       |
+| - [Vivaldi](#vivaldi)                     |                                                | - [File Management & Search](#file-management--search) |
+|                                           |                                                |   + [Everything](#everything)               |
+| 2. 💬 [COMMUNICATION](#communication)     | 6. 🎥 [MEDIA](#media)                          |   + [Search Everything](#search-everything) |
+| - [Email Clients](#email-clients)         | - [Media Players](#media-players)             | - [Keyboard & Input Utilities](#keyboard--input-utilities) |
+|   + [Mailspring](#mailspring)             |   + [VLC media player](#vlc-media-player)     |   + [AutoHotkey](#autohotkey)               |
+
 3. [🛠️ DEVELOPMENT TOOLS](#development-tools)
    - [Code Editors](#code-editors)
      - [Visual Studio Code](visual-studio-code)
