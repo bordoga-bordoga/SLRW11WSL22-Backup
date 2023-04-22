@@ -798,11 +798,11 @@ Plex Media Server is the software component that powers the Plex ecosystem, allo
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" alt="Spotify Logo" width="15" style="vertical-align: middle;"> *by [Spotify Ltd.](https://www.spotify.com)* – (2021-09, 1.1.68)
 
 <details>
+⠀
+Spotify is a digital music, podcast, and video streaming service that provides access to millions of songs and other content from artists all over the world.
+
 
 <summary>More Info...</summary>
-
-
-Spotify is a digital music, podcast, and video streaming service that provides access to millions of songs and other content from artists all over the world.
 
 #### Features
 > - Personalized playlists
