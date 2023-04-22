@@ -20,9 +20,6 @@
 | 2. 💬 [COMMUNICATION](#communication)     | 6. 🎥 [MEDIA](#media)                          |      •    [Search Everything](#search-everything) |
 | •    [Email Clients](#email-clients)      | •    [Media Players](#media-players)          | •    [Keyboard & Input Utilities](#keyboard--input-utilities) |
 |      •    [Mailspring](#mailspring)       |      •    [VLC media player](#vlc-media-player) |      •    [AutoHotkey](#autohotkey)               |
-
-<!-- rest of the table of contents -->
-
 | 3. 🛠️ [DEVELOPMENT TOOLS](#development-tools) | 7. 📚 [OFFICE & PRODUCTIVITY](#office--productivity) | •    [Hot Virtual Keyboard](#hot-virtual-keyboard) |
 | ---------------------------------------------- | --------------------------------------------------- | •    [Macro Buttons](#macro-buttons)             |
 | •    [Code Editors](#code-editors)             | •    [Exam & Test Taking](#exam--test-taking)      | •    [System Utilities](#system-utilities)        |
