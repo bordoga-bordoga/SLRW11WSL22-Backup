@@ -61,7 +61,7 @@
      - [Plex Media Server](#plex-media-server)
      - [Spotify](#spotify)
      - [Twitch](#twitch)
-7. [📝 Office & Productivity](#office--productivity)
+7. [🗂️ Office & Productivity](#office--productivity)
    - [Exam & Test Taking](#exam--test-taking)
      - [DigiExam](#digiexam)
    - [Note-taking & Task Management](#note-taking--task-management)
