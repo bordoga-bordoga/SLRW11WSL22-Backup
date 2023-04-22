@@ -2,114 +2,38 @@
 
 # Table of Contents
 
-1. [🌐 BROWSERS](#browsers)
-   - [Brave](#brave)
-   - [Brave](#brave)
-   - [Firefox](#firefox)
-   - [Firefox Nightly](#firefox-nightly)
-   - [Google Chrome](#google-chrome)
-   - [Opera Browser](#opera-browser)
-   - [Vivaldi](#vivaldi)
-2. [💬 COMMUNICATION](#communication)
-   - [Email Clients](#email-clients)
-     - [Mailspring](#mailspring)
-   - [Messaging & Chat](#messaging--chat)
-     - [Discord](#discord)
-     - [Guilded](#guilded)
-     - [Signal](#signal)
-     - [Skype](#skype)
-   - [Social Media](#social-media)
-     - [Twitter](#twitter)
-   - [Video Conferencing](#video-conferencing)
-3. [🛠️ DEVELOPMENT TOOLS](#development-tools)
-   - [Code Editors](#code-editors)
-     - [Visual Studio Code](visual-studio-code)
-   - [IDEs](#ides)
-   - [Version Control](#version-control)
-4. [🎨 DIGITAL CREATION](#digital-creation)
-   - [3D Modeling](#3d-modeling)
-   - [Animation](#animation)
-   - [Audio Editing](#audio-editing)
-     - [Adobe Audition](#adobe-audition)
-     - [OBS Studio](#obs-studio)
-     - [Voicemeeter](#voicemeeter)
-   - [Graphic Design](#graphic-design)
-     - [Adobe Illustrator](#adobe-illustrator)
-   - [Photography & Image Editing](#photography--image-editing)
-     - [Adobe Lightroom](#adobe-lightroom)
-     - [Adobe Photoshop](#adobe-photoshop)
-   - [User Interface & UX Design](#user-interface--ux-design)
-     - [Adobe XD](#adobe-xd)
-   - [Video Editing](#video-editing)
-     - [Adobe After Effects](#adobe-after-effects)
-     - [Adobe Premiere Pro](#adobe-premiere-pro)
-     - [HandBrake](#handbrake)
-   - [Other Digital Creation Tools](#other-digital-creation-tools)
-     - [Adobe Creative Cloud](#adobe-creative-cloud)
-5. [🎮 GAMING](#gaming)
-   - [Game Distribution Platforms](#game-distribution-platforms)
-     - [Steam](#steam)
-   - [Game Utilities & Add-ons](#game-utilities--add-ons)
-6. [🎥 MEDIA](#media)
-   - [Media Players](#media-players)
-     - [VLC media player](#vlc-media-player)
-   - [Podcasts & Audiobooks](#podcasts--audiobooks)
-     - [Audible](#audible)
-   - [Streaming Services](#streaming-services)
-     - [Netflix](#netflix)
-     - [Plex](#plex)
-     - [Plex Media Server](#plex-media-server)
-     - [Spotify](#spotify)
-     - [Twitch](#twitch)
-7. [📚 OFFICE & PRODUCTIVITY](#office--productivity)
-   - [Exam & Test Taking](#exam--test-taking)
-     - [DigiExam](#digiexam)
-   - [Note-taking & Task Management](#note-taking--task-management)
-     - [Notion](#notion)
-     - [Obsidian](#obsidian)
-     - [Standard Notes](#standard-notes)
-     - [TickTick](#ticktick)
-   - [Office Suites](#office-suites)
-     - [LibreOffice](#libreoffice)
-   - [Reference Management](#reference-management)
-     - [Zotero](#zotero)
-   - [Writing & Grammar Tools](#writing--grammar-tools)
-     - [Grammarly](#grammarly)
-     - [Mark Text](#mark-text)
-8. [🔒 SECURITY](#security)
-   - [Antivirus & Malware Protection](#antivirus--malware-protection)
-   - [Password Managers](#password-managers)
-     - [Bitwarden](#bitwarden)
-   - [Other Security Tools](#other-security-tools)
-9. [🔧 UTILITIES](#utilities)
-   - [Backup & Sync](#backup--sync)
-     - [Google Drive](#google-drive)
-   - [File Compression & Extraction](#file-compression--extraction)
-     - [7-Zip](#7-zip)
-     - [WinRAR](#winrar)
-   - [File Management & Search](#file-management--search)
-     - [Everything](#everything)
-     - [Search Everything](#search-everything)
-   - [Keyboard & Input Utilities](#keyboard--input-utilities)
-     - [AutoHotkey](#autohotkey)
-     - [Hot Virtual Keyboard](#hot-virtual-keyboard)
-     - [Macro Buttons](#macro-buttons)
-   - [System Utilities](#system-utilities)
-     - [Core Temp](#core-temp)
-     - [Ditto](#ditto)
-     - [Driver Booster 7](#driver-booster-7)
-     - [f.lux](#flux)
-     - [IObit Uninstaller](#iobit-uninstaller)
-     - [Lively Wallpaper](#lively-wallpaper)
-     - [ModernFlyouts (Preview)](#modernflyouts-preview)
-     - [PowerToys](#powertoys)
-     - [Translucent TB](#translucent-tb)
-   - [Other Utilities](#other-utilities)
-     - [Camo Studio](#camo-studio)
-     - [DroidCam Client](#droidcam-client)
-     - [EpocCam](#epoccam)
-     - [netcut](#netcut)
-     - [qBittorrent](#qbittorrent)
+---
+
+| 🌐 **[BROWSERS](#browsers)**               | 💬 **[COMMUNICATION](#communication)**      | 🛠️ **[DEVELOPMENT TOOLS](#development-tools)** |
+| ------------------------------------------ | ------------------------------------------- | ---------------------------------------------- |
+| 🟢 [Brave](#brave)                         | 📧 [Email Clients](#email-clients)         | 🟣 [Code Editors](#code-editors)              |
+| 🟠 [Firefox](#firefox)                     | 💬 [Messaging & Chat](#messaging--chat)    | 🔵 [IDEs](#ides)                              |
+| 🔵 [Firefox Nightly](#firefox-nightly)     | 🐦 [Social Media](#social-media)           | ⚫️ [Version Control](#version-control)        |
+| 🟣 [Google Chrome](#google-chrome)         | 📹 [Video Conferencing](#video-conferencing) |                                            |
+| ⚫️ [Opera Browser](#opera-browser)          |                                           |                                            |
+| 🟡 [Vivaldi](#vivaldi)                     |                                           |                                            |
+
+| 🎨 **[DIGITAL CREATION](#digital-creation)** | 🎮 **[GAMING](#gaming)**                  | 🎥 **[MEDIA](#media)**                     |
+| -------------------------------------------- | ------------------------------------------ | ------------------------------------------ |
+| 🟡 [3D Modeling](#3d-modeling)               | 🎮 [Game Distribution Platforms](#game-distribution-platforms) | 🎞️ [Media Players](#media-players)       |
+| 🟠 [Animation](#animation)                   | 🛠️ [Game Utilities & Add-ons](#game-utilities--add-ons) | 🎧 [Podcasts & Audiobooks](#podcasts--audiobooks) |
+| 🔵 [Audio Editing](#audio-editing)           |                                          | 📺 [Streaming Services](#streaming-services) |
+| 🟣 [Graphic Design](#graphic-design)         |                                          |                                            |
+| ⚫️ [Photography & Image Editing](#photography--image-editing) |                        |                                            |
+| 🟢 [User Interface & UX Design](#user-interface--ux-design) |                          |                                            |
+| 🟠 [Video Editing](#video-editing)           |                                          |                                            |
+| 🔵 [Other Digital Creation Tools](#other-digital-creation-tools) |                      |                                            |
+
+| 📚 **[OFFICE & PRODUCTIVITY](#office--productivity)** | 🔒 **[SECURITY](#security)**            | 🔧 **[UTILITIES](#utilities)**           |
+| ------------------------------------------------------ | --------------------------------------- | ---------------------------------------- |
+| 📝 [Exam & Test Taking](#exam--test-taking)          | 🛡️ [Antivirus & Malware Protection](#antivirus--malware-protection) | 🔄 [Backup & Sync](#backup--sync)       |
+| 📓 [Note-taking & Task Management](#note-taking--task-management) | 🔑 [Password Managers](#password-managers) | 📦 [File Compression & Extraction](#file-compression--extraction) |
+| 📚 [Office Suites](#office-suites)                   | 🛠️ [Other Security Tools](#other-security-tools) | 🗂️ [File Management & Search](#file-management--search) |
+| 📚 [Reference Management](#reference-management)     |                                         | ⌨️ [Keyboard & Input Utilities](#keyboard--input-utilities) |
+| ✍️ [Writing & Grammar Tools](#writing--grammar-tools) |                                       | 🛠 [System Utilities](#system-utilities)       |
+
+---
+
 
 
 
