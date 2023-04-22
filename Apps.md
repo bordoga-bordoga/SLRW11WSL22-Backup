@@ -4,7 +4,7 @@
 
 ---
 
-1. [🌐 BROWSERS](#browsers)
+1. 🌐 [BROWSERS](#browsers)
    - [Brave](#brave)
    - [Brave](#brave)
    - [Firefox](#firefox)
