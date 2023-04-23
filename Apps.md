@@ -78,7 +78,7 @@ Brave is a free and open-source web browser that emphasizes privacy, security, a
 
 <style>
   details summary + * {
-    margin-top: -1em;
+    margin-top: -2em;
   }
 </style>
 
