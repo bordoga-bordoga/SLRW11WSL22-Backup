@@ -53,11 +53,13 @@
 <details>
 
 **<summary style="display:inline-block; margin-bottom: -10px;">[Brave](https://brave.com/)</summary>**
+
 <style>
   .brave-title {
     margin-top: -10px;
   }
 </style>
+
 <div class="brave-title">
 
   ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Brave_browser_logo.svg/1200px-Brave_browser_logo.svg.png" alt="Brave Logo" width="15" style="vertical-align: middle;"> *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
