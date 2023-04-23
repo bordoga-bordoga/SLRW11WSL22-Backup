@@ -11,7 +11,7 @@
    - [Email Clients](#email-clients)
    - [Messaging & Chat](#messaging--chat)
    - [Social Media](#social-media)
-   - [Video Conferencing](#video-conferencing)
+<!--   - [Video Conferencing](#video-conferencing) -->
 3. [🛠️ DEVELOPMENT TOOLS](#development-tools)
    - [Code Editors](#code-editors)
    - [IDEs](#ides)
