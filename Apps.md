@@ -237,7 +237,7 @@
 
 <details>
 
-**<summary><img width="15" src="LINKKKK"> [Discord](https://discord.com/)</summary>**
+**<summary><img width="15" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> [Discord](https://discord.com/)</summary>**
 
 ###### *by [Discord Inc.](https://discord.com)* – (2021-09, v1.0.9003⠀
 
