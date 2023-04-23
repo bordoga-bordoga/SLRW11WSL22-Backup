@@ -160,7 +160,7 @@
 
 </details>
 
-###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code Logo" width="15" style="vertical-align: middle;"> *by [Microsoft](https://www.microsoft.com)* – (2021-09, 1.60)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code Logo" width="15" style="vertical-align: middle;"> *by [Microsoft](https://www.microsoft.com)* – (2021-09, 1.60)
 
 <details>
 
