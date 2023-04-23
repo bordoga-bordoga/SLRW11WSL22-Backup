@@ -259,7 +259,7 @@ Discord is a voice, video, and text communication platform designed primarily fo
 
 <details>
 
-**<summary><img width="15" src="LINKKKK"> [https://theme.zdassets.com/theme_assets/9580103/07defec28cdc4dca22ce6e2154b1c2299346fe5f.png](https://www.guilded.gg/)</summary>**
+**<summary><img width="15" src="https://theme.zdassets.com/theme_assets/9580103/07defec28cdc4dca22ce6e2154b1c2299346fe5f.png"> [Guilded](https://www.guilded.gg/)</summary>**
 
 ###### *by [Guilded Inc.](https://www.guilded.gg)* – (2021-09⠀
 
