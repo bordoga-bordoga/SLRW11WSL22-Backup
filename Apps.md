@@ -162,7 +162,25 @@
 
 <details>
 
-**<summary><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vivaldi_web_browser_logo.svg/1026px-Vivaldi_web_browser_logo.svg.png" width="15" style="vertical-align: middle;"> [Vivaldi](https://vivaldi.com/)</summary>**
+<style>
+  .vivaldi-link {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+  }
+
+  .vivaldi-link::before {
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vivaldi_web_browser_logo.svg/1026px-Vivaldi_web_browser_logo.svg.png");
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+  }
+</style>
+
+<summary>
+  <a class="vivaldi-link" href="https://vivaldi.com/">Vivaldi</a>
+</summary>
+
 
 > ###### *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
 >
