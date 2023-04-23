@@ -67,8 +67,8 @@
 
   <summary>
     <table>
-        <img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" width="15"></
-        <strong><a href="https://brave.com/">Brave</a></strong>
+        <td><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" width="15"></td>
+        <td><strong><a href="https://brave.com/">Brave</a></strong></td>
     </table>
   </summary>
 
