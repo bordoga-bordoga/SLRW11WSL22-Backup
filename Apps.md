@@ -162,7 +162,7 @@
 
 <details>
 
-**<summary><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vivaldi_web_browser_logo.svg/1026px-Vivaldi_web_browser_logo.svg.png" width="15" style="vertical-align: middle;"> [Vivaldi](https://vivaldi.com/)</summary>**
+**<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vivaldi_web_browser_logo.svg/1026px-Vivaldi_web_browser_logo.svg.png" width="15" style="vertical-align: middle;"> [Vivaldi](https://vivaldi.com/)**
 
 > ###### *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
 >
