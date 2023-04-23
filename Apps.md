@@ -160,11 +160,11 @@
 
 </details>
 
-###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code Logo" width="15"> *by [Microsoft](https://www.microsoft.com)* – (2021-09, 1.60)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code Logo" width="15" style="vertical-align: top;"> *by [Microsoft](https://www.microsoft.com)* – (2021-09, 1.60)
 
 <details>
 
-**<summary><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vivaldi_web_browser_logo.svg/1026px-Vivaldi_web_browser_logo.svg.png" width="15" style="vertical-align: middle;"> [Vivaldi](https://vivaldi.com/)</summary>**
+**<summary><p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vivaldi_web_browser_logo.svg/1026px-Vivaldi_web_browser_logo.svg.png" width="15" style="vertical-align: middle;"></p> [Vivaldi](https://vivaldi.com/)</summary>**
 
 > ###### *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
 >
