@@ -63,7 +63,14 @@
 
 # Browsers
 
-<details><summary><table><td><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" width="15"></td><td><strong><a href="https://brave.com/">Brave</a></strong></td></table></summary>
+<details>
+  <summary>
+    <span style="display: inline-flex; align-items: center;">
+      <img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" width="15" style="margin-right: 5px;">
+      <strong><a href="https://brave.com/">Brave</a></strong>
+    </span>
+  </summary>
+
 
 > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
 >
