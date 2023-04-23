@@ -332,7 +332,7 @@ Twitter is a social media platform that allows users to send and receive short m
 
 
 # Development Tools
-
+---
 ## Code Editors
 
 <details>
