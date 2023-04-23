@@ -74,7 +74,7 @@ Brave is a free and open-source web browser that emphasizes privacy, security, a
 
 <details>
 
-**<summary>[Firefox](https://www.mozilla.org/en-US/firefox/new/)</summary>**
+<summary><h3><a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a></h3></summary>
 
 ###### <img src="https://www.mozilla.org/media/img/favicons/firefox/browser/favicon.e6e1e7a96ea4.ico" alt="Firefox Logo" width="15" style="vertical-align: middle;"> *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
 
@@ -96,7 +96,7 @@ Firefox is a free and open-source web browser that prioritizes user privacy, sec
 
 <details>
 
-**<summary>[Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)</summary>**
+<summary><h3><a href="https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly">Firefox Nightly</a></h3></summary>
 
 ###### <img src="https://www.mozilla.org/media/img/favicons/firefox/favicon-nightly.45c3fc9c69b9.ico" alt="Firefox Nightly Logo" width="15" style="vertical-align: middle;"> *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v95.0a1)
 
@@ -118,7 +118,7 @@ Firefox Nightly is the pre-release version of the Firefox web browser, providing
 
 <details>
 
-**<summary>[Google Chrome](https://www.google.com/chrome/)</summary>**
+<summary><h3><a href="https://www.google.com/chrome/">Google Chrome</a></h3></summary>
 
 ###### <img src="https://www.google.com/favicon.ico" alt="Google Chrome Logo" width="15" style="vertical-align: middle;"> *by [Google LLC](https://www.google.com)* – (2021-09, v93.0.4577.63)
 
@@ -140,7 +140,7 @@ Google Chrome is a fast, secure, and versatile web browser developed by Google, 
 
 <details>
 
-**<summary>[Opera Browser](https://www.opera.com/)</summary>**
+<summary><h3><a href="https://www.opera.com/">Opera Browser</a></h3></summary>
 
 ###### <img src="https://www.opera.com/favicon.ico" alt="Opera Browser Logo" width="15" style="vertical-align: middle;"> *by [Opera Software](https://www.opera.com)* – (2021-09, 79.0)
 
@@ -161,7 +161,7 @@ Opera Browser is a fast and secure web browser featuring a built-in ad blocker, 
 
 <details>
 
-**<summary>[Vivaldi](https://vivaldi.com/)</summary>**
+<summary><h3><a href="https://vivaldi.com/">Vivaldi</a></h3></summary>
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Vivaldi_web_browser_logo_%282016-2019%29.svg/1200px-Vivaldi_web_browser_logo_%282016-2019%29.svg.png" alt="Vivaldi Logo" width="15" style="vertical-align: middle;"> *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
 
