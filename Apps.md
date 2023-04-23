@@ -52,7 +52,7 @@
 
 <details>
 
-**<summary><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" alt="Brave Logo" width="15" style="vertical-align: middle;"> [Brave](https://brave.com/)</summary>**
+**<summary><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png"width="15" style="vertical-align: middle;"> [Brave](https://brave.com/)</summary>**
 
 > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
 >
@@ -75,7 +75,7 @@
 
 <details>
 
-**<summary><img src="https://www.mozilla.org/media/img/favicons/firefox/browser/favicon.e6e1e7a96ea4.ico" alt="Firefox Logo" width="15" style="vertical-align: middle;"> [Firefox](https://www.mozilla.org/en-US/firefox/new/)</summary>**
+**<summary><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png" width="15" style="vertical-align: middle;"> [Firefox](https://www.mozilla.org/en-US/firefox/new/)</summary>**
 
 > ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
 >
@@ -97,7 +97,7 @@
 
 <details>
 
-**<summary><img src="https://www.mozilla.org/media/img/favicons/firefox/favicon-nightly.45c3fc9c69b9.ico" width="15" style="vertical-align: middle;"> [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)</summary>**
+**<summary><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Firefox_Nightly_logo%2C_2019.svg/1971px-Firefox_Nightly_logo%2C_2019.svg.png" width="15" style="vertical-align: middle;"> [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)</summary>**
 
 > ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v95.0a1)
 >
@@ -119,7 +119,7 @@
 
 <details>
 
-**<summary><img src="https://www.google.com/favicon.ico" alt="Google Chrome Logo" width="15" style="vertical-align: middle;"> [Google Chrome](https://www.google.com/chrome/)</summary>**
+**<summary><img src="https://www.google.com/favicon.ico" width="15" style="vertical-align: middle;"> [Google Chrome](https://www.google.com/chrome/)</summary>**
 
 > ###### *by [Google LLC](https://www.google.com)* – (2021-09, v93.0.4577.63)
 >
@@ -141,7 +141,7 @@
 
 <details>
 
-**<summary><img src="https://www.opera.com/favicon.ico" alt="Opera Browser Logo" width="15" style="vertical-align: middle;"> [Opera Browser](https://www.opera.com/)</summary>**
+**<summary><img src="https://www.opera.com/favicon.ico" width="15" style="vertical-align: middle;"> [Opera Browser](https://www.opera.com/)</summary>**
 
 > ###### *by [Opera Software](https://www.opera.com)* – (2021-09, 79.0)
 >
@@ -162,7 +162,7 @@
 
 <details>
 
-**<summary><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Vivaldi_web_browser_logo_%282016-2019%29.svg/1200px-Vivaldi_web_browser_logo_%282016-2019%29.svg.png" alt="Vivaldi Logo" width="15" style="vertical-align: middle;"> [Vivaldi](https://vivaldi.com/)</summary>**
+**<summary><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vivaldi_web_browser_logo.svg/1026px-Vivaldi_web_browser_logo.svg.png" width="15" style="vertical-align: middle;"> [Vivaldi](https://vivaldi.com/)</summary>**
 
 > ###### *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
 >
