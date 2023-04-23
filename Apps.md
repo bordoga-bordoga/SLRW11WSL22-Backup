@@ -54,16 +54,34 @@
 # Browsers
 
 
+[brave-icon]: https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png "Brave icon"
+[firefox-icon]: https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png "Firefox icon"
+
+<style>
+  .browser-icon {
+    width: 15px;
+  }
+
+  .browser-title {
+    font-weight: bold;
+  }
+</style>
+
+
+
+
 <details>
 
 <summary>
-<table>
-  <tr>
-    <td><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png"width="15"></td>
-    <td><strong><a href="https://brave.com/">Brave</a></strong></td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td><img src="[brave-icon]" class="browser-icon"></td>
+      <td><span class="browser-title"><a href="https://brave.com/">Brave</a></span></td>
+    </tr>
+  </table>
 </summary>
+
+
 
 
 > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
