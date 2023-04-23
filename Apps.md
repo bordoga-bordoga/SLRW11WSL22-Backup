@@ -165,10 +165,13 @@
 <details>
 
 <p>
-  <summary>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vivaldi_web_browser_logo.svg/1026px-Vivaldi_web_browser_logo.svg.png" width="15">
-    <strong><a href="https://vivaldi.com/">Vivaldi</a></strong>
-  </summary>
+  <details>
+    <summary>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vivaldi_web_browser_logo.svg/1026px-Vivaldi_web_browser_logo.svg.png" width="15">
+      <strong><a href="https://vivaldi.com/">Vivaldi</a></strong>
+    </summary>
+    <p>Additional details here.</p>
+  </details>
 </p>
 
 <style>
@@ -177,7 +180,6 @@ summary {
   align-items: center;
 }
 summary img {
-  margin-top: -1px;
   margin-right: 5px;
 }
 </style>
