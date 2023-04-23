@@ -164,12 +164,20 @@
 
 <details>
 
-<p style="vertical-align: middle;">
+<p>
   <summary>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vivaldi_web_browser_logo.svg/1026px-Vivaldi_web_browser_logo.svg.png" width="15">
     <strong><a href="https://vivaldi.com/">Vivaldi</a></strong>
   </summary>
 </p>
+
+<style>
+summary img {
+  vertical-align: middle;
+  margin-right: 10px; /* adjust this value as needed */
+}
+</style>
+
 
 
 > ###### *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
