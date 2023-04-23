@@ -8,15 +8,20 @@
 1. [🌐 BROWSERS](#browsers)
 
 2. [💬 COMMUNICATION](#communication)
+
    - [Email Clients](#email-clients)
    - [Messaging & Chat](#messaging--chat)
    - [Social Media](#social-media)
 <!--   - [Video Conferencing](#video-conferencing) -->
+
 3. [🛠️ DEVELOPMENT TOOLS](#development-tools)
+
    - [Code Editors](#code-editors)
    - [IDEs](#ides)
    - [Version Control](#version-control)
+
 4. [🎨 DIGITAL CREATION](#digital-creation)
+
    - [3D Modeling](#3d-modeling)
    - [Animation](#animation)
    - [Audio Editing](#audio-editing)
@@ -25,6 +30,7 @@
    - [User Interface & UX Design](#user-interface--ux-design)
    - [Video Editing](#video-editing)
    - [Other Digital Creation Tools](#other-digital-creation-tools)
+   
 5. [🎮 GAMING](#gaming)
    - [Game Distribution Platforms](#game-distribution-platforms)
    - [Game Utilities & Add-ons](#game-utilities--add-ons)
