@@ -65,30 +65,32 @@
 
 <details>
 
-  <summary>
+<summary>
 
-  <table>
-      <td><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" width="15"></td>
-      <td><strong><a href="https://brave.com/">Brave</a></strong></td>
-  </table>
+<table>
 
-  </summary>
+  <td><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" width="15"></td>
+  <td><strong><a href="https://brave.com/">Brave</a></strong></td>
+  
+</table>
 
-  > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
-  >
-  > > *Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.*
-  >
-  > #### Features
-  > - Built-in ad blocker
-  > - Privacy protection
-  > - Speed optimization
-  > - Chrome extension compatibility
-  >
-  > #### App-specific plugins/extensions/themes:
-  > > - [`Brave Shields`](https://support.brave.com/hc/en-us/articles/360022973471-What-is-Shields-)
-  > > - [`Brave Rewards`](https://brave.com/brave-rewards/)
-  > > - [`Brave Wallet`](https://brave.com/brave-wallet/)
-  > > - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
+</summary>
+
+> ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
+>
+> > *Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.*
+>
+> #### Features
+> - Built-in ad blocker
+> - Privacy protection
+> - Speed optimization
+> - Chrome extension compatibility
+>
+> #### App-specific plugins/extensions/themes:
+> > - [`Brave Shields`](https://support.brave.com/hc/en-us/articles/360022973471-What-is-Shields-)
+> > - [`Brave Rewards`](https://brave.com/brave-rewards/)
+> > - [`Brave Wallet`](https://brave.com/brave-wallet/)
+> > - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
 
 </details>
 
