@@ -63,22 +63,13 @@
 
 # Browsers
 
-<style>
-  .summary-wrapper {
-    display: inline-block;
-  }
-</style>
-
 <details>
+
   <summary>
-    <div class="summary-wrapper">
-      <table>
-        <tr>
-          <td><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" width="15"></td>
-          <td><strong><a href="https://brave.com/">Brave</a></strong></td>
-        </tr>
-      </table>
-    </div>
+    <table>
+        <td><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" width="15"></td>
+        <td><strong><a href="https://brave.com/">Brave</a></strong></td>
+    </table>
   </summary>
 
   > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
@@ -98,7 +89,6 @@
   > > - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
 
 </details>
-
 
 
 
