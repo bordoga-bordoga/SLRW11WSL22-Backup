@@ -50,17 +50,13 @@
 
 # Browsers
 
-### [Brave](https://brave.com/)
+<details>
+
+**<summary>[Brave](https://brave.com/)</summary>**
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Brave_browser_logo.svg/1200px-Brave_browser_logo.svg.png" alt="Brave Logo" width="15" style="vertical-align: middle;"> *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
 
-<details>
-⠀
-
 Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Built-in ad blocker
@@ -78,43 +74,33 @@ Brave is a free and open-source web browser that emphasizes privacy, security, a
 
 <details>
 
-  - **<summary>[Firefox](https://www.mozilla.org/en-US/firefox/new/)</summary>**
+**<summary>[Firefox](https://www.mozilla.org/en-US/firefox/new/)</summary>**
 
-  ###### <img src="https://www.mozilla.org/media/img/favicons/firefox/browser/favicon.e6e1e7a96ea4.ico" alt="Firefox Logo" width="15" style="vertical-align: middle;"> *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
+###### <img src="https://www.mozilla.org/media/img/favicons/firefox/browser/favicon.e6e1e7a96ea4.ico" alt="Firefox Logo" width="15" style="vertical-align: middle;"> *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
 
-  Firefox is a free and open-source web browser that prioritizes user privacy, security, and speed, with a wide range of available add-ons and extensions to enhance functionality.
+Firefox is a free and open-source web browser that prioritizes user privacy, security, and speed, with a wide range of available add-ons and extensions to enhance functionality.
 
-  #### Features
-  > - Fast browsing
-  > - Enhanced privacy and security
-  > - Customizable interface
-  > - Extensive add-on support
-  >
-  > #### App-specific plugins/extensions/themes:
-  > > - [`uBlock Origin`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-  > > - [`Privacy Badger`](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
-  > > - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
-  > > - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
-
-</details>
-
-
-
-
+#### Features
+> - Fast browsing
+> - Enhanced privacy and security
+> - Customizable interface
+> - Extensive add-on support
+>
+> #### App-specific plugins/extensions/themes:
+> > - [`uBlock Origin`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+> > - [`Privacy Badger`](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+> > - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+> > - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
 
 </details>
 
-### [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)
+<details>
+
+**<summary>[Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)</summary>**
 
 ###### <img src="https://www.mozilla.org/media/img/favicons/firefox/favicon-nightly.45c3fc9c69b9.ico" alt="Firefox Nightly Logo" width="15" style="vertical-align: middle;"> *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v95.0a1)
 
-<details>
-⠀
-
 Firefox Nightly is the pre-release version of the Firefox web browser, providing the latest features and updates for testing and feedback before they are integrated into the stable release.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Latest features and updates
@@ -130,17 +116,13 @@ Firefox Nightly is the pre-release version of the Firefox web browser, providing
 
 </details>
 
-### [Google Chrome](https://www.google.com/chrome/)
+<details>
+
+**<summary>[Google Chrome](https://www.google.com/chrome/)</summary>**
 
 ###### <img src="https://www.google.com/favicon.ico" alt="Google Chrome Logo" width="15" style="vertical-align: middle;"> *by [Google LLC](https://www.google.com)* – (2021-09, v93.0.4577.63)
 
-<details>
-⠀
-
 Google Chrome is a fast, secure, and versatile web browser developed by Google, featuring a clean user interface, robust extension support, and integration with Google services.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Fast browsing
@@ -156,17 +138,13 @@ Google Chrome is a fast, secure, and versatile web browser developed by Google, 
 
 </details>
 
-### [Opera Browser](https://www.opera.com/)
+<details>
+
+**<summary>[Opera Browser](https://www.opera.com/)</summary>**
 
 ###### <img src="https://www.opera.com/favicon.ico" alt="Opera Browser Logo" width="15" style="vertical-align: middle;"> *by [Opera Software](https://www.opera.com)* – (2021-09, 79.0)
 
-<details>
-⠀
-
 Opera Browser is a fast and secure web browser featuring a built-in ad blocker, free VPN, and customizable Speed Dial for quick access to your favorite websites.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Built-in ad blocker
@@ -181,17 +159,13 @@ Opera Browser is a fast and secure web browser featuring a built-in ad blocker, 
 
 </details>
 
-### [Vivaldi](https://vivaldi.com/)
+<details>
+
+**<summary>[Vivaldi](https://vivaldi.com/)</summary>**
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Vivaldi_web_browser_logo_%282016-2019%29.svg/1200px-Vivaldi_web_browser_logo_%282016-2019%29.svg.png" alt="Vivaldi Logo" width="15" style="vertical-align: middle;"> *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
 
-<details>
-⠀
-
 Vivaldi is a fast, customizable web browser designed for power users, built using the Chromium engine. It includes features like tab stacking, mouse gestures, and a built-in note-taking tool.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Customizable interface
@@ -206,6 +180,7 @@ Vivaldi is a fast, customizable web browser designed for power users, built usin
 > > - [`···`](https://example.com/)
 
 </details>
+
 
 # Communication
 
