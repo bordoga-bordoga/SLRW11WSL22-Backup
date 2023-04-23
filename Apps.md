@@ -209,9 +209,6 @@
 
 Mailspring is a powerful and modern email client that supports all major email providers and offers features such as unified inbox, advanced search, and customizable themes.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Unified inbox
 > - Advanced search
@@ -236,9 +233,6 @@ Mailspring is a powerful and modern email client that supports all major email p
 ⠀
 
 Discord is a voice, video, and text communication platform designed primarily for gaming communities, but also used for a wide range of social and professional groups.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Voice, video, and text chat
@@ -265,9 +259,6 @@ Discord is a voice, video, and text communication platform designed primarily fo
 
 Guilded is a chat and collaboration platform designed for gaming communities, offering advanced features such as text and voice channels, scheduling, and team management.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Text and voice channels
 > - Event scheduling
@@ -284,9 +275,6 @@ Guilded is a chat and collaboration platform designed for gaming communities, of
 ⠀
 
 Signal is a privacy-focused messaging app that offers end-to-end encryption, ensuring that your messages, calls, and media stay secure and private.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - End-to-end encryption
@@ -306,9 +294,6 @@ Signal is a privacy-focused messaging app that offers end-to-end encryption, ens
 ⠀
 
 Skype is a communication platform that offers instant messaging, voice calls, video calls, and file sharing, making it easy to stay connected with friends and family.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Instant messaging
@@ -330,9 +315,6 @@ Skype is a communication platform that offers instant messaging, voice calls, vi
 ⠀
 
 Twitter is a social media platform that allows users to send and receive short messages called "tweets." Users can follow other users, share tweets, and interact with others through replies and retweets.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Real-time communication
@@ -365,9 +347,6 @@ Twitter is a social media platform that allows users to send and receive short m
 ⠀
 
 Visual Studio Code is a lightweight, open-source code editor that supports syntax highlighting, intelligent code completion, debugging, version control, and more for a wide variety of programming languages.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Intelligent code completion
@@ -407,9 +386,6 @@ Visual Studio Code is a lightweight, open-source code editor that supports synta
 
 Adobe Audition is a comprehensive toolset that includes multitrack, waveform, and spectral display for creating, mixing, editing, and restoring audio content.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Multitrack recording
 > - Audio editing
@@ -435,9 +411,6 @@ Adobe Audition is a comprehensive toolset that includes multitrack, waveform, an
 
 OBS Studio is a free and open-source software for video recording and live streaming, allowing you to create professional-quality videos and stream to various platforms like Twitch and YouTube.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Video recording
 > - Live streaming
@@ -461,9 +434,6 @@ OBS Studio is a free and open-source software for video recording and live strea
 ⠀
 
 Voicemeeter is an audio virtual mixer that allows you to mix and manage any audio sources from or to any audio devices or applications.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Virtual audio mixer
@@ -493,9 +463,6 @@ Voicemeeter is an audio virtual mixer that allows you to mix and manage any audi
 
 Adobe Illustrator is a vector graphics editor used by designers to create and edit vector images, such as logos, illustrations, and other graphics.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Vector graphic editing
 > - Advanced typography tools
@@ -523,9 +490,6 @@ Adobe Illustrator is a vector graphics editor used by designers to create and ed
 
 Adobe Lightroom is a photo processor and image organizer that allows users to view, organize, and retouch large numbers of digital images.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Non-destructive editing
 > - Presets and profiles
@@ -550,9 +514,6 @@ Adobe Lightroom is a photo processor and image organizer that allows users to vi
 ⠀
 
 Adobe Photoshop is a raster graphics editor used for image editing, graphic design, and digital art.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Layer-based editing
@@ -579,9 +540,6 @@ Adobe Photoshop is a raster graphics editor used for image editing, graphic desi
 ⠀
 
 Adobe XD is a vector-based user experience design tool for web apps and mobile apps, used for creating wireframes, prototypes, and screen designs.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Wireframing
@@ -610,9 +568,6 @@ Adobe XD is a vector-based user experience design tool for web apps and mobile a
 
 Adobe After Effects is a digital visual effects, motion graphics, and compositing application used in the post-production process of film making, video games, and television production.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Advanced motion graphics
 > - Visual effects compositing
@@ -637,9 +592,6 @@ Adobe After Effects is a digital visual effects, motion graphics, and compositin
 ⠀
 
 Adobe Premiere Pro is a professional video editing software used for editing video footage, creating commercials, music videos, and other video content.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Non-linear video editing
@@ -666,9 +618,6 @@ Adobe Premiere Pro is a professional video editing software used for editing vid
 
 HandBrake is a free and open-source video transcoder that converts video from nearly any format to a selection of modern, widely supported codecs.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Video transcoding
 > - Presets for various devices
@@ -689,9 +638,6 @@ HandBrake is a free and open-source video transcoder that converts video from ne
 ⠀
 
 Adobe Creative Cloud is a suite of over 20 creative desktop and mobile apps and services for photography, design, video, web, UX, and more.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Access to Adobe's creative applications
@@ -715,9 +661,6 @@ Adobe Creative Cloud is a suite of over 20 creative desktop and mobile apps and 
 ⠀
 
 Steam is a digital distribution platform developed by Valve Corporation that offers video games, software, and other multimedia content.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Massive library of games and software
@@ -751,9 +694,6 @@ Steam is a digital distribution platform developed by Valve Corporation that off
 
 VLC media player is a free, open-source multimedia player that supports a wide range of video and audio formats, as well as streaming and network protocols.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Plays most media file formats
 > - Network streaming support
@@ -781,9 +721,6 @@ VLC media player is a free, open-source multimedia player that supports a wide r
 
 Audible is an online platform that provides spoken audio entertainment, information, and educational programming, primarily audiobooks and podcasts.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Large library of audiobooks
 > - Podcasts and original content
@@ -805,9 +742,6 @@ Audible is an online platform that provides spoken audio entertainment, informat
 
 Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Thousands of TV shows, movies, and documentaries
 > - Personalized recommendations
@@ -826,9 +760,6 @@ Netflix is a streaming service that offers a wide variety of award-winning TV sh
 ⠀
 
 Plex is a media server and streaming platform that allows you to organize, stream, and share your personal collection of movies, TV shows, music, and photos across all your devices.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Media organization
@@ -849,9 +780,6 @@ Plex is a media server and streaming platform that allows you to organize, strea
 
 Plex Media Server is the software component that powers the Plex ecosystem, allowing you to organize and stream your media library to any device running a Plex app.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Media organization
 > - Streaming to Plex apps
@@ -870,9 +798,6 @@ Plex Media Server is the software component that powers the Plex ecosystem, allo
 ⠀
 
 Spotify is a digital music, podcast, and video streaming service that provides access to millions of songs and other content from artists all over the world.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Personalized playlists
@@ -898,9 +823,6 @@ Spotify is a digital music, podcast, and video streaming service that provides a
 ⠀
 
 Twitch is a popular live streaming platform that focuses primarily on video game streaming but also includes streams for creative content, music, and more.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Live streaming and chat
@@ -931,9 +853,6 @@ Twitch is a popular live streaming platform that focuses primarily on video game
 
 DigiExam is a digital examination platform that allows educators to create, deliver, and grade exams securely and efficiently.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Secure digital exams
 > - Grading and feedback tools
@@ -955,9 +874,6 @@ DigiExam is a digital examination platform that allows educators to create, deli
 
 Notion is an all-in-one workspace for your notes, tasks, wikis, and databases, helping you stay organized and collaborate with your team.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Note-taking
 > - Task management
@@ -976,9 +892,6 @@ Notion is an all-in-one workspace for your notes, tasks, wikis, and databases, h
 ⠀
 
 Obsidian is a powerful knowledge base and note-taking app that works with local Markdown files, allowing you to create links between your notes and visualize connections with a unique graph view.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Local Markdown files
@@ -1003,9 +916,6 @@ Obsidian is a powerful knowledge base and note-taking app that works with local 
 ⠀
 
 Standard Notes is an open-source, encrypted note-taking app that focuses on simplicity, privacy, and longevity, ensuring your notes are secure and always accessible.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - End-to-end encryption
@@ -1032,9 +942,6 @@ Standard Notes is an open-source, encrypted note-taking app that focuses on simp
 
 TickTick is a cross-platform to-do list app and task manager that helps you capture ideas, organize your life, and achieve your goals.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Task lists and subtasks
 > - Reminders and due dates
@@ -1055,9 +962,6 @@ TickTick is a cross-platform to-do list app and task manager that helps you capt
 ⠀
 
 LibreOffice is a free and open-source office suite that offers a comprehensive set of applications for creating and editing documents, spreadsheets, presentations, and more.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Word processing
@@ -1084,9 +988,6 @@ LibreOffice is a free and open-source office suite that offers a comprehensive s
 ⠀
 
 Zotero is a free, open-source reference management software designed to help users collect, organize, cite, and share research sources.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Collect and manage research sources
@@ -1115,9 +1016,6 @@ Zotero is a free, open-source reference management software designed to help use
 
 Grammarly is an AI-powered writing assistant that helps you write more effectively by providing real-time grammar, spelling, punctuation, and style suggestions.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Real-time grammar and spelling suggestions
 > - Style and tone recommendations
@@ -1143,9 +1041,6 @@ Grammarly is an AI-powered writing assistant that helps you write more effective
 
 Mark Text is a simple yet powerful Markdown editor that focuses on speed and usability, providing an intuitive interface for creating and editing Markdown documents.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Markdown editing
 > - Real-time preview
@@ -1170,9 +1065,6 @@ Mark Text is a simple yet powerful Markdown editor that focuses on speed and usa
 ⠀
 
 Bitwarden is a free and open-source password manager that helps individuals and teams store, share, and generate secure passwords.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Password storage
@@ -1200,9 +1092,6 @@ Bitwarden is a free and open-source password manager that helps individuals and 
 
 Google Drive is a cloud storage service that allows you to store, share, and collaborate on documents, spreadsheets, presentations, and more, with seamless integration into Google Workspace.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Cloud storage
 > - File sharing and collaboration
@@ -1224,9 +1113,6 @@ Google Drive is a cloud storage service that allows you to store, share, and col
 
 7-Zip is a free and open-source file archiver that supports various compression formats, including its own 7z format.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - High compression ratio
 > - Support for multiple formats
@@ -1245,9 +1131,6 @@ Google Drive is a cloud storage service that allows you to store, share, and col
 ⠀
 
 WinRAR is a powerful archive manager for Windows, macOS, and Linux. It allows users to create and manage archives in RAR and ZIP file formats, as well as unpack numerous other archive formats.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Create and manage RAR and ZIP archives
@@ -1276,9 +1159,6 @@ WinRAR is a powerful archive manager for Windows, macOS, and Linux. It allows us
 
 Everything is a fast and lightweight search engine for Windows that locates files and folders by filename instantly, providing an efficient way to navigate and manage files on your computer.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Instant file search
 > - Minimal resource usage
@@ -1297,9 +1177,6 @@ Everything is a fast and lightweight search engine for Windows that locates file
 ⠀
 
 Search Everything is a fast and lightweight file search tool for Windows that instantly locates files and folders by filename.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Instant search results
@@ -1322,9 +1199,6 @@ Search Everything is a fast and lightweight file search tool for Windows that in
 
 AutoHotkey is a free, open-source scripting language for Windows that allows users to create scripts for automating tasks, creating hotkeys, and remapping keys.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Hotkey customization
 > - Macro creation
@@ -1344,9 +1218,6 @@ AutoHotkey is a free, open-source scripting language for Windows that allows use
 
 Hot Virtual Keyboard is a virtual on-screen keyboard that provides an additional input method for users, featuring customizable layouts, word auto-complete, and gesture support.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Customizable keyboard layouts
 > - Word auto-complete
@@ -1365,9 +1236,6 @@ Hot Virtual Keyboard is a virtual on-screen keyboard that provides an additional
 ⠀
 
 Macro Buttons is a customizable macro key creator that allows you to create custom shortcuts, hotkeys, and automation scripts to streamline your daily tasks and increase productivity.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Customizable macro keys
@@ -1390,9 +1258,6 @@ Macro Buttons is a customizable macro key creator that allows you to create cust
 
 Core Temp is a compact, powerful, and easy-to-use program to monitor processor temperature and other vital system information.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Real-time temperature monitoring
 > - Overheating protection
@@ -1411,9 +1276,6 @@ Core Temp is a compact, powerful, and easy-to-use program to monitor processor t
 ⠀
 
 Ditto is an open-source clipboard manager that extends the standard Windows clipboard and saves each item copied, allowing users to access and manage their clipboard history.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Clipboard history
@@ -1434,9 +1296,6 @@ Ditto is an open-source clipboard manager that extends the standard Windows clip
 
 Driver Booster is a driver updater tool that scans, identifies, and automatically updates outdated device drivers on Windows computers to enhance system performance and stability.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Automatic driver updates
 > - Large driver database
@@ -1455,9 +1314,6 @@ Driver Booster is a driver updater tool that scans, identifies, and automaticall
 ⠀
 
 f.lux is a software that adjusts your computer's display color temperature according to the time of day, reducing eye strain and promoting better sleep by minimizing exposure to blue light at night.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Automatic color temperature adjustment
@@ -1478,9 +1334,6 @@ f.lux is a software that adjusts your computer's display color temperature accor
 
 IObit Uninstaller is a utility software that helps you completely remove unwanted programs, plugins, and Windows Apps, ensuring a clean and smooth system performance.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Uninstall unwanted programs
 > - Remove stubborn plugins and toolbars
@@ -1499,9 +1352,6 @@ IObit Uninstaller is a utility software that helps you completely remove unwante
 ⠀
 
 Lively Wallpaper is a free and open-source animated wallpaper application that allows you to customize your desktop background with a variety of dynamic and interactive wallpapers.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Animated wallpapers
@@ -1522,9 +1372,6 @@ Lively Wallpaper is a free and open-source animated wallpaper application that a
 
 ModernFlyouts is a utility that replaces the native Windows volume and media flyouts with a modern and customizable design.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Customizable volume and media flyouts
 > - Modern design
@@ -1544,9 +1391,6 @@ ModernFlyouts is a utility that replaces the native Windows volume and media fly
 
 PowerToys is a set of utilities for power users to streamline and enhance the Windows experience, offering tools like FancyZones, PowerRename, and more.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - FancyZones
 > - PowerRename
@@ -1565,9 +1409,6 @@ PowerToys is a set of utilities for power users to streamline and enhance the Wi
 ⠀
 
 Translucent TB is an open-source Windows utility that allows you to customize the appearance of your taskbar by making it transparent, translucent, or blurred.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Taskbar customization
@@ -1590,9 +1431,6 @@ Translucent TB is an open-source Windows utility that allows you to customize th
 
 Camo Studio is an app that turns your smartphone into a high-quality webcam for your computer, providing better image quality and additional camera controls.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Smartphone as a webcam
 > - Camera control and settings
@@ -1611,9 +1449,6 @@ Camo Studio is an app that turns your smartphone into a high-quality webcam for 
 ⠀
 
 DroidCam Client is a software that allows you to use your Android or iOS smartphone as a webcam for your computer, providing wireless video streaming and compatibility with various video conferencing and streaming applications.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Smartphone as a webcam
@@ -1634,9 +1469,6 @@ DroidCam Client is a software that allows you to use your Android or iOS smartph
 
 EpocCam is an app that turns your iOS device into a high-definition wireless webcam for your computer, providing compatibility with various video conferencing and streaming applications.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - iOS device as a webcam
 > - Wireless video streaming
@@ -1656,9 +1488,6 @@ EpocCam is an app that turns your iOS device into a high-definition wireless web
 
 netcut is a network monitoring and control tool that allows you to manage devices on your local network, providing features like blocking network access, monitoring bandwidth usage, and more.
 
-
-<summary>More Info...</summary>
-
 #### Features
 > - Network access control
 > - Bandwidth monitoring
@@ -1677,9 +1506,6 @@ netcut is a network monitoring and control tool that allows you to manage device
 ⠀
 
 qBittorrent is a free and open-source torrent client featuring a clean user interface and support for various advanced features like sequential downloading and torrent creation.
-
-
-<summary>More Info...</summary>
 
 #### Features
 > - Clean user interface
