@@ -161,7 +161,7 @@ Opera Browser is a fast and secure web browser featuring a built-in ad blocker, 
 
 <details>
 
-<summary><h3><a href="https://vivaldi.com/">Vivaldi</a></h3></summary>
+<summary><h3>Vivaldi</h3></summary>
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Vivaldi_web_browser_logo_%282016-2019%29.svg/1200px-Vivaldi_web_browser_logo_%282016-2019%29.svg.png" alt="Vivaldi Logo" width="15" style="vertical-align: middle;"> *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
 
