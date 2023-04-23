@@ -52,10 +52,7 @@
 
 <details>
 
-<summary>
-  <h3>[Brave](https://brave.com/)</h3>
-</summary>
-
+### <summary>Firefox</summary>
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Brave_browser_logo.svg/1200px-Brave_browser_logo.svg.png" alt="Brave Logo" width="15" style="vertical-align: middle;"> *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
 
 Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.
@@ -73,6 +70,7 @@ Brave is a free and open-source web browser that emphasizes privacy, security, a
 > > - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
 
 </details>
+
 
 <details>
 
