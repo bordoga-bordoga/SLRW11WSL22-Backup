@@ -52,7 +52,7 @@
 
 <details>
 
-**<summary style="display:inline-block; margin-bottom:-10px; margin-top:5px;">[Brave](https://brave.com/)</summary>**
+**<summary>[Brave](https://brave.com/)</summary>**
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Brave_browser_logo.svg/1200px-Brave_browser_logo.svg.png" alt="Brave Logo" width="15" style="vertical-align: middle;"> *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
 
 > Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.
@@ -122,9 +122,9 @@ Firefox Nightly is the pre-release version of the Firefox web browser, providing
 
 ###### <img src="https://www.google.com/favicon.ico" alt="Google Chrome Logo" width="15" style="vertical-align: middle;"> *by [Google LLC](https://www.google.com)* – (2021-09, v93.0.4577.63)
 
-Google Chrome is a fast, secure, and versatile web browser developed by Google, featuring a clean user interface, robust extension support, and integration with Google services.
-
-#### Features
+> Google Chrome is a fast, secure, and versatile web browser developed by Google, featuring a clean user interface, robust extension support, and integration with Google services.
+>
+> #### Features
 > - Fast browsing
 > - Sync across devices
 > - Customizable interface
