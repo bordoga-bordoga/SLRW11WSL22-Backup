@@ -167,7 +167,7 @@
 <p style="vertical-align: middle;">
   <summary>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vivaldi_web_browser_logo.svg/1026px-Vivaldi_web_browser_logo.svg.png" width="15">
-    <strong><a href="https://vivaldi.com/"> Vivaldi</a></strong>
+    <strong><a href="https://vivaldi.com/">Vivaldi</a></strong>
   </summary>
 </p>
 
