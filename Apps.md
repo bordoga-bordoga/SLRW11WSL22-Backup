@@ -125,16 +125,16 @@ Firefox Nightly is the pre-release version of the Firefox web browser, providing
 > Google Chrome is a fast, secure, and versatile web browser developed by Google, featuring a clean user interface, robust extension support, and integration with Google services.
 >
 > #### Features
-> - Fast browsing
-> - Sync across devices
-> - Customizable interface
-> - Extensive extension support
->
-> #### App-specific plugins/extensions/themes:
-> > - [`uBlock Origin`](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-> > - [`Privacy Badger`](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
-> > - [`Dark Reader`](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
-> > - [`···`](https://chrome.google.com/webstore/category/extensions)
+> > - Fast browsing
+> > - Sync across devices
+> > - Customizable interface
+> > - Extensive extension support
+> >
+> > #### App-specific plugins/extensions/themes:
+> > > - [`uBlock Origin`](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+> > > - [`Privacy Badger`](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+> > > - [`Dark Reader`](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+> > > - [`···`](https://chrome.google.com/webstore/category/extensions)
 
 </details>
 
