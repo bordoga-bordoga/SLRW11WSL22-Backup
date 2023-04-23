@@ -76,22 +76,18 @@ Brave is a free and open-source web browser that emphasizes privacy, security, a
 
 </details>
 
-<style>
-  details summary + * {
-    margin-top: 2em;
-  }
-</style>
-
 <details>
   <summary><h3><a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a></h3></summary>
-
-  ###### <img src="https://www.mozilla.org/media/img/favicons/firefox/browser/favicon.e6e1e7a96ea4.ico" alt="Firefox Logo" width="15" style="vertical-align: middle;"> *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
+  <p style="margin-top: -1em; margin-bottom: 0;">
+  <sup><img src="https://www.mozilla.org/media/img/favicons/firefox/browser/favicon.e6e1e7a96ea4.ico" alt="Firefox Logo" width="15" style="vertical-align: middle;"> *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)</sup>
+  </p>
 
   Firefox is a free and open-source web browser that prioritizes user privacy, security, and speed, with a wide range of available add-ons and extensions to enhance functionality.
 
   ...
 
 </details>
+
 
 
 
