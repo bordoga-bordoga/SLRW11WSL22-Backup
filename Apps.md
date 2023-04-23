@@ -177,7 +177,8 @@ summary {
   align-items: center;
 }
 summary img {
-  margin-right: 10px; /* adjust this value as needed */
+  margin-top: -1px;
+  margin-right: 5px;
 }
 </style>
 
