@@ -52,12 +52,13 @@
 
 
 <details>
-  <summary>
-    <div style="display: flex; align-items: center;">
-      <img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" width="15" style="margin-right: 5px;">
-      <strong><a href="https://brave.com/">Brave</a></strong>
-    </div>
-  </summary>
+
+<summary>
+  <table>
+    <td><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" width="15"></td>
+    <td><strong><a href="https://brave.com/">Brave</a></strong></td>
+  </table>
+</summary>
 
 
   <div style="display: flex; align-items: center;">
