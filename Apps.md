@@ -275,7 +275,7 @@ Guilded is a chat and collaboration platform designed for gaming communities, of
 
 <details>
 
-**<summary><img width="15" src="LINKKKK"> [Signal](https://signal.org/)</summary>**
+**<summary><img width="15" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png"> [Signal](https://signal.org/)</summary>**
 ⠀
 
 Signal is a privacy-focused messaging app that offers end-to-end encryption, ensuring that your messages, calls, and media stay secure and private.
@@ -290,7 +290,7 @@ Signal is a privacy-focused messaging app that offers end-to-end encryption, ens
 
 <details>
 
-**<summary><img width="15" src="LINKKKK"> [Skype](https://www.skype.com/)</summary>**
+**<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Skype_logo_%282019%E2%80%93present%29.svg/991px-Skype_logo_%282019%E2%80%93present%29.svg.png"> [Skype](https://www.skype.com/)</summary>**
 
 ###### *by [Microsoft](https://www.microsoft.com)* – (2021-09, 8.77.0.97⠀
 
@@ -308,7 +308,7 @@ Skype is a communication platform that offers instant messaging, voice calls, vi
 
 <details>
 
-**<summary><img width="15" src="LINKKKK"> [Twitter](https://www.twitter.com/)</summary>**
+**<summary><img width="15" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-.png"> [Twitter](https://www.twitter.com/)</summary>**
 
 ###### *by [Twitter Inc.](https://www.twitter.com)* – (2021-09, 8.68.0⠀
 
@@ -337,7 +337,7 @@ Twitter is a social media platform that allows users to send and receive short m
 
 <details>
 
-**<summary><img width="15" src="LINKKKK"> [Visual Studio Code](https://code.visualstudio.com/)</summary>**
+**<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"> [Visual Studio Code](https://code.visualstudio.com/)</summary>**
 
 ###### *by [Microsoft](https://www.microsoft.com)* – (2021-09, 1.60⠀
 
@@ -372,7 +372,7 @@ Visual Studio Code is a lightweight, open-source code editor that supports synta
 
 <details>
 
-**<summary><img width="15" src="LINKKKK"> [Adobe Audition](https://www.adobe.com/products/audition.html)</summary>**
+**<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/2101px-Adobe_Audition_CC_icon_%282020%29.svg.png"> [Adobe Audition](https://www.adobe.com/products/audition.html)</summary>**
 
 ###### *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v14.4⠀
 
@@ -394,7 +394,7 @@ Adobe Audition is a comprehensive toolset that includes multitrack, waveform, an
 
 <details>
 
-**<summary><img width="15" src="LINKKKK"> [OBS Studio](https://obsproject.com/)</summary>**
+**<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png"> [OBS Studio](https://obsproject.com/)</summary>**
 
 ###### *by [OBS Project](https://obsproject.com)* – (2021-09, 27.1.3⠀
 
@@ -415,7 +415,7 @@ OBS Studio is a free and open-source software for video recording and live strea
 
 <details>
 
-**<summary><img width="15" src="LINKKKK"> [Voicemeeter](https://www.vb-audio.com/Voicemeeter/)</summary>**
+**<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Voicemeeter_128x109px.png"> [Voicemeeter](https://www.vb-audio.com/Voicemeeter/)</summary>**
 
 ###### *by [VB-Audio Software](https://www.vb-audio.com)* – (2021-09, 1.0.7.8⠀
 
@@ -440,7 +440,7 @@ Voicemeeter is an audio virtual mixer that allows you to mix and manage any audi
 
 <details>
 
-**<summary><img width="15" src="LINKKKK"> [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)</summary>**
+**<summary><img width="15" src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png"> [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)</summary>**
 
 ###### *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v25.4.1⠀
 
@@ -464,7 +464,7 @@ Adobe Illustrator is a vector graphics editor used by designers to create and ed
 
 <details>
 
-**<summary><img width="15" src="LINKKKK"> [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)</summary>**
+**<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/2101px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"> [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)</summary>**
 
 ###### *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v10.4⠀
 
@@ -486,7 +486,7 @@ Adobe Lightroom is a photo processor and image organizer that allows users to vi
 
 <details>
 
-**<summary><img width="15" src="LINKKKK"> [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)</summary>**
+**<summary><img width="15" src="https://logowik.com/content/uploads/images/adobe-photoshop-cc3131.jpg"> [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)</summary>**
 
 ###### *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v22.5.1⠀
 
