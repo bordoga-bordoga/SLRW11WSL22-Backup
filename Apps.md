@@ -52,7 +52,7 @@
 
 <details>
 
-**<summary><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png"width="15" style="vertical-align: middle;"> [Brave](https://brave.com/)</summary>**
+**<summary><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" width="15" style="vertical-align: middle;"> [Brave](https://brave.com/)</summary>**
 
 > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
 >
