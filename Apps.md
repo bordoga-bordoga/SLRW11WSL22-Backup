@@ -216,9 +216,9 @@ Mailspring is a powerful and modern email client that supports all major email p
 > > - [`Mailspring Themes`](https://github.com/Foundry376/Mailspring-Theme-Starter)
 > > - [`···`](https://getmailspring.com/)
 
-## Messaging & Chat
-
 </details>
+
+## Messaging & Chat
 
 <details>
 
