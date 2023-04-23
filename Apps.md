@@ -64,6 +64,7 @@
 # Browsers
 
 <details>
+
   <summary>
     <table>
       <tr>
