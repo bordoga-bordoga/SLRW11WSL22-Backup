@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="style.css">
+
+
 # APPLICATIONS
 
 # Table of Contents
@@ -80,7 +83,6 @@
 > > - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
 
 </details>
-
 
 
 <details>
