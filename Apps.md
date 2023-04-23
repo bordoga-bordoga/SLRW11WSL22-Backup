@@ -55,9 +55,12 @@
 
 <summary>
 <table>
-  <td style="vertical-align: middle; text-align: center;"><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" width="15"></td>
-  <td><strong><a href="https://brave.com/">Brave</a></strong></td>
+  <tr>
+    <td valign="middle"><img src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" width="15"></td>
+    <td><strong><a href="https://brave.com/">Brave</a></strong></td>
+  </tr>
 </table>
+
 
 
 </summary>
