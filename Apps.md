@@ -87,7 +87,7 @@
 
 <details>
 
-**<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png"> [Firefox](https://www.mozilla.org/en-US/firefox/new/)</summary>**
+**<summary><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png"> [Firefox](https://www.mozilla.org/en-US/firefox/new/)</summary>**
 
 > ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
 >
