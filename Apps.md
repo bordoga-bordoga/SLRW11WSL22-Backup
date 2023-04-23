@@ -50,9 +50,9 @@
 
 # Browsers
 
+<details>
 
-
-<h3><a href="https://brave.com/">Brave</a></h3>
+<summary><h3><a href="https://brave.com/">Brave</a></h3></summary>
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Brave_browser_logo.svg/1200px-Brave_browser_logo.svg.png" alt="Brave Logo" width="15" style="vertical-align: middle;"> *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
 
@@ -70,11 +70,11 @@ Brave is a free and open-source web browser that emphasizes privacy, security, a
 > > - [`Brave Wallet`](https://brave.com/brave-wallet/)
 > > - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
 
+</details>
 
+<details>
 
-
-
-<h3><a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a></h3>
+<summary><h3><a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a></h3></summary>
 
 ###### <img src="https://www.mozilla.org/media/img/favicons/firefox/browser/favicon.e6e1e7a96ea4.ico" alt="Firefox Logo" width="15" style="vertical-align: middle;"> *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
 
@@ -92,11 +92,11 @@ Firefox is a free and open-source web browser that prioritizes user privacy, sec
 > > - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
 > > - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
 
+</details>
 
+<details>
 
-
-
-<h3><a href="https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly">Firefox Nightly</a></h3>
+<summary><h3><a href="https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly">Firefox Nightly</a></h3></summary>
 
 ###### <img src="https://www.mozilla.org/media/img/favicons/firefox/favicon-nightly.45c3fc9c69b9.ico" alt="Firefox Nightly Logo" width="15" style="vertical-align: middle;"> *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v95.0a1)
 
@@ -114,11 +114,11 @@ Firefox Nightly is the pre-release version of the Firefox web browser, providing
 > > - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
 > > - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
 
+</details>
 
+<details>
 
-
-
-<h3><a href="https://www.google.com/chrome/">Google Chrome</a></h3>
+<summary><h3><a href="https://www.google.com/chrome/">Google Chrome</a></h3></summary>
 
 ###### <img src="https://www.google.com/favicon.ico" alt="Google Chrome Logo" width="15" style="vertical-align: middle;"> *by [Google LLC](https://www.google.com)* – (2021-09, v93.0.4577.63)
 
@@ -136,11 +136,11 @@ Google Chrome is a fast, secure, and versatile web browser developed by Google, 
 > > - [`Dark Reader`](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 > > - [`···`](https://chrome.google.com/webstore/category/extensions)
 
+</details>
 
+<details>
 
-
-
-<h3><a href="https://www.opera.com/">Opera Browser</a></h3>
+<summary><h3><a href="https://www.opera.com/">Opera Browser</a></h3></summary>
 
 ###### <img src="https://www.opera.com/favicon.ico" alt="Opera Browser Logo" width="15" style="vertical-align: middle;"> *by [Opera Software](https://www.opera.com)* – (2021-09, 79.0)
 
@@ -157,11 +157,11 @@ Opera Browser is a fast and secure web browser featuring a built-in ad blocker, 
 > > - [`Opera Themes`](https://addons.opera.com/en/themes/)
 > > - [`···`](https://addons.opera.com/)
 
+</details>
 
+<details>
 
-
-
-<h3>Vivaldi</h3>
+<summary><h3>Vivaldi</h3></summary>
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Vivaldi_web_browser_logo_%282016-2019%29.svg/1200px-Vivaldi_web_browser_logo_%282016-2019%29.svg.png" alt="Vivaldi Logo" width="15" style="vertical-align: middle;"> *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
 
@@ -179,7 +179,7 @@ Vivaldi is a fast, customizable web browser designed for power users, built usin
 > > - [`Web Panels`](https://help.vivaldi.com/article/web-panels/)
 > > - [`···`](https://example.com/)
 
-
+</details>
 
 
 # Communication
@@ -190,13 +190,13 @@ Vivaldi is a fast, customizable web browser designed for power users, built usin
 
 ###### <img src="https://getmailspring.com/favicon.ico" alt="Mailspring Logo" width="15" style="vertical-align: middle;"> *by [Foundry 376, LLC.](https://foundry376.com/)* – (2021-09, v1.9.2)
 
-
+<details>
 ⠀
 
 Mailspring is a powerful and modern email client that supports all major email providers and offers features such as unified inbox, advanced search, and customizable themes.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Unified inbox
@@ -210,19 +210,19 @@ More Info...
 
 ## Messaging & Chat
 
-
+</details>
 
 ### [Discord](https://discord.com/)
 
 ###### <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="Discord Logo" width="15" style="vertical-align: middle;"> *by [Discord Inc.](https://discord.com)* – (2021-09, v1.0.9003)
 
-
+<details>
 ⠀
 
 Discord is a voice, video, and text communication platform designed primarily for gaming communities, but also used for a wide range of social and professional groups.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Voice, video, and text chat
@@ -236,19 +236,19 @@ More Info...
 > > - [`DiscordPlugins`](https://discordplugins.com/)
 > > - [`···`](https://github.com/topics/discord-plugins)
 
-
+</details>
 
 ### [Guilded](https://www.guilded.gg/)
 
 ###### <img src="https://www.guilded.gg/favicon.ico" alt="Guilded Logo" width="15" style="vertical-align: middle;"> *by [Guilded Inc.](https://www.guilded.gg)* – (2021-09)
 
-
+<details>
 ⠀
 
 Guilded is a chat and collaboration platform designed for gaming communities, offering advanced features such as text and voice channels, scheduling, and team management.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Text and voice channels
@@ -256,17 +256,17 @@ More Info...
 > - Team management
 > - Integrated streaming
 
-
+</details>
 
 ### [Signal](https://signal.org/)
 
-
+<details>
 ⠀
 
 Signal is a privacy-focused messaging app that offers end-to-end encryption, ensuring that your messages, calls, and media stay secure and private.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - End-to-end encryption
@@ -274,19 +274,19 @@ More Info...
 > - Group chats and calls
 > - Disappearing messages
 
-
+</details>
 
 ### [Skype](https://www.skype.com/)
 
 ###### <img src="https://www.skype.com/favicon.ico" alt="Skype Logo" width="15" style="vertical-align: middle;"> *by [Microsoft](https://www.microsoft.com)* – (2021-09, 8.77.0.97)
 
-
+<details>
 ⠀
 
 Skype is a communication platform that offers instant messaging, voice calls, video calls, and file sharing, making it easy to stay connected with friends and family.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Instant messaging
@@ -294,7 +294,7 @@ More Info...
 > - File sharing
 > - Group chats and calls
 
-
+</details>
 
 ## Social Media
 
@@ -302,13 +302,13 @@ More Info...
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Twitter_logo_white.svg/1280px-Twitter_logo_white.svg.png" alt="Twitter Logo" width="15" style="vertical-align: middle;"> *by [Twitter Inc.](https://www.twitter.com)* – (2021-09, 8.68.0)
 
-
+<details>
 ⠀
 
 Twitter is a social media platform that allows users to send and receive short messages called "tweets." Users can follow other users, share tweets, and interact with others through replies and retweets.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Real-time communication
@@ -322,7 +322,7 @@ More Info...
 > > - [`Twitter Lite`](https://mobile.twitter.com/)
 > > - [`···`](https://example.com/)
 
-
+</details>
 
 <!-- ## Video Conferencing -->
 
@@ -335,13 +335,13 @@ More Info...
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code Logo" width="15" style="vertical-align: middle;"> *by [Microsoft](https://www.microsoft.com)* – (2021-09, 1.60)
 
-
+<details>
 ⠀
 
 Visual Studio Code is a lightweight, open-source code editor that supports syntax highlighting, intelligent code completion, debugging, version control, and more for a wide variety of programming languages.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Intelligent code completion
@@ -355,7 +355,7 @@ More Info...
 > > - [`Prettier`](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 > > - [`···`](https://marketplace.visualstudio.com/VSCode)
 
-
+</details>
 
 <!-- ## IDEs -->
 
@@ -374,13 +374,13 @@ More Info...
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adobe_Audition_CC_icon.svg/1200px-Adobe_Audition_CC_icon.svg.png" alt="Adobe Audition Logo" width="15" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v14.4)
 
-
+<details>
 ⠀
 
 Adobe Audition is a comprehensive toolset that includes multitrack, waveform, and spectral display for creating, mixing, editing, and restoring audio content.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Multitrack recording
@@ -394,19 +394,19 @@ More Info...
 > > - [`Antares Auto-Tune`](https://www.antarestech.com/product/auto-tune-pro/)
 > > - [`···`](https://www.adobeexchange.com/creativecloud/audition.html)
 
-
+</details>
 
 ### [OBS Studio](https://obsproject.com/)
 
 ###### <img src="https://obsproject.com/favicon-32x32.png" alt="OBS Studio Logo" width="15" style="vertical-align: middle;"> *by [OBS Project](https://obsproject.com)* – (2021-09, 27.1.3)
 
-
+<details>
 ⠀
 
 OBS Studio is a free and open-source software for video recording and live streaming, allowing you to create professional-quality videos and stream to various platforms like Twitch and YouTube.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Video recording
@@ -419,19 +419,19 @@ More Info...
 > > - [`Stream Effects`](https://github.com/Xaymar/obs-StreamFX)
 > > - [`···`](https://obsproject.com/forum/resources/categories/plugins.6/)
 
-
+</details>
 
 ### [Voicemeeter](https://www.vb-audio.com/Voicemeeter/)
 
 ###### <img src="https://www.vb-audio.com/Voicemeeter/images/logo2014-128x128.png" alt="Voicemeeter Logo" width="15" style="vertical-align: middle;"> *by [VB-Audio Software](https://www.vb-audio.com)* – (2021-09, 1.0.7.8)
 
-
+<details>
 ⠀
 
 Voicemeeter is an audio virtual mixer that allows you to mix and manage any audio sources from or to any audio devices or applications.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Virtual audio mixer
@@ -446,7 +446,7 @@ More Info...
 > > - [`Virtual Audio Cable`](https://www.vb-audio.com/Cable/index.htm)
 > > - [`···`](https://www.vb-audio.com/Voicemeeter/index.htm#Documentation)
 
-
+</details>
 
 ## Graphic Design
 
@@ -454,13 +454,13 @@ More Info...
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator Logo" width="15" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v25.4.1)
 
-
+<details>
 ⠀
 
 Adobe Illustrator is a vector graphics editor used by designers to create and edit vector images, such as logos, illustrations, and other graphics.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Vector graphic editing
@@ -474,7 +474,7 @@ More Info...
 > > - [`Fontself Maker`](https://www.fontself.com/)
 > > - [`···`](https://www.adobeexchange.com/creativecloud/illustrator.html)
 
-
+</details>
 
 ## Photography & Image Editing
 
@@ -482,13 +482,13 @@ More Info...
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Adobe_Photoshop_Lightroom_CC_icon.svg/1200px-Adobe_Photoshop_Lightroom_CC_icon.svg.png" alt="Adobe Lightroom Logo" width="15" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v10.4)
 
-
+<details>
 ⠀
 
 Adobe Lightroom is a photo processor and image organizer that allows users to view, organize, and retouch large numbers of digital images.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Non-destructive editing
@@ -502,19 +502,19 @@ More Info...
 > > - [`Perfectly Clear Complete`](https://eyeq.photos/)
 > > - [`···`](https://www.adobeexchange.com/creativecloud.lightroom)
 
-
+</details>
 
 ### [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop Logo" width="15" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v22.5.1)
 
-
+<details>
 ⠀
 
 Adobe Photoshop is a raster graphics editor used for image editing, graphic design, and digital art.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Layer-based editing
@@ -527,7 +527,7 @@ More Info...
 > > - [`Portraiture`](https://www.imagenomic.com/Products/Portraiture)
 > > - [`···`](https://www.adobeexchange.com/creativecloud/photoshop.html)
 
-
+</details>
 
 ## User Interface & UX Design
 
@@ -535,13 +535,13 @@ More Info...
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD Logo" width="15" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v45.0)
 
-
+<details>
 ⠀
 
 Adobe XD is a vector-based user experience design tool for web apps and mobile apps, used for creating wireframes, prototypes, and screen designs.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Wireframing
@@ -555,7 +555,7 @@ More Info...
 > > - [`Overflow`](https://overflow.io/)
 > > - [`···`](https://www.adobe.com/products/xd/learn/develop/plugins.html)
 
-
+</details>
 
 ## Video Editing
 
@@ -563,13 +563,13 @@ More Info...
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" alt="Adobe After Effects Logo" width="15" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v18.4.1)
 
-
+<details>
 ⠀
 
 Adobe After Effects is a digital visual effects, motion graphics, and compositing application used in the post-production process of film making, video games, and television production.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Advanced motion graphics
@@ -583,19 +583,19 @@ More Info...
 > > - [`Saber`](https://www.videocopilot.net/tutorials/saber_plug-in/)
 > > - [`···`](https://aescripts.com/)
 
-
+</details>
 
 ### [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Adobe Premiere Pro Logo" width="15" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v15.4.1)
 
-
+<details>
 ⠀
 
 Adobe Premiere Pro is a professional video editing software used for editing video footage, creating commercials, music videos, and other video content.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Non-linear video editing
@@ -609,19 +609,19 @@ More Info...
 > > - [`FilmConvert Nitrate`](https://www.filmconvert.com/nitrate)
 > > - [`···`](https://www.adobeexchange.com/creativecloud/premiere.html)
 
-
+</details>
 
 ### [HandBrake](https://handbrake.fr/)
 
 ###### <img src="https://handbrake.fr/favicon.ico" alt="HandBrake Logo" width="15" style="vertical-align: middle;"> *by [The HandBrake Team](https://handbrake.fr/community.php)* – (2021-09, v1.4.2)
 
-
+<details>
 ⠀
 
 HandBrake is a free and open-source video transcoder that converts video from nearly any format to a selection of modern, widely supported codecs.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Video transcoding
@@ -629,7 +629,7 @@ More Info...
 > - Video filtering
 > - Batch processing
 
-
+</details>
 
 ## Other Digital Creation Tools
 
@@ -637,13 +637,13 @@ More Info...
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Adobe_Creative_Cloud_logo.svg/1200px-Adobe_Creative_Cloud_logo.svg.png" alt="Adobe Creative Cloud Logo" width="15" style="vertical-align: middle;"> *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, N/A)
 
-
+<details>
 ⠀
 
 Adobe Creative Cloud is a suite of over 20 creative desktop and mobile apps and services for photography, design, video, web, UX, and more.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Access to Adobe's creative applications
@@ -651,7 +651,7 @@ More Info...
 > - Collaboration tools
 > - Regular updates and new features
 
-
+</details>
 
 # Gaming
 
@@ -661,13 +661,13 @@ More Info...
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" alt="Steam Logo" width="15" style="vertical-align: middle;"> *by [Valve Corporation](https://www.valvesoftware.com)* – (2021-09, 2.10.91.91)
 
-
+<details>
 ⠀
 
 Steam is a digital distribution platform developed by Valve Corporation that offers video games, software, and other multimedia content.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Massive library of games and software
@@ -681,7 +681,7 @@ More Info...
 > > - [`Augmented Steam`](https://augmentedsteam.com/)
 > > - [`···`](https://example.com/)
 
-
+</details>
 
 <!-- ## Game Utilities & Add-ons -->
 
@@ -694,13 +694,13 @@ More Info...
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/VLC_Icon.svg/1024px-VLC_Icon.svg.png" alt="VLC media player Logo" width="15" style="vertical-align: middle;"> *by [VideoLAN](https://www.videolan.org)* – (2021-09, 3.0.16)
 
-
+<details>
 ⠀
 
 VLC media player is a free, open-source multimedia player that supports a wide range of video and audio formats, as well as streaming and network protocols.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Plays most media file formats
@@ -714,7 +714,7 @@ More Info...
 > > - [`VLC Skins`](https://addons.videolan.org/browse/cat/152/)
 > > - [`···`](https://addons.videolan.org/index.php?xcontentmode=322)
 
-
+</details>
 
 ## Podcasts & Audiobooks
 
@@ -722,13 +722,13 @@ More Info...
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Audible_logo.svg/1024px-Audible_logo.svg.png" alt="Audible Logo" width="15" style="vertical-align: middle;"> *by [Audible, Inc.](https://www.audible.com)* – (2021-09, N/A)
 
-
+<details>
 ⠀
 
 Audible is an online platform that provides spoken audio entertainment, information, and educational programming, primarily audiobooks and podcasts.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Large library of audiobooks
@@ -736,7 +736,7 @@ More Info...
 > - Bookmarking and note-taking
 > - Sleep timer
 
-
+</details>
 
 ## Streaming Services
 
@@ -744,13 +744,13 @@ More Info...
 
 ###### <img src="https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico" alt="Netflix Logo" width="15" style="vertical-align: middle;"> *by [Netflix, Inc.](https://www.netflix.com)* – (2021-09)
 
-
+<details>
 ⠀
 
 Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Thousands of TV shows, movies, and documentaries
@@ -758,19 +758,19 @@ More Info...
 > - Downloadable content for offline viewing
 > - Multiple profiles and parental controls
 
-
+</details>
 
 ### [Plex](https://www.plex.tv/)
 
 ###### <img src="https://www.plex.tv/wp-content/themes/plex/favicon.ico" alt="Plex Logo" width="15" style="vertical-align: middle;"> *by [Plex, Inc.](https://www.plex.tv)* – (2021-09)
 
-
+<details>
 ⠀
 
 Plex is a media server and streaming platform that allows you to organize, stream, and share your personal collection of movies, TV shows, music, and photos across all your devices.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Media organization
@@ -778,19 +778,19 @@ More Info...
 > - Personalized recommendations
 > - Remote access and sharing
 
-
+</details>
 
 ### [Plex Media Server](https://www.plex.tv/media-server-downloads/)
 
 ###### <img src="https://www.plex.tv/wp-content/themes/plex/favicon.ico" alt="Plex Media Server Logo" width="15" style="vertical-align: middle;"> *by [Plex, Inc.](https://www.plex.tv)* – (2021-09)
 
-
+<details>
 ⠀
 
 Plex Media Server is the software component that powers the Plex ecosystem, allowing you to organize and stream your media library to any device running a Plex app.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Media organization
@@ -798,19 +798,19 @@ More Info...
 > - Metadata fetching
 > - Remote access and sharing
 
-
+</details>
 
 ### [Spotify](https://www.spotify.com/)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" alt="Spotify Logo" width="15" style="vertical-align: middle;"> *by [Spotify Ltd.](https://www.spotify.com)* – (2021-09, 1.1.68)
 
-
+<details>
 ⠀
 
 Spotify is a digital music, podcast, and video streaming service that provides access to millions of songs and other content from artists all over the world.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Personalized playlists
@@ -824,19 +824,19 @@ More Info...
 > - [`Web Scrobbler`](https://web-scrobbler.com/)
 > - [`···`](https://example.com/)
 
-
+</details>
 
 ### [Twitch](https://www.twitch.tv/)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Twitch_logo_2021.svg/1280px-New_Twitch_logo_2021.svg.png" alt="Twitch Logo" width="15" style="vertical-align: middle;"> *by [Twitch Interactive, Inc.](https://www.twitch.tv)* – (2021-09, 1.0)
 
-
+<details>
 ⠀
 
 Twitch is a popular live streaming platform that focuses primarily on video game streaming but also includes streams for creative content, music, and more.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Live streaming and chat
@@ -850,7 +850,7 @@ More Info...
 > > - [`Twitch Now`](https://chrome.google.com/webstore/detail/twitch-now/nlmbdmpjmlijibeockamioakdpmhjnpk)
 > > - [`···`](https://example.com/)
 
-
+</details>
 
 # Office & Productivity
 
@@ -860,13 +860,13 @@ More Info...
 
 ###### <img src="https://www.digiexam.se/wp-content/uploads/2019/05/DigiExam-Icon.png" alt="DigiExam Logo" width="15" style="vertical-align: middle;"> *by [DigiExam Solutions AB](https://www.digiexam.se)* – (2021-09, N/A)
 
-
+<details>
 ⠀
 
 DigiExam is a digital examination platform that allows educators to create, deliver, and grade exams securely and efficiently.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Secure digital exams
@@ -874,7 +874,7 @@ More Info...
 > - Question bank
 > - Collaborative exam creation
 
-
+</details>
 
 ## Note-taking & Task Management
 
@@ -882,13 +882,13 @@ More Info...
 
 ###### <img src="https://www.notion.so/images/favicon.ico" alt="Notion Logo" width="15" style="vertical-align: middle;"> *by [Notion Labs, Inc.](https://www.notion.so)* – (2021-09)
 
-
+<details>
 ⠀
 
 Notion is an all-in-one workspace for your notes, tasks, wikis, and databases, helping you stay organized and collaborate with your team.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Note-taking
@@ -896,19 +896,19 @@ More Info...
 > - Database creation
 > - Collaboration tools
 
-
+</details>
 
 ### [Obsidian](https://obsidian.md/)
 
 ###### <img src="https://obsidian.md/favicon.ico" alt="Obsidian Logo" width="15" style="vertical-align: middle;"> *by [Obsidian](https://obsidian.md)* – (2021-09, 0.12.19)
 
-
+<details>
 ⠀
 
 Obsidian is a powerful knowledge base and note-taking app that works with local Markdown files, allowing you to create links between your notes and visualize connections with a unique graph view.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Local Markdown files
@@ -921,19 +921,19 @@ More Info...
 > > - [`Obsidian Themes`](https://forum.obsidian.md/c/share-showcase/themes/16)
 > > - [`···`](https://obsidian.md/community)
 
-
+</details>
 
 ### [Standard Notes](https://standardnotes.org/)
 
 ###### <img src="https://standardnotes.org/favicon.ico" alt="Standard Notes Logo" width="15" style="vertical-align: middle;"> *by [Standard Notes](https://standardnotes.org)* – (2021-09, 3.9.4)
 
-
+<details>
 ⠀
 
 Standard Notes is an open-source, encrypted note-taking app that focuses on simplicity, privacy, and longevity, ensuring your notes are secure and always accessible.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - End-to-end encryption
@@ -947,19 +947,19 @@ More Info...
 > - [`Midnight Theme`](https://standardnotes.org/extensions/midnight)
 > - [`···`](https://standardnotes.org/extensions)
 
-
+</details>
 
 ### [TickTick](https://www.ticktick.com/)
 
 ###### <img src="https://www.ticktick.com/favicon.ico" alt="TickTick Logo" width="15" style="vertical-align: middle;"> *by [Appest Inc.](https://www.ticktick.com)* – (2021-09, 4.0.2.0)
 
-
+<details>
 ⠀
 
 TickTick is a cross-platform to-do list app and task manager that helps you capture ideas, organize your life, and achieve your goals.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Task lists and subtasks
@@ -967,7 +967,7 @@ More Info...
 > - Calendar view and timeline
 > - Collaboration and sharing
 
-
+</details>
 
 ## Office Suites
 
@@ -975,13 +975,13 @@ More Info...
 
 ###### <img src="https://www.libreoffice.org/favicon.ico" alt="LibreOffice Logo" width="15" style="vertical-align: middle;"> *by [The Document Foundation](https://www.documentfoundation.org)* – (2021-09, v7.2.1)
 
-
+<details>
 ⠀
 
 LibreOffice is a free and open-source office suite that offers a comprehensive set of applications for creating and editing documents, spreadsheets, presentations, and more.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Word processing
@@ -994,7 +994,7 @@ More Info...
 > > - [`Language Packs`](https://www.libreoffice.org/download/download/)
 > > - [`···`](https://www.libreoffice.org/download/download/)
 
-
+</details>
 
 ## Reference Management
 
@@ -1002,13 +1002,13 @@ More Info...
 
 ###### <img src="https://www.zotero.org/static/images/zotero-logo-120.png" alt="Zotero Logo" width="15" style="vertical-align: middle;"> *by [Zotero](https://www.zotero.org)* – (2021-09, 5.0.96.3)
 
-
+<details>
 ⠀
 
 Zotero is a free, open-source reference management software designed to help users collect, organize, cite, and share research sources.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Collect and manage research sources
@@ -1022,7 +1022,7 @@ More Info...
 > > - [`Zotero Word for Windows Integration`](https://www.zotero.org/support/word_processor_integration)
 > > - [`···`](https://www.zotero.org/support/plugins)
 
-
+</details>
 
 ## Writing & Grammar Tools
 
@@ -1030,13 +1030,13 @@ More Info...
 
 ###### <img src="https://www.grammarly.com/favicon.ico" alt="Grammarly Logo" width="15" style="vertical-align: middle;"> *by [Grammarly, Inc.](https://www.grammarly.com)* – (2021-09)
 
-
+<details>
 ⠀
 
 Grammarly is an AI-powered writing assistant that helps you write more effectively by providing real-time grammar, spelling, punctuation, and style suggestions.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Real-time grammar and spelling suggestions
@@ -1050,19 +1050,19 @@ More Info...
 > > - [`Grammarly for Microsoft Office`](https://www.grammarly.com/office-addin)
 > > - [`···`](https://www.grammarly.com/download)
 
-
+</details>
 
 ### [Mark Text](https://marktext.app/)
 
 ###### <img src="https://marktext.app/favicon.ico" alt="Mark Text Logo" width="15" style="vertical-align: middle;"> *by [Mark Text](https://marktext.app)* – (2021-09, v0.16.3)
 
-
+<details>
 ⠀
 
 Mark Text is a simple yet powerful Markdown editor that focuses on speed and usability, providing an intuitive interface for creating and editing Markdown documents.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Markdown editing
@@ -1070,7 +1070,7 @@ More Info...
 > - Syntax highlighting
 > - Export to various formats
 
-
+</details>
 
 # Security
 
@@ -1082,13 +1082,13 @@ More Info...
 
 ###### <img src="https://bitwarden.com/images/favicon.png" alt="Bitwarden Logo" width="15" style="vertical-align: middle;"> *by [Bitwarden Inc.](https://bitwarden.com)* – (2021-09, v1.28.2)
 
-
+<details>
 ⠀
 
 Bitwarden is a free and open-source password manager that helps individuals and teams store, share, and generate secure passwords.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Password storage
@@ -1096,7 +1096,7 @@ More Info...
 > - Browser extensions
 > - Two-factor authentication
 
-
+</details>
 
 <!-- ## Other Security Tools -->
 
@@ -1109,13 +1109,13 @@ More Info...
 
 ###### <img src="https://www.google.com/drive/static/images/drive/favicon.ico" alt="Google Drive Logo" width="15" style="vertical-align: middle;"> *by [Google LLC](https://www.google.com)* – (2021-09)
 
-
+<details>
 ⠀
 
 Google Drive is a cloud storage service that allows you to store, share, and collaborate on documents, spreadsheets, presentations, and more, with seamless integration into Google Workspace.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Cloud storage
@@ -1123,7 +1123,7 @@ More Info...
 > - Integration with Google Workspace
 > - Mobile and desktop applications
 
-
+</details>
 
 ## File Compression & Extraction
 
@@ -1131,13 +1131,13 @@ More Info...
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/7ziplogo.svg/1200px-7ziplogo.svg.png" alt="7-Zip Logo" width="15" style="vertical-align: middle;"> *by [Igor Pavlov](https://www.7-zip.org/)* – (2021-09, 21.06)
 
-
+<details>
 ⠀
 
 7-Zip is a free and open-source file archiver that supports various compression formats, including its own 7z format.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - High compression ratio
@@ -1145,19 +1145,19 @@ More Info...
 > - File encryption
 > - Command-line interface
 
-
+</details>
 
 ### [WinRAR](https://www.win-rar.com/)
 
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Winrar_logo.png/480px-Winrar_logo.png" alt="WinRAR Logo" width="15" style="vertical-align: middle;"> *by [RARLAB](https://www.win-rar.com)* – (2021-09, 6.02)
 
-
+<details>
 ⠀
 
 WinRAR is a powerful archive manager for Windows, macOS, and Linux. It allows users to create and manage archives in RAR and ZIP file formats, as well as unpack numerous other archive formats.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Create and manage RAR and ZIP archives
@@ -1171,7 +1171,7 @@ More Info...
 > > - [`RAR for Android`](https://play.google.com/store/apps/details?id=com.rarlab.rar)
 > > - [`···`](https://www.win-rar.com/addons.html)
 
-
+</details>
 
 ## File Management & Search
 
@@ -1179,13 +1179,13 @@ More Info...
 
 ###### <img src="https://www.voidtools.com/favicon.ico" alt="Everything Logo" width="15" style="vertical-align: middle;"> *by [David Carpenter](https://www.voidtools.com)* – (2021-09, v1.4.1.1009)
 
-
+<details>
 ⠀
 
 Everything is a fast and lightweight search engine for Windows that locates files and folders by filename instantly, providing an efficient way to navigate and manage files on your computer.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Instant file search
@@ -1193,19 +1193,19 @@ More Info...
 > - Advanced search queries
 > - File indexing
 
-
+</details>
 
 ### [Search Everything](https://www.voidtools.com/)
 
 ###### <img src="https://www.voidtools.com/favicon.ico" alt="Search Everything Logo" width="15" style="vertical-align: middle;"> *by [Voidtools](https://www.voidtools.com)* – (2021-09, 1.5.0.1261)
 
-
+<details>
 ⠀
 
 Search Everything is a fast and lightweight file search tool for Windows that instantly locates files and folders by filename.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Instant search results
@@ -1213,7 +1213,7 @@ More Info...
 > - Advanced search filters
 > - Supports NTFS drives
 
-
+</details>
 
 ## Keyboard & Input Utilities
 
@@ -1221,13 +1221,13 @@ More Info...
 
 ###### <img src="https://www.autohotkey.com/favicon.ico" alt="AutoHotkey Logo" width="15" style="vertical-align: middle;"> *by [AutoHotkey Foundation](https://www.autohotkey.com)* – (2021-09, v1.1.33.10)
 
-
+<details>
 ⠀
 
 AutoHotkey is a free, open-source scripting language for Windows that allows users to create scripts for automating tasks, creating hotkeys, and remapping keys.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Hotkey customization
@@ -1235,19 +1235,19 @@ More Info...
 > - Scripting language
 > - Automation of repetitive tasks
 
-
+</details>
 
 ### [Hot Virtual Keyboard](https://hot-virtual-keyboard.com/)
 
 ###### <img src="https://hot-virtual-keyboard.com/favicon.ico" alt="Hot Virtual Keyboard Logo" width="15" style="vertical-align: middle;"> *by [Comfort Software Group](https://www.comfort-software.com)* – (2021-09, v9.2)
 
-
+<details>
 ⠀
 
 Hot Virtual Keyboard is a virtual on-screen keyboard that provides an additional input method for users, featuring customizable layouts, word auto-complete, and gesture support.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Customizable keyboard layouts
@@ -1255,19 +1255,19 @@ More Info...
 > - Gesture support
 > - Programmable keys
 
-
+</details>
 
 ### [Macro Buttons](https://www.macrobuttons.com/)
 
 ###### <img src="https://www.macrobuttons.com/favicon.ico" alt="Macro Buttons Logo" width="15" style="vertical-align: middle;"> *by [Macro Buttons](https://www.macrobuttons.com)* – (2021-09)
 
-
+<details>
 ⠀
 
 Macro Buttons is a customizable macro key creator that allows you to create custom shortcuts, hotkeys, and automation scripts to streamline your daily tasks and increase productivity.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Customizable macro keys
@@ -1275,7 +1275,7 @@ More Info...
 > - Automation scripts
 > - Streamlined productivity
 
-
+</details>
 
 ## System Utilities
 
@@ -1283,13 +1283,13 @@ More Info...
 
 ###### <img src="https://www.alcpu.com/favicon.ico" alt="Core Temp Logo" width="15" style="vertical-align: middle;"> *by [Arthur Liberman](https://www.alcpu.com)* – (2021-09, v1.17)
 
-
+<details>
 ⠀
 
 Core Temp is a compact, powerful, and easy-to-use program to monitor processor temperature and other vital system information.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Real-time temperature monitoring
@@ -1297,19 +1297,19 @@ More Info...
 > - Per-core temperature display
 > - System tray notifications
 
-
+</details>
 
 ### [Ditto](https://ditto-cp.sourceforge.io/)
 
 ###### <img src="https://ditto-cp.sourceforge.io/favicon.ico" alt="Ditto Logo" width="15" style="vertical-align: middle;"> *by [Ditto](https://ditto-cp.sourceforge.io)* – (2021-09, v3.24.214.0)
 
-
+<details>
 ⠀
 
 Ditto is an open-source clipboard manager that extends the standard Windows clipboard and saves each item copied, allowing users to access and manage their clipboard history.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Clipboard history
@@ -1317,19 +1317,19 @@ More Info...
 > - Sync across computers
 > - Hotkey support
 
-
+</details>
 
 ### [Driver Booster 7](https://www.iobit.com/en/driver-booster.php)
 
 ###### <img src="https://www.iobit.com/favicon.ico" alt="Driver Booster Logo" width="15" style="vertical-align: middle;"> *by [IObit](https://www.iobit.com)* – (2021-09, v8.6.0)
 
-
+<details>
 ⠀
 
 Driver Booster is a driver updater tool that scans, identifies, and automatically updates outdated device drivers on Windows computers to enhance system performance and stability.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Automatic driver updates
@@ -1337,19 +1337,19 @@ More Info...
 > - Backup and restore drivers
 > - Game optimization
 
-
+</details>
 
 ### [f.lux](https://justgetflux.com/)
 
 ###### <img src="https://justgetflux.com/favicon.ico" alt="f.lux Logo" width="15" style="vertical-align: middle;"> *by [f.lux Software LLC](https://justgetflux.com)* – (2021-09, v4.119)
 
-
+<details>
 ⠀
 
 f.lux is a software that adjusts your computer's display color temperature according to the time of day, reducing eye strain and promoting better sleep by minimizing exposure to blue light at night.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Automatic color temperature adjustment
@@ -1357,19 +1357,19 @@ More Info...
 > - Circadian rhythm support
 > - Reduced eye strain
 
-
+</details>
 
 ### [IObit Uninstaller](https://www.iobit.com/en/advanceduninstaller.php)
 
 ###### <img src="https://www.iobit.com/favicon.ico" alt="IObit Uninstaller Logo" width="15" style="vertical-align: middle;"> *by [IObit](https://www.iobit.com)* – (2021-09, v11.0.1)
 
-
+<details>
 ⠀
 
 IObit Uninstaller is a utility software that helps you completely remove unwanted programs, plugins, and Windows Apps, ensuring a clean and smooth system performance.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Uninstall unwanted programs
@@ -1377,19 +1377,19 @@ More Info...
 > - Clean leftover files and registry entries
 > - Windows App management
 
-
+</details>
 
 ### [Lively Wallpaper](https://rocksdanister.github.io/lively/)
 
 ###### <img src="https://rocksdanister.github.io/lively/assets/favicon.ico" alt="Lively Wallpaper Logo" width="15" style="vertical-align: middle;"> *by [Daniel Rocks](https://rocksdanister.github.io/lively/)* – (2021-09, v1.7.0.4)
 
-
+<details>
 ⠀
 
 Lively Wallpaper is a free and open-source animated wallpaper application that allows you to customize your desktop background with a variety of dynamic and interactive wallpapers.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Animated wallpapers
@@ -1397,19 +1397,19 @@ More Info...
 > - Wallpaper customization
 > - Multiple monitor support
 
-
+</details>
 
 ### [ModernFlyouts (Preview)](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 
 ###### <img src="https://avatars.githubusercontent.com/u/75877383?s=200&v=4" alt="ModernFlyouts Logo" width="15" style="vertical-align: middle;"> *by [ModernFlyouts Community](https://github.com/ModernFlyouts-Community)* – (2021-09, 0.9.3)
 
-
+<details>
 ⠀
 
 ModernFlyouts is a utility that replaces the native Windows volume and media flyouts with a modern and customizable design.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Customizable volume and media flyouts
@@ -1417,19 +1417,19 @@ More Info...
 > - Adaptive UI
 > - Easy to use
 
-
+</details>
 
 ### [PowerToys](https://github.com/microsoft/PowerToys)
 
 ###### <img src="https://raw.githubusercontent.com/microsoft/PowerToys/master/doc/images/Logo.jpg" alt="PowerToys Logo" width="15" style="vertical-align: middle;"> *by [Microsoft](https://www.microsoft.com)* – (2021-09, v0.49.1)
 
-
+<details>
 ⠀
 
 PowerToys is a set of utilities for power users to streamline and enhance the Windows experience, offering tools like FancyZones, PowerRename, and more.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - FancyZones
@@ -1437,19 +1437,19 @@ More Info...
 > - Shortcut Guide
 > - Color Picker
 
-
+</details>
 
 ### [Translucent TB](https://github.com/TranslucentTB/TranslucentTB)
 
 ###### <img src="https://github.com/TranslucentTB/TranslucentTB/raw/master/.github/logo.png" alt="Translucent TB Logo" width="15" style="vertical-align: middle;"> *by [TranslucentTB](https://github.com/TranslucentTB)* – (2021-09, 9.0.0.0)
 
-
+<details>
 ⠀
 
 Translucent TB is an open-source Windows utility that allows you to customize the appearance of your taskbar by making it transparent, translucent, or blurred.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Taskbar customization
@@ -1457,7 +1457,7 @@ More Info...
 > - Easy-to-use tray icon
 > - Customization of accent colors
 
-
+</details>
 
 ## Other Utilities
 
@@ -1465,13 +1465,13 @@ More Info...
 
 ###### <img src="https://reincubate.com/static/img/camo/camo-app-icon.png" alt="Camo Studio Logo" width="15" style="vertical-align: middle;"> *by [Reincubate Ltd.](https://reincubate.com)* – (2021-09, v1.6.1)
 
-
+<details>
 ⠀
 
 Camo Studio is an app that turns your smartphone into a high-quality webcam for your computer, providing better image quality and additional camera controls.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Smartphone as a webcam
@@ -1479,19 +1479,19 @@ More Info...
 > - Supports multiple platforms
 > - High-quality video
 
-
+</details>
 
 ### [DroidCam Client](https://www.dev47apps.com/droidcam/windows/)
 
 ###### <img src="https://www.dev47apps.com/wp-content/uploads/2020/10/cropped-Icon-180x180.png" alt="DroidCam Client Logo" width="15" style="vertical-align: middle;"> *by [Dev47Apps](https://www.dev47apps.com)* – (2021-09, v6.5.2)
 
-
+<details>
 ⠀
 
 DroidCam Client is a software that allows you to use your Android or iOS smartphone as a webcam for your computer, providing wireless video streaming and compatibility with various video conferencing and streaming applications.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Smartphone as a webcam
@@ -1499,19 +1499,19 @@ More Info...
 > - High-resolution video support
 > - Compatible with popular video conferencing and streaming apps
 
-
+</details>
 
 ### [EpocCam](https://www.elgato.com/epoccam)
 
 ###### <img src="https://assets-global.website-files.com/5f3ca3e98f626c1ec4016419/5f3ca3e98f626c4d4d017e95_Favicon%20128x128.png" alt="EpocCam Logo" width="15" style="vertical-align: middle;"> *by [Elgato](https://www.elgato.com)* – (2021-09, v2021.4)
 
-
+<details>
 ⠀
 
 EpocCam is an app that turns your iOS device into a high-definition wireless webcam for your computer, providing compatibility with various video conferencing and streaming applications.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - iOS device as a webcam
@@ -1519,19 +1519,19 @@ More Info...
 > - High-definition video support
 > - Compatible with popular video conferencing and streaming apps
 
-
+</details>
 
 ### [netcut](https://www.arcai.com/netcut/)
 
 ###### <img src="https://www.arcai.com/favicon.ico" alt="netcut Logo" width="15" style="vertical-align: middle;"> *by [Arcai.com](https://www.arcai.com)* – (2021-09, 3.0.155)
 
-
+<details>
 ⠀
 
 netcut is a network monitoring and control tool that allows you to manage devices on your local network, providing features like blocking network access, monitoring bandwidth usage, and more.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Network access control
@@ -1539,19 +1539,19 @@ More Info...
 > - Device management
 > - ARP protocol-based protection
 
-
+</details>
 
 ### [qBittorrent](https://www.qbittorrent.org/)
 
 ###### <img src="https://www.qbittorrent.org/favicon.ico" alt="qBittorrent Logo" width="15" style="vertical-align: middle;"> *by [The qBittorrent Project](https://www.qbittorrent.org)* – (2021-09, v4.3.9)
 
-
+<details>
 ⠀
 
 qBittorrent is a free and open-source torrent client featuring a clean user interface and support for various advanced features like sequential downloading and torrent creation.
 
 
-More Info...
+<summary>More Info...</summary>
 
 #### Features
 > - Clean user interface
@@ -1559,7 +1559,7 @@ More Info...
 > - Sequential downloading
 > - Torrent creation
 
-
+</details>
 
 ---
 
