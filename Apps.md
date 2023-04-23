@@ -172,8 +172,11 @@
 </p>
 
 <style>
+summary {
+  display: flex;
+  align-items: center;
+}
 summary img {
-  vertical-align: middle;
   margin-right: 10px; /* adjust this value as needed */
 }
 </style>
