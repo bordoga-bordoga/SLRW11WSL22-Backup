@@ -97,7 +97,7 @@
 
 <details>
 
-**<summary><img src="https://www.mozilla.org/media/img/favicons/firefox/favicon-nightly.45c3fc9c69b9.ico" alt="Firefox Nightly Logo" width="15" style="vertical-align: middle;"> [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)</summary>**
+**<summary><img src="https://www.mozilla.org/media/img/favicons/firefox/favicon-nightly.45c3fc9c69b9.ico" width="15" style="vertical-align: middle;"> [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)</summary>**
 
 > ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v95.0a1)
 >
