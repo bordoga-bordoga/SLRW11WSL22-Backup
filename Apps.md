@@ -40,9 +40,9 @@
 
 6. [🎥 MEDIA](#media)
 <!---->
- ⠀⠀- [Media Players](#media-players)
- ⠀⠀- [Podcasts & Audiobooks](#podcasts--audiobooks)
- ⠀⠀- [Streaming Services](#streaming-services)
+   - ⠀⠀[Media Players](#media-players)
+   - ⠀⠀[Podcasts & Audiobooks](#podcasts--audiobooks)
+   - ⠀⠀[Streaming Services](#streaming-services)
 
 7. [📚 OFFICE & PRODUCTIVITY](#office--productivity)
 <!---->
