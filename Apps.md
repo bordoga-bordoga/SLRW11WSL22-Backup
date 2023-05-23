@@ -249,7 +249,7 @@
 
 </details>
 
-## Messaging & Chat
+> ### **`Messaging & Chat`**
 
 <!-- Discord -->
 
@@ -328,7 +328,8 @@
 
 </details>
 
-## Social Media
+
+> ### **`Social Media`**
 
 <!-- Twitter -->
 
