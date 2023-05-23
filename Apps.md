@@ -7,11 +7,9 @@
 
 1. [🌐 BROWSERS](#browsers)
 
-<!---->
-
 2. [💬 COMMUNICATION](#communication)
 
-<!---->
+<!-- -->
     - [Email Clients](#email-clients)
     - [Messaging & Chat](#messaging--chat)
     - [Social Media](#social-media)
