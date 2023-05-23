@@ -265,10 +265,10 @@
   > - Rich presence and game integration
   >
   > #### App-specific plugins/extensions/themes:
-  > > - [`BetterDiscord`](https://betterdiscord.app/)
-  > > - [`Powercord`](https://powercord.dev/)
-  > > - [`DiscordPlugins`](https://discordplugins.com/)
-  > > - [`···`](https://github.com/topics/discord-plugins)
+  >> - [`BetterDiscord`](https://betterdiscord.app/)
+  >> - [`Powercord`](https://powercord.dev/)
+  >> - [`DiscordPlugins`](https://discordplugins.com/)
+  >> - [`···`](https://github.com/topics/discord-plugins)
 
 </details>
 
