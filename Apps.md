@@ -471,7 +471,7 @@
 
 <details>
 
-  **<summary><img width="15" src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png"> [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)</summary>**
+  **<summary><img width="15" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg"> [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)</summary>**
 
   > ###### *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v25.4.1⠀
   >
