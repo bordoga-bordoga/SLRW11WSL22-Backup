@@ -225,7 +225,7 @@
 
 # Communication
 
-> ### ___<u>`Email Clients`</u>___
+> ### ___Email Clients___
 
 <!-- Mailspring -->
 
@@ -249,7 +249,7 @@
 
 </details>
 
-> ### ___<u>`Messaging & Chat`</u>___
+> ### ___Messaging & Chat___
 
 <!-- Discord -->
 
@@ -360,7 +360,7 @@
 
 # Development Tools
 
-> ### ___<u>`Code Editors`</u>___
+> ### ___Code Editors___
 
 <!-- Visual Studio Code -->
 
@@ -397,7 +397,7 @@
 
 <!-- ## Animation -->
 
-> ### ___<u>`Audio Editing`</u>___
+> ### ___Audio Editing___
 
 <!-- Adobe Audition -->
 
@@ -471,7 +471,7 @@
 
 </details>
 
-> ### ___<u>`Graphic Design`</u>___
+> ### ___Graphic Design___
 
 <!-- Adobe Illustrator -->
 
@@ -497,7 +497,7 @@
 
 </details>
 
-> ### ___<u>`Photography & Image Editing`</u>___
+> ### ___Photography & Image Editing___
 
 <!-- Adobe Lightroom -->
 
@@ -546,7 +546,7 @@
 
 </details>
 
-> ### ___<u>`User Interface & UX Design`</u>___
+> ### ___User Interface & UX Design___
 
 <!-- Adobe XD -->
 
@@ -572,7 +572,7 @@
 
 </details>
 
-> ### ___<u>`Video Editing`</u>___
+> ### ___Video Editing___
 
 <!-- Adobe After Effects -->
 
@@ -640,7 +640,7 @@
 
 </details>
 
-> ### ___<u>`Other Digital Creation Tools`</u>___
+> ### ___Other Digital Creation Tools___
 
 <!-- Adobe Creative Cloud -->
 
@@ -662,7 +662,7 @@
 
 # Gaming
 
-> ### ___<u>`Game Distribution Platforms`</u>___
+> ### ___Game Distribution Platforms___
 
 <!-- Steam -->
 
@@ -693,7 +693,7 @@
 
 # Media
 
-> ### ___<u>`Media Players`</u>___
+> ### ___Media Players___
 
 <!-- VLC media player -->
 
@@ -719,7 +719,7 @@
 
 </details>
 
-> ### ___<u>`Podcasts & Audiobooks`</u>___
+> ### ___Podcasts & Audiobooks___
 
 <!-- Audible -->
 
@@ -739,7 +739,7 @@
 
 </details>
 
-> ### ___<u>`Streaming Services`</u>___
+> ### ___Streaming Services___
 
 <!-- Netflix -->
 
@@ -845,7 +845,7 @@
 
 # Office & Productivity
 
-> ### ___<u>`Exam & Test Taking`</u>___
+> ### ___Exam & Test Taking___
 
 <!-- DigiExam -->
 
@@ -865,7 +865,7 @@
 
 </details>
 
-> ### ___<u>`Note-taking & Task Management`</u>___
+> ### ___Note-taking & Task Management___
 
 <!-- Notion -->
 
@@ -950,7 +950,7 @@
 
 </details>
 
-> ### ___<u>`Office Suites`</u>___
+> ### ___Office Suites___
 
 <!-- LibreOffice -->
 
@@ -975,7 +975,7 @@
 
 </details>
 
-> ### ___<u>`Reference Management`</u>___
+> ### ___Reference Management___
 
 <!-- Zotero -->
 
@@ -1001,7 +1001,7 @@
 
 </details>
 
-> ### ___<u>`Writing & Grammar Tools`</u>___
+> ### ___Writing & Grammar Tools___
 
 <!-- Grammarly -->
 
@@ -1049,7 +1049,7 @@
 
 <!-- ## Antivirus & Malware Protection -->
 
-> ### ___<u>`Password Managers`</u>___
+> ### ___Password Managers___
 
 <!-- Bitwarden -->
 
@@ -1074,7 +1074,7 @@
 
 # Utilities
 
-> ### ___<u>`Backup & Sync`</u>___
+> ### ___Backup & Sync___
 
 <!-- Google Drive -->
 
@@ -1094,7 +1094,7 @@
 
 </details>
 
-> ### ___<u>`File Compression & Extraction`</u>___
+> ### ___File Compression & Extraction___
 
 <!-- 7-Zip -->
 
@@ -1138,7 +1138,7 @@
 
 </details>
 
-> ### ___<u>`File Management & Search`</u>___
+> ### ___File Management & Search___
 
 <!-- Everything -->
 
@@ -1176,7 +1176,7 @@
 
 </details>
 
-> ### ___<u>`Keyboard & Input Utilities`</u>___
+> ### ___Keyboard & Input Utilities___
 
 <!-- AutoHotkey -->
 
@@ -1232,7 +1232,7 @@
 
 </details>
 
-> ### ___<u>`System Utilities`</u>___
+> ### ___System Utilities___
 
 <!-- Core Temp -->
 
@@ -1396,7 +1396,7 @@
 
 </details>
 
-> ### ___<u>`Other Utilities`</u>___
+> ### ___Other Utilities___
 
 <!-- Camo Studio -->
 
@@ -1490,15 +1490,15 @@
 
 ---
 
-> ### ___<u>`Conclusion`</u>___
+> ### ___Conclusion___
 
 This list comprises a variety of useful and popular applications, along with their features and app-specific plugins/extensions/themes. The apps cover different categories, catering to various needs and interests.
 
-> ### ___<u>`Acknowledgments`</u>___
+> ### ___Acknowledgments___
 
 A special thank you to all the developers, organizations, and communities behind these applications. Their hard work and dedication have made these tools indispensable for many users.
 
-> ### ___<u>`Suggestions and Contact`</u>___
+> ### ___Suggestions and Contact___
 
 If you have any suggestions, questions, or want to recommend an app to be added to the list, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com) or submit an issue on the GitHub repository.
 
