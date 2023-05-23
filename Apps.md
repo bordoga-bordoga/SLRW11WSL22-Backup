@@ -329,7 +329,7 @@
 </details>
 
 
-> ### ___<u>Social Media</u>___
+> ### ___Social Media___
 
 <!-- Twitter -->
 
