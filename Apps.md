@@ -225,7 +225,7 @@
 
   <details>
 
-  **<summary><img width="15" src="https://img.icons8.com/?size=512&id=WYTCVRrKbgST&format=png"> [Mailspring](https://getmailspring.com/)</summary>**
+  **<summary><img width="15" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mailspring-icon.png"> [Mailspring](https://getmailspring.com/)</summary>**
 
   > ###### *by [Foundry 376, LLC.](https://foundry376.com/)* – (2021-09, v1.9.2⠀
   >
