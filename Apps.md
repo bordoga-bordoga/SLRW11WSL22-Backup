@@ -281,15 +281,15 @@
 
   **<summary><img width="15" src="https://theme.zdassets.com/theme_assets/9580103/07defec28cdc4dca22ce6e2154b1c2299346fe5f.png"> [Guilded](https://www.guilded.gg/)</summary>**
 
-  > ###### *by [Guilded Inc.](https://www.guilded.gg)* – (2021-09⠀
-  >
-  >> Guilded is a chat and collaboration platform designed for gaming communities, offering advanced features such as text and voice channels, scheduling, and team management.
-  >
-  > #### Features
-  > - Text and voice channels
-  > - Event scheduling
-  > - Team management
-  > - Integrated streaming
+  >> ###### *by [Guilded Inc.](https://www.guilded.gg)* – (2021-09⠀
+  >>
+  >>> Guilded is a chat and collaboration platform designed for gaming communities, offering advanced features such as text and voice channels, scheduling, and team management.
+  >>
+  >> #### Features
+  >> - Text and voice channels
+  >> - Event scheduling
+  >> - Team management
+  >> - Integrated streaming
 
 </details>
 
