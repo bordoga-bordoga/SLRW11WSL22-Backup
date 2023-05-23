@@ -121,7 +121,8 @@
   >> - [`Privacy Badger`](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
   >> - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
   >> - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
-  ###### **Windows** • **MacOS** • **Linux** • **iOS** • **Android**
+  >
+  >> ###### **Windows** • **MacOS** • **Linux** • **iOS** • **Android**
 
 </details>
 
