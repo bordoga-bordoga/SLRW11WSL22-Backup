@@ -281,15 +281,15 @@
 
   **<summary><img width="15" src="https://theme.zdassets.com/theme_assets/9580103/07defec28cdc4dca22ce6e2154b1c2299346fe5f.png"> [Guilded](https://www.guilded.gg/)</summary>**
 
-  >> ###### *by [Guilded Inc.](https://www.guilded.gg)* – (2021-09⠀
-  >>
-  >>> Guilded is a chat and collaboration platform designed for gaming communities, offering advanced features such as text and voice channels, scheduling, and team management.
-  >>
-  >> #### Features
-  >> - Text and voice channels
-  >> - Event scheduling
-  >> - Team management
-  >> - Integrated streaming
+  > ###### *by [Guilded Inc.](https://www.guilded.gg)* – (2021-09⠀
+  >
+  >> Guilded is a chat and collaboration platform designed for gaming communities, offering advanced features such as text and voice channels, scheduling, and team management.
+  >
+  > #### Features
+  > - Text and voice channels
+  > - Event scheduling
+  > - Team management
+  > - Integrated streaming
 
 </details>
 
@@ -301,7 +301,7 @@
 
   >> Signal is a privacy-focused messaging app that offers end-to-end encryption, ensuring that your messages, calls, and media stay secure and private.
   >
-  #### Features
+  > #### Features
   > - End-to-end encryption
   > - Voice and video calls
   > - Group chats and calls
@@ -360,7 +360,7 @@
 
 # Development Tools
 
-## Code Editors
+### **`Code Editors`**
 
 <!-- Visual Studio Code -->
 
@@ -397,7 +397,7 @@
 
 <!-- ## Animation -->
 
-## Audio Editing
+### **`Audio Editing`**
 
 <!-- Adobe Audition -->
 
@@ -471,7 +471,7 @@
 
 </details>
 
-## Graphic Design
+### **`Graphic Design`**
 
 <!-- Adobe Illustrator -->
 
@@ -497,7 +497,7 @@
 
 </details>
 
-## Photography & Image Editing
+### **`Photography & Image Editing`**
 
 <!-- Adobe Lightroom -->
 
@@ -546,7 +546,7 @@
 
 </details>
 
-## User Interface & UX Design
+### **`User Interface & UX Design`**
 
 <!-- Adobe XD -->
 
@@ -572,7 +572,7 @@
 
 </details>
 
-## Video Editing
+### **`Video Editing`**
 
 <!-- Adobe After Effects -->
 
@@ -640,7 +640,7 @@
 
 </details>
 
-## Other Digital Creation Tools
+### **`Other Digital Creation Tools`**
 
 <!-- Adobe Creative Cloud -->
 
@@ -662,7 +662,7 @@
 
 # Gaming
 
-## Game Distribution Platforms
+### **`Game Distribution Platforms`**
 
 <!-- Steam -->
 
@@ -693,7 +693,7 @@
 
 # Media
 
-## Media Players
+### **`Media Players`**
 
 <!-- VLC media player -->
 
@@ -719,7 +719,7 @@
 
 </details>
 
-## Podcasts & Audiobooks
+### **`Podcasts & Audiobooks`**
 
 <!-- Audible -->
 
@@ -739,7 +739,7 @@
 
 </details>
 
-## Streaming Services
+### **`Streaming Services`**
 
 <!-- Netflix -->
 
@@ -845,7 +845,7 @@
 
 # Office & Productivity
 
-## Exam & Test Taking
+### **`Exam & Test Taking`**
 
 <!-- DigiExam -->
 
@@ -865,7 +865,7 @@
 
 </details>
 
-## Note-taking & Task Management
+### **`Note-taking & Task Management`**
 
 <!-- Notion -->
 
@@ -950,7 +950,7 @@
 
 </details>
 
-## Office Suites
+### **`Office Suites`**
 
 <!-- LibreOffice -->
 
@@ -975,7 +975,7 @@
 
 </details>
 
-## Reference Management
+### **`Reference Management`**
 
 <!-- Zotero -->
 
@@ -1001,7 +1001,7 @@
 
 </details>
 
-## Writing & Grammar Tools
+### **`Writing & Grammar Tools`**
 
 <!-- Grammarly -->
 
@@ -1049,7 +1049,7 @@
 
 <!-- ## Antivirus & Malware Protection -->
 
-## Password Managers
+### **`Password Managers`**
 
 <!-- Bitwarden -->
 
@@ -1074,7 +1074,7 @@
 
 # Utilities
 
-## Backup & Sync
+### **`Backup & Sync`**
 
 <!-- Google Drive -->
 
@@ -1094,7 +1094,7 @@
 
 </details>
 
-## File Compression & Extraction
+### **`File Compression & Extraction`**
 
 <!-- 7-Zip -->
 
@@ -1138,7 +1138,7 @@
 
 </details>
 
-## File Management & Search
+### **`File Management & Search`**
 
 <!-- Everything -->
 
@@ -1176,7 +1176,7 @@
 
 </details>
 
-## Keyboard & Input Utilities
+### **`Keyboard & Input Utilities`**
 
 <!-- AutoHotkey -->
 
@@ -1232,7 +1232,7 @@
 
 </details>
 
-## System Utilities
+### **`System Utilities`**
 
 <!-- Core Temp -->
 
@@ -1396,7 +1396,7 @@
 
 </details>
 
-## Other Utilities
+### **`Other Utilities`**
 
 <!-- Camo Studio -->
 
@@ -1490,15 +1490,15 @@
 
 ---
 
-## Conclusion
+### **`Conclusion`**
 
 This list comprises a variety of useful and popular applications, along with their features and app-specific plugins/extensions/themes. The apps cover different categories, catering to various needs and interests.
 
-## Acknowledgments
+### **`Acknowledgments`**
 
 A special thank you to all the developers, organizations, and communities behind these applications. Their hard work and dedication have made these tools indispensable for many users.
 
-## Suggestions and Contact
+### **`Suggestions and Contact`**
 
 If you have any suggestions, questions, or want to recommend an app to be added to the list, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com) or submit an issue on the GitHub repository.
 
