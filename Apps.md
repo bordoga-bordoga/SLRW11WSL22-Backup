@@ -203,7 +203,7 @@
 
   > ###### *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
   >
-  > *Vivaldi is a fast, customizable web browser designed for power users, built using the Chromium engine. It includes features like tab stacking, mouse gestures, and a built-in note-taking tool.*
+  > Vivaldi is a fast, customizable web browser designed for power users, built using the Chromium engine. It includes features like tab stacking, mouse gestures, and a built-in note-taking tool.
   >
   > #### Features
   > - Customizable interface
