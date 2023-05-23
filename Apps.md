@@ -133,6 +133,7 @@
 
   > ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v95.0a1)
   >> ###### **Windows** • **MacOS** • **Linux** • **iOS** • **Android**
+  >
   >> Firefox Nightly is the pre-release version of the Firefox web browser, providing the latest features and updates for testing and feedback before they are integrated into the stable release.
   >
   > #### Features
