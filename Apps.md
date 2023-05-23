@@ -111,7 +111,8 @@
   >> Firefox is a free and open-source web browser that prioritizes user privacy, security, and speed, with a wide range of available add-ons and extensions to enhance functionality.
   >
   >> ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
-  > #### Features
+  >
+  >> #### Features
   > - Fast browsing
   > - Enhanced privacy and security
   > - Customizable interface
