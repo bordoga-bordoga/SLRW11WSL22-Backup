@@ -135,7 +135,7 @@
   >
   >> Firefox Nightly is the pre-release version of the Firefox web browser, providing the latest features and updates for testing and feedback before they are integrated into the stable release.
   >
-  > ###### **Windows** • **MacOS** • **Linux** • **iOS** • **Android**
+  >> ###### **Windows** • **MacOS** • **Linux** • **iOS** • **Android**
   > #### Features
   > - Latest features and updates
   > - Pre-release testing
