@@ -76,7 +76,7 @@
   <summary>
       <table>
         <tr>
-          <td><img width="15" src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png"></td>
+          <td><img width="15" src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" style="vertical-align: middle;"></td>
           <td><strong><a href="https://brave.com/">Brave</a></strong></td>
         </tr>
       </table>
@@ -98,6 +98,7 @@
   >> - [`Brave Wallet`](https://brave.com/brave-wallet/)
   >> - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
 </details>
+
 
 <!-- Firefox -->
 
