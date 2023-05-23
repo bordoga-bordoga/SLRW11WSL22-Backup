@@ -324,6 +324,7 @@
   > - Voice and video calls
   > - File sharing
   > - Group chats and calls
+  >> ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v95.0a1)
 
 </details>
 
