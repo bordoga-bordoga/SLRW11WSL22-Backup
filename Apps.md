@@ -131,7 +131,8 @@
 
   **<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Firefox_Nightly_logo%2C_2019.svg/1971px-Firefox_Nightly_logo%2C_2019.svg.png"> [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)</summary>**
 
-  > ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v95.0a1) \ **Windows** • **MacOS** • **Linux** • **iOS** • **Android**
+  **Windows** • **MacOS** • **Linux** • **iOS** • **Android**
+  > ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v95.0a1)
   >
   >> Firefox Nightly is the pre-release version of the Firefox web browser, providing the latest features and updates for testing and feedback before they are integrated into the stable release.
   >
