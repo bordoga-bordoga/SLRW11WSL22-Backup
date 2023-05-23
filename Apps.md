@@ -2,7 +2,6 @@
 
 # Table of Contents
 
-
 1. [🌐 BROWSERS](#browsers)
 
 2. [💬 COMMUNICATION](#communication)
@@ -56,8 +55,8 @@
 
    - [Password Managers](#password-managers)
 
-<!-- - [Other Security Tools](#other-security-tools) -->
 <!-- - [Antivirus & Malware Protection](#antivirus--malware-protection) -->
+<!-- - [Other Security Tools](#other-security-tools) -->
 
 9. [🔧 UTILITIES](#utilities)
 
@@ -69,8 +68,8 @@
    - [Other Utilities](#other-utilities)
 
 
-# Browsers
 
+# Browsers
 
 <details>
 
