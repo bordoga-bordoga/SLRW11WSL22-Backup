@@ -497,7 +497,7 @@
 
 <details>
 
-  **<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/2101px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"> [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)</summary>**
+  **<summary><img width="15" src="https://www.adobe.com/content/dam/cc1/en/genuine/images/AFC/LR_icon.svg"> [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)</summary>**
 
   > ###### *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v10.4⠀
   >
@@ -521,7 +521,7 @@
 
 <details>
 
-  **<summary><img width="15" src="https://logowik.com/content/uploads/images/adobe-photoshop-cc3131.jpg"> [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)</summary>**
+  **<summary><img width="15" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg"> [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)</summary>**
 
   > ###### *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v22.5.1⠀
   >
@@ -546,7 +546,7 @@
 
 <details>
 
-  **<summary><img width="15" src="LINKKKK"> [Adobe XD](https://www.adobe.com/products/xd.html)</summary>**
+  **<summary><img width="15" src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg"> [Adobe XD](https://www.adobe.com/products/xd.html)</summary>**
 
   > ###### *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v45.0⠀
   >
@@ -572,7 +572,7 @@
 
 <details>
 
-  **<summary><img width="15" src="LINKKKK"> [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)</summary>**
+  **<summary><img width="15" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg"> [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)</summary>**
 
   > ###### *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v18.4.1⠀
   >
@@ -596,7 +596,7 @@
 
 <details>
 
-  **<summary><img width="15" src="LINKKKK"> [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)</summary>**
+  **<summary><img width="15" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/pr_appicon.svg"> [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)</summary>**
 
   > ###### *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v15.4.1⠀
   >
@@ -620,7 +620,7 @@
 
 <details>
 
-  **<summary><img width="15" src="LINKKKK"> [HandBrake](https://handbrake.fr/)</summary>**
+  **<summary><img width="15" src="https://handbrake.fr/img/logo.png"> [HandBrake](https://handbrake.fr/)</summary>**
 
   > ###### *by [The HandBrake Team](https://handbrake.fr/community.php)* – (2021-09, v1.4.2⠀
   >
