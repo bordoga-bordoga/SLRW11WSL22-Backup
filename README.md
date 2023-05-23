@@ -1,8 +1,8 @@
-# Lars Kaggskolan SLRW11WSL22 Backup Repository
+## Lars Kaggskolan SLRW11WSL22 Backup Repository
 
 ## Overview
 
-This repository represents a comprehensive backup of my school laptop while studying at Lars Kaggskolan. It is a diverse compilation of code files, configuration settings, applications, themes, plugins, and browser extensions. This repository serves as a digital chronicle of my educational journey, showcasing my learning progress and personal developments. It also serves as a recovery source in the event of unforeseen hardware failure, loss, or software corruption. 
+This repository represents a comprehensive backup of my school laptop while studying at Lars Kaggskolan. It is a diverse compilation of code files, configuration settings, applications, themes, plugins, and browser extensions. This repository serves as a digital chronicle of my educational journey, showcasing my learning progress and personal developments. It also serves as a recovery source in the event of unforeseen hardware failure, loss, or software corruption.
 
 ## Contents
 

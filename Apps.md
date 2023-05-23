@@ -1,6 +1,6 @@
-# APPLICATIONS
+## APPLICATIONS
 
-# Table of Contents
+## Table of Contents
 
 1. [🌐 BROWSERS](#browsers)
 
@@ -69,7 +69,7 @@
 
 
 
-z# Browsers
+# Browsers
 
 <!-- Brave -->
 
@@ -224,7 +224,7 @@ z# Browsers
 </details>
 
 
-# Communication
+## Communication
 
 ### Email Clients
 
@@ -358,7 +358,7 @@ z# Browsers
 <!-- ## Video Conferencing -->
 
 
-# Development Tools
+## Development Tools
 
 ### Code Editors
 
@@ -391,7 +391,7 @@ z# Browsers
 <!-- ## Version Control -->
 
 
-# Digital Creation
+## Digital Creation
 
 <!-- ## 3D Modeling -->
 
@@ -660,7 +660,7 @@ z# Browsers
 
 </details>
 
-# Gaming
+## Gaming
 
 ### Game Distribution Platforms
 
@@ -691,7 +691,7 @@ z# Browsers
 <!-- ## Game Utilities & Add-ons -->
 
 
-# Media
+## Media
 
 ### Media Players
 
@@ -843,7 +843,7 @@ z# Browsers
 
 </details>
 
-# Office & Productivity
+## Office & Productivity
 
 ### Exam & Test Taking
 
@@ -1045,7 +1045,7 @@ z# Browsers
 
 </details>
 
-# Security
+## Security
 
 <!-- ## Antivirus & Malware Protection -->
 
@@ -1072,7 +1072,7 @@ z# Browsers
 <!-- ## Other Security Tools -->
 
 
-# Utilities
+## Utilities
 
 ### Backup & Sync
 
