@@ -397,7 +397,7 @@
 
 <!-- ## Animation -->
 
-### Audio Editing
+### **Audio Editing**
 
 <!-- Adobe Audition -->
 
@@ -471,7 +471,7 @@
 
 </details>
 
-### Graphic Design
+### **Graphic Design**
 
 <!-- Adobe Illustrator -->
 
@@ -546,7 +546,7 @@
 
 </details>
 
-### User Interface & UX Design
+### **User Interface & UX Design**
 
 <!-- Adobe XD -->
 
@@ -572,7 +572,7 @@
 
 </details>
 
-### Video Editing
+### **Video Editing**
 
 <!-- Adobe After Effects -->
 
@@ -640,7 +640,7 @@
 
 </details>
 
-### Other Digital Creation Tools
+### **Other Digital Creation Tools**
 
 <!-- Adobe Creative Cloud -->
 
