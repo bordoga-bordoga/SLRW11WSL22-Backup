@@ -149,7 +149,7 @@
 
 <details>
 
-  **<summary><img width="15" src="https://www.google.com/favicon.ico"> [Google Chrome](https://www.google.com/chrome/)</summary>**
+  **<summary><img width="15" src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg"> [Google Chrome](https://www.google.com/chrome/)</summary>**
 
   > ###### *by [Google LLC](https://www.google.com)* – (2021-09, v93.0.4577.63)
   >
@@ -225,7 +225,7 @@
 
   <details>
 
-  **<summary><img width="15" src="https://www.pngfind.com/pngs/m/168-1683578_mailspring-support-help-center-home-page-mailspring-icon.png"> [Mailspring](https://getmailspring.com/)</summary>**
+  **<summary><img width="15" src="https://dl2.macupdate.com/images/icons256/62338.png?time=1669664868"> [Mailspring](https://getmailspring.com/)</summary>**
 
   > ###### *by [Foundry 376, LLC.](https://foundry376.com/)* – (2021-09, v1.9.2⠀
   >
