@@ -73,14 +73,8 @@
 <!-- Brave -->
 
 <details>
-  <summary>
-      <table>
-        <tr>
-          <td><img width="15" src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png" style="vertical-align: middle;"></td>
-          <td><strong><a href="https://brave.com/">Brave</a></strong></td>
-        </tr>
-      </table>
-  </summary>
+
+  **<summary><img width="15" src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png"> [Firefox](https://brave.com/)</summary>**
 
   > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
   >
@@ -98,7 +92,6 @@
   >> - [`Brave Wallet`](https://brave.com/brave-wallet/)
   >> - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
 </details>
-
 
 <!-- Firefox -->
 
