@@ -5,6 +5,25 @@
 
 # Table of Contents
 
+
+<style>
+    ol > li > ul > li > a {
+        color: purple;
+    }
+</style>
+<ol>
+    <li>
+        <a href="#communication">💬 COMMUNICATION</a>
+        <ul>
+            <li><a href="#email-clients">Email Clients</a></li>
+            <li><a href="#messaging--chat">Messaging & Chat</a></li>
+            <li><a href="#social-media">Social Media</a></li>
+            <!-- <li><a href="#video-conferencing">Video Conferencing</a></li> -->
+        </ul>
+    </li>
+</ol>
+
+
 1. [🌐 BROWSERS](#browsers)
 <!---->
 
