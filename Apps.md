@@ -106,6 +106,8 @@
 
   **<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png"> [Firefox](https://www.mozilla.org/en-US/firefox/new/)</summary>**
 
+  >> ###### **Windows** • **MacOS** • **Linux** • **iOS** • **Android**
+  >
   >> ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
   >
   >> Firefox is a free and open-source web browser that prioritizes user privacy, security, and speed, with a wide range of available add-ons and extensions to enhance functionality.
@@ -122,7 +124,6 @@
   >> - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
   >> - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
   >
-  >> ###### **Windows** • **MacOS** • **Linux** • **iOS** • **Android**
 
 </details>
 
