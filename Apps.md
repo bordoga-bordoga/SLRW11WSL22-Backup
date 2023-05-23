@@ -225,8 +225,7 @@
 
 # Communication
 
->> ### **`Email Clients`**
-<div style="font-size: 5.5em;">Email Clients</div>
+>>>>> ## **`Email Clients`**
 
 <!-- Mailspring -->
 
