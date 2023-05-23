@@ -225,7 +225,7 @@
 
 # Communication
 
->>> ### `Email Clients`
+>> ### **`Email Clients`**
 
 <!-- Mailspring -->
 
