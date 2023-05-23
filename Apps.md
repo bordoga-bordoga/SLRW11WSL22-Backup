@@ -85,7 +85,7 @@
 
   > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
   >
-  >> *Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.*
+  >> Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.
   >
   > #### Features
   > - Built-in ad blocker
@@ -108,7 +108,7 @@
 
   > ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
   >
-  >> *Firefox is a free and open-source web browser that prioritizes user privacy, security, and speed, with a wide range of available add-ons and extensions to enhance functionality.*
+  >> Firefox is a free and open-source web browser that prioritizes user privacy, security, and speed, with a wide range of available add-ons and extensions to enhance functionality.
   >
   > #### Features
   > - Fast browsing
@@ -132,7 +132,7 @@
 
   > ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v95.0a1)
   >
-  >> *Firefox Nightly is the pre-release version of the Firefox web browser, providing the latest features and updates for testing and feedback before they are integrated into the stable release.*
+  >> Firefox Nightly is the pre-release version of the Firefox web browser, providing the latest features and updates for testing and feedback before they are integrated into the stable release.
   >
   > #### Features
   > - Latest features and updates
@@ -156,7 +156,7 @@
 
   > ###### *by [Google LLC](https://www.google.com)* – (2021-09, v93.0.4577.63)
   >
-  >> *Google Chrome is a fast, secure, and versatile web browser developed by Google, featuring a clean user interface, robust extension support, and integration with Google services.*
+  >> Google Chrome is a fast, secure, and versatile web browser developed by Google, featuring a clean user interface, robust extension support, and integration with Google services.
   >
   > #### Features
   > - Fast browsing
@@ -180,7 +180,7 @@
 
   > ###### *by [Opera Software](https://www.opera.com)* – (2021-09, 79.0)
   >
-  >> *Opera Browser is a fast and secure web browser featuring a built-in ad blocker, free VPN, and customizable Speed Dial for quick access to your favorite websites.*
+  >> Opera Browser is a fast and secure web browser featuring a built-in ad blocker, free VPN, and customizable Speed Dial for quick access to your favorite websites.
   >
   > #### Features
   > - Built-in ad blocker
@@ -203,7 +203,7 @@
 
   > ###### *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
   >
-  >> *Vivaldi is a fast, customizable web browser designed for power users, built using the Chromium engine. It includes features like tab stacking, mouse gestures, and a built-in note-taking tool.*
+  >> Vivaldi is a fast, customizable web browser designed for power users, built using the Chromium engine. It includes features like tab stacking, mouse gestures, and a built-in note-taking tool.
   >
   > #### Features
   > - Customizable interface
@@ -232,7 +232,7 @@
 
   > ###### *by [Foundry 376, LLC.](https://foundry376.com/)* – (2021-09, v1.9.2⠀
   >
-  >> *Mailspring is a powerful and modern email client that supports all major email providers and offers features such as unified inbox, advanced search, and customizable themes.*
+  >> Mailspring is a powerful and modern email client that supports all major email providers and offers features such as unified inbox, advanced search, and customizable themes.
   >
   > #### Features
   > - Unified inbox
@@ -256,7 +256,7 @@
 
   > ###### *by [Discord Inc.](https://discord.com)* – (2021-09, v1.0.9003⠀
   >
-  >> *Discord is a voice, video, and text communication platform designed primarily for gaming communities, but also used for a wide range of social and professional groups.*
+  >> Discord is a voice, video, and text communication platform designed primarily for gaming communities, but also used for a wide range of social and professional groups.
   >
   > #### Features
   > - Voice, video, and text chat
@@ -280,7 +280,7 @@
 
   > ###### *by [Guilded Inc.](https://www.guilded.gg)* – (2021-09⠀
   >
-  >> *Guilded is a chat and collaboration platform designed for gaming communities, offering advanced features such as text and voice channels, scheduling, and team management.*
+  >> Guilded is a chat and collaboration platform designed for gaming communities, offering advanced features such as text and voice channels, scheduling, and team management.
   >
   > #### Features
   > - Text and voice channels
@@ -296,7 +296,7 @@
 
   **<summary><img width="15" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png"> [Signal](https://signal.org/)</summary>**⠀
 
-  >> *Signal is a privacy-focused messaging app that offers end-to-end encryption, ensuring that your messages, calls, and media stay secure and private.*
+  >> Signal is a privacy-focused messaging app that offers end-to-end encryption, ensuring that your messages, calls, and media stay secure and private.
   >
   #### Features
   > - End-to-end encryption
@@ -314,7 +314,7 @@
 
   > ###### *by [Microsoft](https://www.microsoft.com)* – (2021-09, 8.77.0.97⠀
   >
-  >> *Skype is a communication platform that offers instant messaging, voice calls, video calls, and file sharing, making it easy to stay connected with friends and family.ä
+  >> Skype is a communication platform that offers instant messaging, voice calls, video calls, and file sharing, making it easy to stay connected with friends and family.
   >
   > #### Features
   > - Instant messaging
@@ -334,7 +334,7 @@
 
   > ###### *by [Twitter Inc.](https://www.twitter.com)* – (2021-09, 8.68.0⠀
   >
-  >> *Twitter is a social media platform that allows users to send and receive short messages called "tweets." Users can follow other users, share tweets, and interact with others through replies and retweets.*
+  >> Twitter is a social media platform that allows users to send and receive short messages called "tweets." Users can follow other users, share tweets, and interact with others through replies and retweets.
   >
   > #### Features
   > - Real-time communication
@@ -365,7 +365,7 @@
 
   > ###### *by [Microsoft](https://www.microsoft.com)* – (2021-09, 1.60⠀
   >
-  >> *Visual Studio Code is a lightweight, open-source code editor that supports syntax highlighting, intelligent code completion, debugging, version control, and more for a wide variety of programming languages.*
+  >> Visual Studio Code is a lightweight, open-source code editor that supports syntax highlighting, intelligent code completion, debugging, version control, and more for a wide variety of programming languages.
   >
   > #### Features
   > - Intelligent code completion
@@ -402,7 +402,7 @@
 
   > ###### *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v14.4⠀
   >
-  >> *Adobe Audition is a comprehensive toolset that includes multitrack, waveform, and spectral display for creating, mixing, editing, and restoring audio content.*
+  >> Adobe Audition is a comprehensive toolset that includes multitrack, waveform, and spectral display for creating, mixing, editing, and restoring audio content.
   >
   > #### Features
   > - Multitrack recording
@@ -426,7 +426,7 @@
 
   > ###### *by [OBS Project](https://obsproject.com)* – (2021-09, 27.1.3⠀
   >
-  >> *OBS Studio is a free and open-source software for video recording and live streaming, allowing you to create professional-quality videos and stream to various platforms like Twitch and YouTube.*
+  >> OBS Studio is a free and open-source software for video recording and live streaming, allowing you to create professional-quality videos and stream to various platforms like Twitch and YouTube.
   >
   > #### Features
   > - Video recording
