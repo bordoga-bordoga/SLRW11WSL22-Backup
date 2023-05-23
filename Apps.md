@@ -9,9 +9,9 @@
 
 2. [💬 COMMUNICATION](#communication)
 
-   - [Email Clients](#email-clients)
-   - [Messaging & Chat](#messaging--chat)
-   - [Social Media](#social-media)
+    - [Email Clients](#email-clients)
+    - [Messaging & Chat](#messaging--chat)
+    - [Social Media](#social-media)
 <!-- - [Video Conferencing](#video-conferencing) -->
 
 3. [🛠️ DEVELOPMENT TOOLS](#development-tools)
