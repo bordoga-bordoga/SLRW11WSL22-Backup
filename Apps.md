@@ -85,7 +85,7 @@
 
   > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
   >
-  > > *Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.*
+  >> *Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.*
   >
   > #### Features
   > - Built-in ad blocker
@@ -94,10 +94,10 @@
   > - Chrome extension compatibility
   >
   > #### App-specific plugins/extensions/themes:
-  > > - [`Brave Shields`](https://support.brave.com/hc/en-us/articles/360022973471-What-is-Shields-)
-  > > - [`Brave Rewards`](https://brave.com/brave-rewards/)
-  > > - [`Brave Wallet`](https://brave.com/brave-wallet/)
-  > > - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
+  >> - [`Brave Shields`](https://support.brave.com/hc/en-us/articles/360022973471-What-is-Shields-)
+  >> - [`Brave Rewards`](https://brave.com/brave-rewards/)
+  >> - [`Brave Wallet`](https://brave.com/brave-wallet/)
+  >> - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
 </details>
 
 <!-- Firefox -->
@@ -108,7 +108,7 @@
 
   > ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
   >
-  > > *Firefox is a free and open-source web browser that prioritizes user privacy, security, and speed, with a wide range of available add-ons and extensions to enhance functionality.*
+  >> *Firefox is a free and open-source web browser that prioritizes user privacy, security, and speed, with a wide range of available add-ons and extensions to enhance functionality.*
   >
   > #### Features
   > - Fast browsing
@@ -117,10 +117,10 @@
   > - Extensive add-on support
   >
   > #### App-specific plugins/extensions/themes:
-  > > - [`uBlock Origin`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-  > > - [`Privacy Badger`](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
-  > > - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
-  > > - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
+  >> - [`uBlock Origin`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+  >> - [`Privacy Badger`](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+  >> - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+  >> - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
 
 </details>
 
@@ -132,7 +132,7 @@
 
   > ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v95.0a1)
   >
-  > > *Firefox Nightly is the pre-release version of the Firefox web browser, providing the latest features and updates for testing and feedback before they are integrated into the stable release.*
+  >> *Firefox Nightly is the pre-release version of the Firefox web browser, providing the latest features and updates for testing and feedback before they are integrated into the stable release.*
   >
   > #### Features
   > - Latest features and updates
@@ -141,10 +141,10 @@
   > - Compatible with Firefox add-ons
   >
   > #### App-specific plugins/extensions/themes:
-  > > - [`uBlock Origin`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-  > > - [`Privacy Badger`](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
-  > > - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
-  > > - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
+  >> - [`uBlock Origin`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+  >> - [`Privacy Badger`](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+  >> - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+  >> - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
 
 </details>
 
@@ -156,7 +156,7 @@
 
   > ###### *by [Google LLC](https://www.google.com)* – (2021-09, v93.0.4577.63)
   >
-  > > *Google Chrome is a fast, secure, and versatile web browser developed by Google, featuring a clean user interface, robust extension support, and integration with Google services.*
+  >> *Google Chrome is a fast, secure, and versatile web browser developed by Google, featuring a clean user interface, robust extension support, and integration with Google services.*
   >
   > #### Features
   > - Fast browsing
@@ -165,10 +165,10 @@
   > - Extensive extension support
   >
   > #### App-specific plugins/extensions/themes:
-  > > - [`uBlock Origin`](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-  > > - [`Privacy Badger`](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
-  > > - [`Dark Reader`](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
-  > > - [`···`](https://chrome.google.com/webstore/category/extensions)
+  >> - [`uBlock Origin`](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+  >> - [`Privacy Badger`](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+  >> - [`Dark Reader`](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+  >> - [`···`](https://chrome.google.com/webstore/category/extensions)
 
 </details>
 
@@ -180,7 +180,7 @@
 
   > ###### *by [Opera Software](https://www.opera.com)* – (2021-09, 79.0)
   >
-  > > *Opera Browser is a fast and secure web browser featuring a built-in ad blocker, free VPN, and customizable Speed Dial for quick access to your favorite websites.*
+  >> *Opera Browser is a fast and secure web browser featuring a built-in ad blocker, free VPN, and customizable Speed Dial for quick access to your favorite websites.*
   >
   > #### Features
   > - Built-in ad blocker
@@ -189,9 +189,9 @@
   > - Integrated messaging and social media apps
   >
   > #### App-specific plugins/extensions/themes:
-  > > - [`Opera Extensions`](https://addons.opera.com/en/extensions/)
-  > > - [`Opera Themes`](https://addons.opera.com/en/themes/)
-  > > - [`···`](https://addons.opera.com/)
+  >> - [`Opera Extensions`](https://addons.opera.com/en/extensions/)
+  >> - [`Opera Themes`](https://addons.opera.com/en/themes/)
+  >> - [`···`](https://addons.opera.com/)
 
 </details>
 
@@ -203,7 +203,7 @@
 
   > ###### *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
   >
-  > > *Vivaldi is a fast, customizable web browser designed for power users, built using the Chromium engine. It includes features like tab stacking, mouse gestures, and a built-in note-taking tool.*
+  >> *Vivaldi is a fast, customizable web browser designed for power users, built using the Chromium engine. It includes features like tab stacking, mouse gestures, and a built-in note-taking tool.*
   >
   > #### Features
   > - Customizable interface
@@ -212,10 +212,10 @@
   > - Mouse gestures and keyboard shortcuts
   >
   > #### App-specific plugins/extensions/themes:
-  > > - [`Vivaldi Themes`](https://vivaldi.com/themes/)
-  > > - [`Vivaldi Forum Modding`](https://forum.vivaldi.net/category/52/modifications)
-  > > - [`Web Panels`](https://help.vivaldi.com/article/web-panels/)
-  > > - [`···`](https://example.com/)
+  >> - [`Vivaldi Themes`](https://vivaldi.com/themes/)
+  >> - [`Vivaldi Forum Modding`](https://forum.vivaldi.net/category/52/modifications)
+  >> - [`Web Panels`](https://help.vivaldi.com/article/web-panels/)
+  >> - [`···`](https://example.com/)
 
 </details>
 
@@ -232,7 +232,7 @@
 
   > ###### *by [Foundry 376, LLC.](https://foundry376.com/)* – (2021-09, v1.9.2⠀
   >
-  > > *Mailspring is a powerful and modern email client that supports all major email providers and offers features such as unified inbox, advanced search, and customizable themes.*
+  >> *Mailspring is a powerful and modern email client that supports all major email providers and offers features such as unified inbox, advanced search, and customizable themes.*
   >
   > #### Features
   > - Unified inbox
@@ -241,8 +241,8 @@
   > - Email tracking
   >
   > #### App-specific plugins/extensions/themes:
-  > > - [`Mailspring Themes`](https://github.com/Foundry376/Mailspring-Theme-Starter)
-  > > - [`···`](https://getmailspring.com/)
+  >> - [`Mailspring Themes`](https://github.com/Foundry376/Mailspring-Theme-Starter)
+  >> - [`···`](https://getmailspring.com/)
 
 </details>
 
@@ -276,17 +276,17 @@
 
 <details>
 
-  **<summary><img width="15" src="https://theme.zdassets.com/theme_assets/9580103/07defec28cdc4dca22ce6e2154b1c2299346fe5f.png"> [Guilded](https://www.guilded.gg/)</summary>**
-
-  ###### *by [Guilded Inc.](https://www.guilded.gg)* – (2021-09⠀
-
-  Guilded is a chat and collaboration platform designed for gaming communities, offering advanced features such as text and voice channels, scheduling, and team management.
-
-  #### Features
-  > - Text and voice channels
-  > - Event scheduling
-  > - Team management
-  > - Integrated streaming
+  > **<summary><img width="15" src="https://theme.zdassets.com/theme_assets/9580103/07defec28cdc4dca22ce6e2154b1c2299346fe5f.png"> [Guilded](https://www.guilded.gg/)</summary>**
+  > 
+  > ###### *by [Guilded Inc.](https://www.guilded.gg)* – (2021-09⠀
+  >
+  >> Guilded is a chat and collaboration platform designed for gaming communities, offering advanced features such as text and voice channels, scheduling, and team management.
+  >
+  > #### Features
+  >> - Text and voice channels
+  >> - Event scheduling
+  >> - Team management
+  >> - Integrated streaming
 
 </details>
 
