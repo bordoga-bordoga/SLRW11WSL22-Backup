@@ -22,15 +22,15 @@
 
 4. [🎨 DIGITAL CREATION](#digital-creation)
 
-<!-- - [3D Modeling](#3d-modeling) -->
-<!-- - [Animation](#animation) -->
-
    - [Audio Editing](#audio-editing)
    - [Graphic Design](#graphic-design)
    - [Photography & Image Editing](#photography--image-editing)
    - [User Interface & UX Design](#user-interface--ux-design)
    - [Video Editing](#video-editing)
    - [Other Digital Creation Tools](#other-digital-creation-tools)
+
+<!-- - [3D Modeling](#3d-modeling) -->
+<!-- - [Animation](#animation) -->
 
 5. [🎮 GAMING](#gaming)
 
@@ -54,11 +54,10 @@
 
 8. [🔒 SECURITY](#security)
 
-<!-- - [Antivirus & Malware Protection](#antivirus--malware-protection) -->
-
    - [Password Managers](#password-managers)
 
 <!-- - [Other Security Tools](#other-security-tools) -->
+<!-- - [Antivirus & Malware Protection](#antivirus--malware-protection) -->
 
 9. [🔧 UTILITIES](#utilities)
 
