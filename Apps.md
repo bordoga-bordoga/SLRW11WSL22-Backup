@@ -74,30 +74,30 @@
 <!-- Brave -->
 
 <details>
-    <summary>
-        <table>
-          <tr>
-            <td><img width="15" src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png"></td>
-            <td><strong><a href="https://brave.com/">Brave</a></strong></td>
-          </tr>
-        </table>
-    </summary>
+  <summary>
+      <table>
+        <tr>
+          <td><img width="15" src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png"></td>
+          <td><strong><a href="https://brave.com/">Brave</a></strong></td>
+        </tr>
+      </table>
+  </summary>
 
-    > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
-    >
-    > > *Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.*
-    >
-    > #### Features
-    > - Built-in ad blocker
-    > - Privacy protection
-    > - Speed optimization
-    > - Chrome extension compatibility
-    >
-    > #### App-specific plugins/extensions/themes:
-    > > - [`Brave Shields`](https://support.brave.com/hc/en-us/articles/360022973471-What-is-Shields-)
-    > > - [`Brave Rewards`](https://brave.com/brave-rewards/)
-    > > - [`Brave Wallet`](https://brave.com/brave-wallet/)
-    > > - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
+  > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
+  >
+  > > *Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.*
+  >
+  > #### Features
+  > - Built-in ad blocker
+  > - Privacy protection
+  > - Speed optimization
+  > - Chrome extension compatibility
+  >
+  > #### App-specific plugins/extensions/themes:
+  > > - [`Brave Shields`](https://support.brave.com/hc/en-us/articles/360022973471-What-is-Shields-)
+  > > - [`Brave Rewards`](https://brave.com/brave-rewards/)
+  > > - [`Brave Wallet`](https://brave.com/brave-wallet/)
+  > > - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
 </details>
 
 <!-- Firefox -->
@@ -203,7 +203,7 @@
 
   > ###### *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
   >
-  > > *Vivaldi is a fast, customizable web browser designed for power users, built using the Chromium engine. It includes features like tab stacking, mouse gestures, and a built-in note-taking tool.*
+  > *Vivaldi is a fast, customizable web browser designed for power users, built using the Chromium engine. It includes features like tab stacking, mouse gestures, and a built-in note-taking tool.*
   >
   > #### Features
   > - Customizable interface
@@ -232,7 +232,7 @@
 
   > ###### *by [Foundry 376, LLC.](https://foundry376.com/)* – (2021-09, v1.9.2⠀
   >
-  > Mailspring is a powerful and modern email client that supports all major email providers and offers features such as unified inbox, advanced search, and customizable themes.
+  > > *Mailspring is a powerful and modern email client that supports all major email providers and offers features such as unified inbox, advanced search, and customizable themes.*
   >
   > #### Features
   > - Unified inbox
