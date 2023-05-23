@@ -225,7 +225,7 @@
 
   <details>
 
-  **<summary><img width="15" src="https://dl2.macupdate.com/images/icons256/62338.png?time=1669664868"> [Mailspring](https://getmailspring.com/)</summary>**
+  **<summary><img width="15" src="https://img.icons8.com/?size=512&id=WYTCVRrKbgST&format=png"> [Mailspring](https://getmailspring.com/)</summary>**
 
   > ###### *by [Foundry 376, LLC.](https://foundry376.com/)* – (2021-09, v1.9.2⠀
   >
