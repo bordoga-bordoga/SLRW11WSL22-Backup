@@ -74,7 +74,7 @@
 
 <details>
 
-  **<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Firefox_logo%2C_2019.png"> [Firefox](https://brave.com/)</summary>**
+  **<summary><img width="15" src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png"> [Brave](https://brave.com/)</summary>**
 
   > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
   >
@@ -97,7 +97,7 @@
 
 <details>
 
-  **<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png"> [Firefox](https://www.mozilla.org/en-US/firefox/new/)</summary>**
+  **<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Firefox_logo%2C_2019.png"> [Firefox](https://www.mozilla.org/en-US/firefox/new/)</summary>**
 
   >> ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
   >
