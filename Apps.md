@@ -74,7 +74,7 @@
 
 <details>
 
-  **<summary><img width="15" src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png"> [Firefox](https://brave.com/)</summary>**
+  **<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Firefox_logo%2C_2019.png"> [Firefox](https://brave.com/)</summary>**
 
   > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
   >
