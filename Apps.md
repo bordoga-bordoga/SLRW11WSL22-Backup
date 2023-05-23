@@ -1,50 +1,30 @@
-
-
-
 # APPLICATIONS
 
 # Table of Contents
 
 
-<style>
-    ol > li > ul > li > a {
-        color: purple;
-    }
-</style>
-<ol>
-    <li>
-        <a href="#communication">💬 COMMUNICATION</a>
-        <ul>
-            <li><a href="#email-clients">Email Clients</a></li>
-            <li><a href="#messaging--chat">Messaging & Chat</a></li>
-            <li><a href="#social-media">Social Media</a></li>
-            <!-- <li><a href="#video-conferencing">Video Conferencing</a></li> -->
-        </ul>
-    </li>
-</ol>
-
-
 1. [🌐 BROWSERS](#browsers)
-<!---->
 
 2. [💬 COMMUNICATION](#communication)
 
-<!---->
     - [Email Clients](#email-clients)
     - [Messaging & Chat](#messaging--chat)
     - [Social Media](#social-media)
+
 <!-- - [Video Conferencing](#video-conferencing) -->
 
 3. [🛠️ DEVELOPMENT TOOLS](#development-tools)
-<!---->
+
    - [Code Editors](#code-editors)
+
 <!-- - [IDEs](#ides) -->
 <!-- - [Version Control](#version-control) -->
 
 4. [🎨 DIGITAL CREATION](#digital-creation)
-<!---->
+
 <!-- - [3D Modeling](#3d-modeling) -->
 <!-- - [Animation](#animation) -->
+
    - [Audio Editing](#audio-editing)
    - [Graphic Design](#graphic-design)
    - [Photography & Image Editing](#photography--image-editing)
@@ -53,18 +33,19 @@
    - [Other Digital Creation Tools](#other-digital-creation-tools)
 
 5. [🎮 GAMING](#gaming)
-<!---->
+
    - [Game Distribution Platforms](#game-distribution-platforms)
+
 <!-- - [Game Utilities & Add-ons](#game-utilities--add-ons) -->
 
 6. [🎥 MEDIA](#media)
-<!---->
+
    - ⠀⠀[Media Players](#media-players)
    - ⠀⠀[Podcasts & Audiobooks](#podcasts--audiobooks)
    - ⠀⠀[Streaming Services](#streaming-services)
 
 7. [📚 OFFICE & PRODUCTIVITY](#office--productivity)
-<!---->
+
    - [Exam & Test Taking](#exam--test-taking)
    - [Note-taking & Task Management](#note-taking--task-management)
    - [Office Suites](#office-suites)
@@ -72,13 +53,15 @@
    - [Writing & Grammar Tools](#writing--grammar-tools)
 
 8. [🔒 SECURITY](#security)
-<!---->
+
 <!-- - [Antivirus & Malware Protection](#antivirus--malware-protection) -->
+
    - [Password Managers](#password-managers)
+
 <!-- - [Other Security Tools](#other-security-tools) -->
 
 9. [🔧 UTILITIES](#utilities)
-<!---->
+
    - [Backup & Sync](#backup--sync)
    - [File Compression & Extraction](#file-compression--extraction)
    - [File Management & Search](#file-management--search)
