@@ -203,7 +203,7 @@
 
   > ###### *by [Vivaldi Technologies](https://vivaldi.com)* – (2021-09, 4.2)
   >
-  > > Vivaldi is a fast, customizable web browser designed for power users, built using the Chromium engine. It includes features like tab stacking, mouse gestures, and a built-in note-taking tool.
+  > > *Vivaldi is a fast, customizable web browser designed for power users, built using the Chromium engine. It includes features like tab stacking, mouse gestures, and a built-in note-taking tool.*
   >
   > #### Features
   > - Customizable interface
@@ -254,11 +254,11 @@
 
   **<summary><img width="15" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> [Discord](https://discord.com/)</summary>**
 
-  ###### *by [Discord Inc.](https://discord.com)* – (2021-09, v1.0.9003⠀
-
-  Discord is a voice, video, and text communication platform designed primarily for gaming communities, but also used for a wide range of social and professional groups.
-
-  #### Features
+  > ###### *by [Discord Inc.](https://discord.com)* – (2021-09, v1.0.9003⠀
+  >
+  >> *Discord is a voice, video, and text communication platform designed primarily for gaming communities, but also used for a wide range of social and professional groups.*
+  >
+  > #### Features
   > - Voice, video, and text chat
   > - Server and channel organization
   > - Screen sharing
