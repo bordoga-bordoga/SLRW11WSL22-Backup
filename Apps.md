@@ -471,7 +471,7 @@
 
 <details>
 
-  **<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/640px-Adobe_Illustrator_CC_icon.svg.png"> [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)</summary>**
+  **<summary><img width="15" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg"> [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)</summary>**
 
   > ###### *by [Adobe Inc.](https://www.adobe.com)* – (2021-09, v25.4.1⠀
   >
