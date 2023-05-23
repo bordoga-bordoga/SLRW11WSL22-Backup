@@ -72,55 +72,53 @@
 # Browsers
 
 <details>
+    <summary>
+        <table>
+          <tr>
+            <td><img width="15" src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png"></td>
+            <td><strong><a href="https://brave.com/">Brave</a></strong></td>
+          </tr>
+        </table>
+    </summary>
 
-<summary>
-<table>
-  <tr>
-    <td><img width="15" src="https://logodownload.org/wp-content/uploads/2022/04/brave-logo-1.png"></td>
-    <td><strong><a href="https://brave.com/">Brave</a></strong></td>
-  </tr>
-</table>
-</summary>
-
-> ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
->
-> > *Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.*
->
-> #### Features
-> - Built-in ad blocker
-> - Privacy protection
-> - Speed optimization
-> - Chrome extension compatibility
->
-> #### App-specific plugins/extensions/themes:
-> > - [`Brave Shields`](https://support.brave.com/hc/en-us/articles/360022973471-What-is-Shields-)
-> > - [`Brave Rewards`](https://brave.com/brave-rewards/)
-> > - [`Brave Wallet`](https://brave.com/brave-wallet/)
-> > - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
-
+    > ###### *by [Brave Software Inc.](https://brave.com)* – (2021-09, v1.30.86)
+    >
+    > > *Brave is a free and open-source web browser that emphasizes privacy, security, and speed by blocking trackers, ads, and other privacy-invading elements.*
+    >
+    > #### Features
+    > - Built-in ad blocker
+    > - Privacy protection
+    > - Speed optimization
+    > - Chrome extension compatibility
+    >
+    > #### App-specific plugins/extensions/themes:
+    > > - [`Brave Shields`](https://support.brave.com/hc/en-us/articles/360022973471-What-is-Shields-)
+    > > - [`Brave Rewards`](https://brave.com/brave-rewards/)
+    > > - [`Brave Wallet`](https://brave.com/brave-wallet/)
+    > > - [`···`](https://chrome.google.com/webstore/category/extensions?hl=en)
 </details>
 
 
 <details>
+    <summary>
+       **<img width="15" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png"> [Firefox](https://www.mozilla.org/en-US/firefox/new/)**
+    </summary>
 
-**<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png"> [Firefox](https://www.mozilla.org/en-US/firefox/new/)</summary>**
-
-> ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
->
-> > *Firefox is a free and open-source web browser that prioritizes user privacy, security, and speed, with a wide range of available add-ons and extensions to enhance functionality.*
->
-> #### Features
-> - Fast browsing
-> - Enhanced privacy and security
-> - Customizable interface
-> - Extensive add-on support
->
-> #### App-specific plugins/extensions/themes:
-> > - [`uBlock Origin`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-> > - [`Privacy Badger`](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
-> > - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
-> > - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
-
+    > ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
+    >
+    > > *Firefox is a free and open-source web browser that prioritizes user privacy, security, and speed, with a wide range of available add-ons and extensions to enhance functionality.*
+    >
+    > #### Features
+    > - Fast browsing
+    > - Enhanced privacy and security
+    > - Customizable interface
+    > - Extensive add-on support
+    >
+    > #### App-specific plugins/extensions/themes:
+    > > - [`uBlock Origin`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+    > > - [`Privacy Badger`](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+    > > - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+    > > - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
 </details>
 
 <details>
