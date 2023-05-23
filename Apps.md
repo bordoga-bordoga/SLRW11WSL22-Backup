@@ -6,24 +6,23 @@
 # Table of Contents
 
 1. [🌐 BROWSERS](#browsers)
+<!---->
 
 2. [💬 COMMUNICATION](#communication)
 
-<!-- -->
+<!---->
     - [Email Clients](#email-clients)
     - [Messaging & Chat](#messaging--chat)
     - [Social Media](#social-media)
 <!-- - [Video Conferencing](#video-conferencing) -->
 
 3. [🛠️ DEVELOPMENT TOOLS](#development-tools)
-
 <!---->
    - [Code Editors](#code-editors)
 <!-- - [IDEs](#ides) -->
 <!-- - [Version Control](#version-control) -->
 
 4. [🎨 DIGITAL CREATION](#digital-creation)
-
 <!---->
 <!-- - [3D Modeling](#3d-modeling) -->
 <!-- - [Animation](#animation) -->
@@ -35,20 +34,17 @@
    - [Other Digital Creation Tools](#other-digital-creation-tools)
 
 5. [🎮 GAMING](#gaming)
-
 <!---->
    - [Game Distribution Platforms](#game-distribution-platforms)
 <!-- - [Game Utilities & Add-ons](#game-utilities--add-ons) -->
 
 6. [🎥 MEDIA](#media)
-
 <!---->
-   - [Media Players](#media-players)
-   - [Podcasts & Audiobooks](#podcasts--audiobooks)
-   - [Streaming Services](#streaming-services)
+   ⠀⠀- [Media Players](#media-players)
+   ⠀⠀- [Podcasts & Audiobooks](#podcasts--audiobooks)
+   ⠀⠀- [Streaming Services](#streaming-services)
 
 7. [📚 OFFICE & PRODUCTIVITY](#office--productivity)
-
 <!---->
    - [Exam & Test Taking](#exam--test-taking)
    - [Note-taking & Task Management](#note-taking--task-management)
@@ -57,14 +53,12 @@
    - [Writing & Grammar Tools](#writing--grammar-tools)
 
 8. [🔒 SECURITY](#security)
-
 <!---->
 <!-- - [Antivirus & Malware Protection](#antivirus--malware-protection) -->
    - [Password Managers](#password-managers)
 <!-- - [Other Security Tools](#other-security-tools) -->
 
 9. [🔧 UTILITIES](#utilities)
-
 <!---->
    - [Backup & Sync](#backup--sync)
    - [File Compression & Extraction](#file-compression--extraction)
