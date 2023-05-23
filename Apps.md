@@ -120,25 +120,23 @@
 </details>
 
 <details>
+    **<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Firefox_Nightly_logo%2C_2019.svg/1971px-Firefox_Nightly_logo%2C_2019.svg.png"> [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)</summary>**
 
-**<summary><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Firefox_Nightly_logo%2C_2019.svg/1971px-Firefox_Nightly_logo%2C_2019.svg.png"> [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)</summary>**
-
-> ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v95.0a1)
->
-> > *Firefox Nightly is the pre-release version of the Firefox web browser, providing the latest features and updates for testing and feedback before they are integrated into the stable release.*
->
-> #### Features
-> - Latest features and updates
-> - Pre-release testing
-> - Bug reporting and feedback
-> - Compatible with Firefox add-ons
->
-> #### App-specific plugins/extensions/themes:
-> > - [`uBlock Origin`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-> > - [`Privacy Badger`](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
-> > - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
-> > - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
-
+    > ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v95.0a1)
+    >
+    > > *Firefox Nightly is the pre-release version of the Firefox web browser, providing the latest features and updates for testing and feedback before they are integrated into the stable release.*
+    >
+    > #### Features
+    > - Latest features and updates
+    > - Pre-release testing
+    > - Bug reporting and feedback
+    > - Compatible with Firefox add-ons
+    >
+    > #### App-specific plugins/extensions/themes:
+    > > - [`uBlock Origin`](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+    > > - [`Privacy Badger`](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+    > > - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+    > > - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
 </details>
 
 <details>
