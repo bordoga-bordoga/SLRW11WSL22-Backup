@@ -108,7 +108,7 @@
 
   >> ###### **Windows** • **MacOS** • **Linux** • **iOS** • **Android**
   >
-  >> ###### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
+  >> ##### *by [Mozilla Corporation](https://www.mozilla.org)* – (2021-09, v92.0)
   >
   >> Firefox is a free and open-source web browser that prioritizes user privacy, security, and speed, with a wide range of available add-ons and extensions to enhance functionality.
   >
@@ -123,7 +123,6 @@
   >> - [`Privacy Badger`](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
   >> - [`Dark Reader`](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
   >> - [`···`](https://addons.mozilla.org/en-US/firefox/extensions/)
-  >
 
 </details>
 
